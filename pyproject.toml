@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=64", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "european_football_analysis"
+version = "0.0.1"
+description = ""
+authors = [{name = "rashidmajid", email = "residmecid07@gmail.com"}]
+dependencies = [
+    "pandas",
+    "numpy",
+    "seaborn",
+]
