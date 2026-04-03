@@ -1,0 +1,4183 @@
+player_id,name,league,position,market_value
+804508,Viktor Gyökeres,Premier League,F,61000000.0
+934235,Bukayo Saka,Premier League,F,126000000.0
+794839,Gabriel Jesus,Premier League,F,21000000.0
+922573,Gabriel Martinelli,Premier League,F,42000000.0
+836705,Kai Havertz,Premier League,F,48000000.0
+864921,Eberechi Eze,Premier League,F,63000000.0
+135666,Leandro Trossard,Premier League,F,21000000.0
+547410,Martin Ødegaard,Premier League,M,71000000.0
+856714,Declan Rice,Premier League,M,114000000.0
+966547,Noni Madueke,Premier League,M,54000000.0
+592010,Mikel Merino,Premier League,M,31000000.0
+1917626,Max Dowman,Premier League,M,21000000.0
+966837,Martín Zubimendi,Premier League,M,82000000.0
+135256,Christian Nørgaard,Premier League,M,6700000.0
+869792,Gabriel Magalhães,Premier League,D,70000000.0
+941168,William Saliba,Premier League,D,85000000.0
+1002837,Piero Hincapié,Premier League,D,46000000.0
+957602,Riccardo Calafiori,Premier League,D,49000000.0
+958959,Jurriën Timber,Premier League,D,73000000.0
+1423711,Myles Lewis-Skelly,Premier League,D,37000000.0
+1144630,Cristhian Mosquera,Premier League,D,33000000.0
+846036,Ben White,Premier League,D,27000000.0
+581310,David Raya,Premier League,G,38000000.0
+232422,Kepa Arrizabalaga,Premier League,G,7400000.0
+1842987,Khari Ranson,Premier League,G,3707197.468487395
+839956,Erling Haaland,Premier League,F,218000000.0
+873554,Omar Marmoush,Premier League,F,65000000.0
+859765,Phil Foden,Premier League,M,76000000.0
+934354,Antoine Semenyo,Premier League,M,79000000.0
+827606,Rodri,Premier League,M,59000000.0
+979128,Rayan Cherki,Premier League,M,71000000.0
+934386,Jérémy Doku,Premier League,M,60000000.0
+331209,Bernardo Silva,Premier League,M,26000000.0
+1046795,Savinho,Premier League,M,42000000.0
+931278,Rayan Aït-Nouri,Premier League,M,39000000.0
+893549,Tijjani Reijnders,Premier League,M,58000000.0
+136710,Mateo Kovačić,Premier League,M,11600000.0
+954056,Nico González,Premier League,M,48000000.0
+1146511,Sverre Nypan,Premier League,M,13500000.0
+1194333,Abdukodir Khusanov,Premier League,D,33000000.0
+964994,Joško Gvardiol,Premier League,D,64000000.0
+318941,Rúben Dias,Premier League,D,65000000.0
+877994,Marc Guéhi,Premier League,D,61000000.0
+152077,John Stones,Premier League,D,13600000.0
+149663,Nathan Aké,Premier League,D,13700000.0
+1142703,Nico O'Reilly,Premier League,D,54000000.0
+945122,Matheus Nunes,Premier League,D,43000000.0
+1136731,Rico Lewis,Premier League,D,29000000.0
+1168513,Max Alleyne,Premier League,D,7800000.0
+824509,Gianluigi Donnarumma,Premier League,G,46000000.0
+980643,James Trafford,Premier League,G,27000000.0
+257993,Marcus Bettinelli,Premier League,G,530000.0
+971037,Amad Diallo,Premier League,F,49000000.0
+986397,Benjamin Šeško,Premier League,F,68000000.0
+886363,Matheus Cunha,Premier League,F,73000000.0
+917007,Joshua Zirkzee,Premier League,F,23000000.0
+1566204,Chido Obi-Martin,Premier League,F,4600000.0
+288205,Bruno Fernandes,Premier League,M,37000000.0
+927083,Bryan Mbeumo,Premier League,M,78000000.0
+122951,Casemiro,Premier League,M,7300000.0
+1142175,Kobbie Mainoo,Premier League,M,52000000.0
+836694,Mason Mount,Premier League,M,28000000.0
+1397168,Patrick Dorgu,Premier League,M,33000000.0
+843200,Diogo Dalot,Premier League,M,28000000.0
+846425,Manuel Ugarte,Premier League,M,29000000.0
+1402850,Tyler Fletcher,Premier League,M,10937027.341997264
+847030,Noussair Mazraoui,Premier League,D,19400000.0
+859999,Lisandro Martínez,Premier League,D,42000000.0
+803031,Matthijs de Ligt,Premier League,D,42000000.0
+149380,Harry Maguire,Premier League,D,10700000.0
+1153315,Leny Yoro,Premier League,D,46000000.0
+190839,Luke Shaw,Premier League,D,9400000.0
+1445799,Ayden Heaven,Premier League,D,21000000.0
+1900795,Diego León,Premier League,D,3600000.0
+825839,Tyrell Malacia,Premier League,D,5300000.0
+1142182,Tyler Fredricson,Premier League,D,2800000.0
+964753,Senne Lammens,Premier League,G,33000000.0
+815890,Altay Bayındır,Premier League,G,6800000.0
+18122,Tom Heaton,Premier League,G,140000.0
+610766,Tammy Abraham,Premier League,F,18300000.0
+555386,Ollie Watkins,Premier League,F,31000000.0
+851100,Jadon Sancho,Premier League,M,19400000.0
+955245,Harvey Elliott,Premier League,M,23000000.0
+948261,Morgan Rogers,Premier League,M,77000000.0
+867887,Douglas Luiz,Premier League,M,21000000.0
+331737,Youri Tielemans,Premier League,M,38000000.0
+783126,Emiliano Buendía,Premier League,M,16500000.0
+808590,Leon Bailey,Premier League,M,15000000.0
+923973,Amadou Onana,Premier League,M,41000000.0
+250223,John McGinn,Premier League,M,14500000.0
+826204,Boubacar Kamara,Premier League,M,39000000.0
+98435,Ross Barkley,Premier League,M,4500000.0
+1631879,Alysson,Premier League,M,10800000.0
+1089388,Lamare Bogarde,Premier League,M,14600000.0
+833956,Matty Cash,Premier League,D,19800000.0
+143334,Victor Lindelöf,Premier League,D,5800000.0
+976263,Ian Maatsen,Premier League,D,28000000.0
+96538,Lucas Digne,Premier League,D,7400000.0
+864169,Pau Torres,Premier League,D,23000000.0
+827679,Ezri Konsa,Premier League,D,42000000.0
+303638,Tyrone Mings,Premier League,D,4300000.0
+1457536,Andrés García,Premier League,D,7600000.0
+158263,Emiliano Martínez,Premier League,G,14400000.0
+100390,Marco Bizot,Premier League,G,2300000.0
+1138445,James Wright,Premier League,G,220000.0
+823941,Alexander Isak,Premier League,F,103000000.0
+1048422,Hugo Ekitiké,Premier League,F,86000000.0
+845386,Federico Chiesa,Premier League,F,13700000.0
+1881902,Rio Ngumoha,Premier League,F,19400000.0
+159665,Mohamed Salah,Premier League,M,29000000.0
+1019322,Florian Wirtz,Premier League,M,105000000.0
+869856,Dominik Szoboszlai,Premier League,M,91000000.0
+895324,Alexis Mac Allister,Premier League,M,88000000.0
+862967,Cody Gakpo,Premier League,M,63000000.0
+970361,Jeremie Frimpong,Premier League,M,36000000.0
+904897,Ryan Gravenberch,Premier League,M,98000000.0
+143040,Wataru Endo,Premier League,M,4600000.0
+927353,Curtis Jones,Premier League,M,33000000.0
+1142636,Stefan Bajčetić,Premier League,M,4900000.0
+1445945,Trey Nyoni,Premier League,M,6400000.0
+1462781,Kieran Morrison,Premier League,M,10937027.341997264
+151545,Virgil van Dijk,Premier League,D,18600000.0
+826215,Ibrahima Konaté,Premier League,D,52000000.0
+1097425,Miloš Kerkez,Premier League,D,41000000.0
+262911,Andrew Robertson,Premier League,D,10700000.0
+1008402,Conor Bradley,Premier League,D,33000000.0
+1473137,Giovanni Leoni,Premier League,D,27000000.0
+318927,Joe Gomez,Premier League,D,14500000.0
+902091,Rhys Williams,Premier League,D,480000.0
+991227,Calvin Ramsay,Premier League,D,1500000.0
+1550811,Amara Nallo,Premier League,D,1100000.0
+243609,Alisson,Premier League,G,18700000.0
+930997,Giorgi Mamardashvili,Premier League,G,29000000.0
+284417,Freddie Woodman,Premier League,G,3100000.0
+1008403,Harvey Davies,Premier League,G,470000.0
+1135873,Alejandro Garnacho,Premier League,F,37000000.0
+975079,João Pedro,Premier League,F,69000000.0
+1414933,Marc Guiu,Premier League,F,11200000.0
+997087,Liam Delap,Premier League,F,30000000.0
+1402787,Shumaira Mheuka,Premier League,F,2900000.0
+1861699,Ryan Kavuma-McQueen,Premier League,F,10854111.235294119
+982780,Cole Palmer,Premier League,M,101000000.0
+1597265,Estêvão,Premier League,M,82000000.0
+974505,Enzo Fernández,Premier League,M,87000000.0
+987650,Moisés Caicedo,Premier League,M,115000000.0
+958966,Mykhaylo Mudryk,Premier League,M,73000000.0
+879349,Pedro Neto,Premier League,M,58000000.0
+1105779,Andrey Santos,Premier League,M,44000000.0
+1140599,Jamie Gittens,Premier League,M,34000000.0
+1069488,Roméo Lavia,Premier League,M,23000000.0
+1110006,Dário Essugo,Premier League,M,15800000.0
+885908,Reece James,Premier League,D,63000000.0
+794939,Marc Cucurella,Premier League,D,52000000.0
+1154657,Mamadou Sarr,Premier League,D,27000000.0
+996958,Malo Gusto,Premier League,D,36000000.0
+996911,Levi Colwill,Premier League,D,55000000.0
+1153079,Jorrel Hato,Premier League,D,36000000.0
+923894,Wesley Fofana,Premier League,D,29000000.0
+826134,Trevoh Chalobah,Premier League,D,43000000.0
+1403050,Josh Acheampong,Premier League,D,24000000.0
+904827,Benoît Badiashile,Premier League,D,17400000.0
+352668,Tosin Adarabioyo,Premier League,D,18500000.0
+1035645,Caleb Wiley,Premier League,D,7600000.0
+920546,Robert Sánchez,Premier League,G,19900000.0
+962053,Filip Jørgensen,Premier League,G,14600000.0
+978787,Gabriel Słonina,Premier League,G,3800000.0
+1403054,Max Merrick,Premier League,G,110000.0
+1009762,Teddy Sharman-Lowe,Premier League,G,510000.0
+1106451,Dango Ouattara,Premier League,F,36000000.0
+1016907,Igor Thiago,Premier League,F,52000000.0
+991604,Fabio Carvalho,Premier League,F,9700000.0
+1403098,Kaye Furo,Premier League,F,7600000.0
+1586020,Romelle Donovan,Premier League,F,3700000.0
+42694,Jordan Henderson,Premier League,M,2200000.0
+826139,Reiss Nelson,Premier League,M,13200000.0
+907072,Mikkel Damsgaard,Premier League,M,29000000.0
+1006387,Kevin Schade,Premier League,M,36000000.0
+1031258,Yehor Yarmolyuk,Premier League,M,29000000.0
+1126692,Antoni Milambo,Premier League,M,21000000.0
+814873,Vitaly Janelt,Premier League,M,18600000.0
+799251,Mathias Jensen,Premier League,M,12500000.0
+856260,Joshua Dasilva,Premier League,M,2100000.0
+2248920,Luka Bentt,Premier League,M,10937027.341997264
+2469397,Ollie Shield,Premier League,M,10937027.341997264
+1137431,Michael Kayode,Premier League,D,34000000.0
+924378,Sepp van den Berg,Premier League,D,33000000.0
+958916,Nathan Collins,Premier League,D,29000000.0
+576384,Kristoffer Ajer,Premier League,D,19500000.0
+972421,Keane Lewis-Potter,Premier League,D,24000000.0
+855864,Ethan Pinnock,Premier League,D,3700000.0
+966869,Aaron Hickey,Premier League,D,16500000.0
+599128,Rico Henry,Premier League,D,15900000.0
+1654603,Joshua Stephenson,Premier League,D,8067730.136468774
+1390253,Conor McManus,Premier League,D,8067730.136468774
+827362,Caoimhin Kelleher,Premier League,G,23000000.0
+1005959,Hákon Rafn Valdimarsson,Premier League,G,2600000.0
+1411132,Julian Eyestone,Premier League,G,3707197.468487395
+860205,Ellery Balcombe,Premier League,G,410000.0
+1403061,Tyrique George,Premier League,F,23000000.0
+1395746,Thierno Barry,Premier League,F,31000000.0
+987489,Beto,Premier League,F,21000000.0
+914309,Iliman Ndiaye,Premier League,M,49000000.0
+189061,Jack Grealish,Premier League,M,26000000.0
+106337,Idrissa Gueye,Premier League,M,970000.0
+861970,Kiernan Dewsbury-Hall,Premier League,M,35000000.0
+1017392,Carlos Alcaraz,Premier League,M,14600000.0
+927361,James Garner,Premier League,M,37000000.0
+1174472,Tyler Dibling,Premier League,M,20000000.0
+935543,Dwight McNeil,Premier League,M,26000000.0
+1085950,Tim Iroegbunam,Premier League,M,15500000.0
+1064082,Merlin Röhl,Premier League,M,14700000.0
+1627560,Harrison Armstrong,Premier League,M,12400000.0
+1466124,Adam Aznou,Premier League,D,7200000.0
+876643,Vitaliy Mykolenko,Premier League,D,26000000.0
+979563,Jarrad Branthwaite,Premier League,D,46000000.0
+145188,James Tarkowski,Premier League,D,7200000.0
+110846,Michael Keane,Premier League,D,3700000.0
+998253,Jake O'Brien,Premier League,D,16500000.0
+76632,Séamus Coleman,Premier League,D,325000.0
+1020141,Nathan Patterson,Premier League,D,16300000.0
+1101370,Reece Welch,Premier League,D,375000.0
+1144949,Elijah Campbell,Premier League,D,210000.0
+138530,Jordan Pickford,Premier League,G,16100000.0
+856720,Mark Travers,Premier League,G,3800000.0
+603922,Tom King,Premier League,G,145000.0
+822470,Samuel Chukwueze,Premier League,F,15500000.0
+192442,Raúl Jiménez,Premier League,F,4200000.0
+1015256,Rodrigo Muniz,Premier League,F,27000000.0
+1503757,Jonah Kusi-Asare,Premier League,F,4300000.0
+1065216,Oscar Bobb,Premier League,M,29000000.0
+352770,Alex Iwobi,Premier League,M,26000000.0
+867445,Emile Smith Rowe,Premier League,M,20000000.0
+1112879,Kevin,Premier League,M,31000000.0
+355528,Harry Wilson,Premier League,M,27000000.0
+793167,Sander Berge,Premier League,M,26000000.0
+371222,Saša Lukić,Premier League,M,11300000.0
+1546231,Joshua King,Premier League,M,21000000.0
+82566,Tom Cairney,Premier League,M,795000.0
+365802,Harrison Reed,Premier League,M,3200000.0
+861972,Calvin Bassey,Premier League,D,29000000.0
+803174,Antonee Robinson,Premier League,D,27000000.0
+362682,Joachim Andersen,Premier League,D,26000000.0
+329417,Timothy Castagne,Premier League,D,9500000.0
+825719,Issa Diop,Premier League,D,10300000.0
+836698,Ryan Sessegnon,Premier League,D,19400000.0
+190877,Kenny Tete,Premier League,D,11900000.0
+868715,Jorge Cuenca,Premier League,D,8600000.0
+103335,Bernd Leno,Premier League,G,7400000.0
+123207,Benjamin Lecomte,Premier League,G,1200000.0
+1416535,Charalampos Kostoulas,Premier League,F,27000000.0
+33902,Danny Welbeck,Premier League,F,4200000.0
+1155321,Stefanos Tzimas,Premier League,F,21000000.0
+1199043,Carlos Baleba,Premier League,M,53000000.0
+936849,Kaoru Mitoma,Premier League,M,23000000.0
+1065588,Diego Gómez,Premier League,M,27000000.0
+1400106,Yankuba Minteh,Premier League,M,37000000.0
+891829,Matt O'Riley,Premier League,M,18300000.0
+48480,Pascal Groß,Premier League,M,3200000.0
+946695,Georginio Rutter,Premier League,M,31000000.0
+791,James Milner,Premier League,M,820000.0
+1036269,Yasin Ayari,Premier League,M,27000000.0
+1142315,Jack Hinshelwood,Premier League,M,21000000.0
+301288,Solly March,Premier League,M,2100000.0
+825844,Ferdi Kadıoğlu,Premier League,D,31000000.0
+997152,Maxim De Cuyper,Premier League,D,21000000.0
+962012,Jan Paul van Hecke,Premier League,D,38000000.0
+959628,Mats Wieffer,Premier League,D,24000000.0
+115365,Lewis Dunk,Premier League,D,4099999.0
+842513,Igor Júlio,Premier League,D,11600000.0
+219572,Joël Veltman,Premier League,D,2600000.0
+788784,Olivier Boscagli,Premier League,D,13900000.0
+216308,Adam Webster,Premier League,D,5200000.0
+994363,Bart Verbruggen,Premier League,G,37000000.0
+31867,Jason Steele,Premier League,G,715000.0
+1007073,Tom McGill,Premier League,G,515000.0
+218160,Bertrand Traoré,Premier League,F,4700000.0
+877980,Wilson Isidor,Premier League,F,18500000.0
+910048,Brian Brobbey,Premier League,F,26000000.0
+1168588,Eliezer Mayenda,Premier League,F,18600000.0
+1094440,Romaine Mundle,Premier League,F,7800000.0
+1442017,Ahmed Abdullahi,Premier League,F,940000.0
+1171539,Noah Sadiki,Premier League,M,32000000.0
+117777,Granit Xhaka,Premier League,M,10600000.0
+1128532,Habib Diarra,Premier League,M,34000000.0
+1142675,Chemsdine Talbi,Premier League,M,23000000.0
+1116571,Nilson Angulo,Premier League,M,16500000.0
+984014,Enzo Le Fée,Premier League,M,23000000.0
+1394089,Chris Rigg,Premier League,M,24000000.0
+2138729,Jocelin Ta Bi,Premier League,M,3200000.0
+1409347,Milan Aleksić,Premier League,M,665000.0
+1000139,Abdoullah Ba,Premier League,M,1900000.0
+1186076,Harrison Jones,Premier League,M,145000.0
+1891914,Jaydon Jones,Premier League,M,10937027.341997264
+831424,Reinildo Mandava,Premier League,D,5200000.0
+780014,Nordi Mukiele,Premier League,D,17100000.0
+805137,Omar Alderete,Premier League,D,15900000.0
+958878,Daniel Ballard,Premier League,D,22000000.0
+856739,Lutsharel Geertruida,Premier League,D,22000000.0
+989034,Trai Hume,Premier League,D,20000000.0
+1014987,Dennis Cirkin,Premier League,D,7400000.0
+365812,Luke O'Nien,Premier League,D,945000.0
+1185668,Jenson Jones,Premier League,D,8067730.136468774
+1012928,Robin Roefs,Premier League,G,26000000.0
+1099795,Melker Ellborg,Premier League,G,2800000.0
+95461,Simon Moore,Premier League,G,110000.0
+980623,Nick Woltemade,Premier League,F,70000000.0
+805123,Yoane Wissa,Premier League,F,28000000.0
+914902,Anthony Gordon,Premier League,F,62000000.0
+979232,Anthony Elanga,Premier League,F,38000000.0
+1122603,William Osula,Premier League,F,13800000.0
+855647,Harvey Barnes,Premier League,F,35000000.0
+372336,Jacob Murphy,Premier League,F,13800000.0
+1511675,Sean Neave,Premier League,F,10854111.235294119
+866469,Bruno Guimarães,Premier League,M,77000000.0
+892673,Sandro Tonali,Premier League,M,74000000.0
+560128,Joelinton,Premier League,M,32000000.0
+975937,Jacob Ramsey,Premier League,M,36000000.0
+1400650,Lewis Miley,Premier League,M,27000000.0
+888550,Joe Willock,Premier League,M,16600000.0
+69256,Kieran Trippier,Premier League,D,2300000.0
+1014286,Malick Thiaw,Premier League,D,41000000.0
+980634,Valentino Livramento,Premier League,D,39000000.0
+99090,Dan Burn,Premier League,D,5200000.0
+1136730,Lewis Hall,Premier League,D,33000000.0
+910046,Sven Botman,Premier League,D,33000000.0
+101882,Fabian Schär,Premier League,D,5800000.0
+150396,Emil Krafth,Premier League,D,1100000.0
+1125214,Alex Murphy,Premier League,D,1600000.0
+839410,Aaron Ramsdale,Premier League,G,12600000.0
+162653,Nick Pope,Premier League,G,6700000.0
+1131,John Ruddy,Premier League,G,96000.0
+108508,Mark Gillespie,Premier League,G,155000.0
+1425207,Aidan Harris,Premier League,G,180000.0
+991478,Amine Adli,Premier League,F,18100000.0
+1426228,Eli Junior Kroupi,Premier League,F,41000000.0
+998490,Evanilson,Premier League,F,33000000.0
+336655,Enes Ünal,Premier League,F,7700000.0
+1464966,Rayan,Premier League,M,39000000.0
+851596,Justin Kluivert,Premier League,M,29000000.0
+1154861,Ben Gannon-Doak,Premier League,M,15500000.0
+1476524,Alex Tóth,Premier League,M,13100000.0
+800419,Tyler Adams,Premier League,M,26000000.0
+1104986,Alex Scott,Premier League,M,43000000.0
+895576,Marcus Tavernier,Premier League,M,21000000.0
+855731,David Brooks,Premier League,M,12800000.0
+322391,Ryan Christie,Premier League,M,9700000.0
+548188,Lewis Cook,Premier League,M,13700000.0
+830659,Marcos Senesi,Premier League,D,20000000.0
+1201520,Julio Soler,Premier League,D,8300000.0
+1184308,Álex Jiménez,Premier League,D,19900000.0
+962408,Bafodé Diakité,Premier League,D,28000000.0
+1406130,Veljko Milosavljević,Premier League,D,18600000.0
+999028,Adrien Truffert,Premier League,D,23000000.0
+1156586,James Hill,Premier League,D,15800000.0
+44566,Adam Smith,Premier League,D,515000.0
+1190712,Matai Akinmboni,Premier League,D,1000000.0
+882604,Đorđe Petrović,Premier League,G,29000000.0
+913762,Christos Mandas,Premier League,G,10300000.0
+19314,Fraser Forster,Premier League,G,660000.0
+845286,Ismaïla Sarr,Premier League,F,33000000.0
+1085180,Brennan Johnson,Premier League,F,38000000.0
+848276,Jean-Philippe Mateta,Premier League,F,33000000.0
+876599,Jørgen Strand Larsen,Premier League,F,46000000.0
+858194,Edward Nketiah,Premier League,F,14400000.0
+984624,Yéremy Pino,Premier League,F,32000000.0
+930245,Evann Guessand,Premier League,F,27000000.0
+1884145,Christantus Uche,Premier League,F,16500000.0
+1469007,Rio Cardines,Premier League,F,290000.0
+870360,Daniel Muñoz,Premier League,M,28000000.0
+794338,Daichi Kamada,Premier League,M,12400000.0
+1109771,Adam Wharton,Premier League,M,63000000.0
+355796,Jefferson Lerma,Premier League,M,7400000.0
+357584,Borna Sosa,Premier League,M,3700000.0
+906047,Cheick Doucouré,Premier League,M,13700000.0
+988275,Tyrick Mitchell,Premier League,M,23000000.0
+193554,Will Hughes,Premier League,M,5500000.0
+1084311,Justin Devenny,Premier League,M,11500000.0
+1185603,Kaden Rodney,Premier League,M,195000.0
+1064218,Chadi Riad,Premier League,D,11600000.0
+879674,Maxence Lacroix,Premier League,D,43000000.0
+931844,Chris Richards,Premier League,D,23000000.0
+1471671,Jaydee Canvot,Premier League,D,18100000.0
+43215,Nathaniel Clyne,Premier League,D,465000.0
+1465401,Caleb Kporha,Premier League,D,1000000.0
+788134,Dean Henderson,Premier League,G,29000000.0
+249859,Walter Benítez,Premier League,G,4600000.0
+581610,Remi Matthews,Premier League,G,325000.0
+1159121,Jackson Izquierdo,Premier League,G,3707197.468487395
+865523,Noah Okafor,Premier League,F,19800000.0
+372344,Dominic Calvert-Lewin,Premier League,F,24000000.0
+998951,Wilfried Gnonto,Premier League,F,19500000.0
+803185,Lukas Nmecha,Premier League,F,9100000.0
+850823,Joël Piroe,Premier League,F,11900000.0
+1117025,Facundo Buonanotte,Premier League,M,14600000.0
+871886,Ao Tanaka,Premier League,M,10800000.0
+828639,Daniel James,Premier League,M,12700000.0
+911679,Ilia Gruev,Premier League,M,11000000.0
+847097,Ethan Ampadu,Premier League,M,23000000.0
+973431,Brenden Aaronson,Premier League,M,18700000.0
+889861,Anton Stach,Premier League,M,24000000.0
+866191,Sean Longstaff,Premier League,M,15300000.0
+1158066,Charlie Crew,Premier League,M,140000.0
+886930,Jaka Bijol,Premier League,D,16700000.0
+836675,Pascal Struijk,Premier League,D,23000000.0
+827681,James Justin,Premier League,D,12400000.0
+834308,Gabriel Gudmundsson,Premier League,D,21000000.0
+828640,Joe Rodon,Premier League,D,15700000.0
+826167,Sebastiaan Bornauw,Premier League,D,7800000.0
+929132,Jayden Bogle,Premier League,D,12800000.0
+254713,Sam Byram,Premier League,D,580000.0
+871290,Lucas Perri,Premier League,G,11900000.0
+906076,Illan Meslier,Premier League,G,9300000.0
+123689,Karl Darlow,Premier League,G,210000.0
+162417,Alex Cairns,Premier League,G,69000.0
+981619,Igor Jesus,Premier League,F,23000000.0
+50480,Chris Wood,Premier League,F,6300000.0
+962364,Lorenzo Lucca,Premier League,F,27000000.0
+359664,Taiwo Awoniyi,Premier League,F,8600000.0
+1003334,James McAtee,Premier League,M,18000000.0
+843754,Ibrahim Sangaré,Premier League,M,23000000.0
+867442,Callum Hudson-Odoi,Premier League,M,32000000.0
+994546,Elliot Anderson,Premier League,M,54000000.0
+865912,Morgan Gibbs-White,Premier League,M,57000000.0
+944327,Dan Ndoye,Premier League,M,34000000.0
+1090963,Omari Hutchinson,Premier League,M,28000000.0
+871765,Nicolás Domínguez,Premier League,M,14700000.0
+963298,Dilane Bakwa,Premier League,M,26000000.0
+846252,Ryan Yates,Premier League,M,8199999.0
+1400429,Jimmy Sinclair,Premier League,M,10937027.341997264
+1566888,Archie Whitehall,Premier League,M,10937027.341997264
+1199282,Murillo,Premier League,D,49000000.0
+836168,Nikola Milenković,Premier League,D,28000000.0
+800417,Ola Aina,Premier League,D,18200000.0
+927356,Neco Williams,Premier League,D,23000000.0
+1170722,Jair,Premier League,D,12400000.0
+1010220,Nicolò Savona,Premier League,D,17500000.0
+985086,Morato,Premier League,D,13600000.0
+139310,Willy Boly,Premier League,D,485000.0
+1418646,Eric da Silva Moreira,Premier League,D,1000000.0
+979144,Luca Netz,Premier League,D,5800000.0
+1390490,Zach Abbott,Premier League,D,2900000.0
+1141741,Justin Hanks,Premier League,D,8067730.136468774
+125274,Stefan Ortega,Premier League,G,4800000.0
+840103,John Victor,Premier League,G,6800000.0
+78152,Matz Sels,Premier League,G,4200000.0
+227946,Angus Gunn,Premier League,G,1600000.0
+1412863,Keehan Willows,Premier League,G,3707197.468487395
+840217,Richarlison,Premier League,F,27000000.0
+871706,Randal Kolo Muani,Premier League,F,20000000.0
+1048888,Mathys Tel,Premier League,F,26000000.0
+361420,Dominic Solanke,Premier League,F,38000000.0
+1142679,Wilson Odobert,Premier League,F,21000000.0
+905163,Mohammed Kudus,Premier League,M,60000000.0
+997183,Xavi Simons,Premier League,M,54000000.0
+1002711,Pape Matar Sarr,Premier League,M,30000000.0
+844842,Yves Bissouma,Premier League,M,11100000.0
+364612,João Palhinha,Premier League,M,16500000.0
+904970,Conor Gallagher,Premier League,M,34000000.0
+356398,James Maddison,Premier League,M,24000000.0
+928124,Dejan Kulusevski,Premier League,M,34000000.0
+1391251,Lucas Bergvall,Premier League,M,41000000.0
+791190,Rodrigo Bentancur,Premier League,M,21000000.0
+1142335,Archie Gray,Premier League,M,34000000.0
+1403190,Callum Olusesi,Premier League,M,2900000.0
+1150948,Rio Kyerematen,Premier League,M,10937027.341997264
+829932,Cristian Romero,Premier League,D,46000000.0
+997103,Radu Drăguşin,Premier League,D,18500000.0
+998247,Micky van de Ven,Premier League,D,63000000.0
+913654,Pedro Porro,Premier League,D,37000000.0
+983572,Destiny Udogie,Premier League,D,33000000.0
+945798,Djed Spence,Premier League,D,31000000.0
+794953,Kevin Danso,Premier League,D,19400000.0
+1482340,Souza,Premier League,D,12400000.0
+94758,Ben Davies,Premier League,D,4600000.0
+1403130,James Rowswell,Premier League,D,8067730.136468774
+1031251,Antonín Kinský,Premier League,G,13600000.0
+553606,Guglielmo Vicario,Premier League,G,22000000.0
+859896,Brandon Austin,Premier League,G,530000.0
+286165,Adama Traoré,Premier League,F,7700000.0
+877013,Valentín Castellanos,Premier League,F,29000000.0
+113956,Callum Wilson,Premier League,F,5300000.0
+1101174,Pablo Felipe,Premier League,F,18500000.0
+552884,Jarrod Bowen,Premier League,M,34000000.0
+917005,Crysencio Summerville,Premier League,M,33000000.0
+1142562,Mateus Fernandes,Premier League,M,34000000.0
+799041,Tomáš Souček,Premier League,M,11600000.0
+1190165,Keiber Lamadrid,Premier League,M,1300000.0
+1170560,Soungoutou Magassa,Premier League,M,18400000.0
+1523623,Mohamadou Kanté,Premier League,M,270000.0
+1150952,Oliver Scarles,Premier League,M,9100000.0
+1089582,Freddie Potts,Premier League,M,10400000.0
+863653,Aaron Wan-Bissaka,Premier League,D,21000000.0
+1471764,El Hadji Malick Diouf,Premier League,D,29000000.0
+827243,Axel Disasi,Premier League,D,15500000.0
+829022,Konstantinos Mavropanos,Premier League,D,16300000.0
+945217,Jean-Clair Todibo,Premier League,D,25000000.0
+823085,Kyle Walker-Peters,Premier League,D,12100000.0
+894474,Max Kilman,Premier League,D,15500000.0
+15479,Łukasz Fabiański,Premier League,G,260000.0
+96531,Alphonse Aréola,Premier League,G,4600000.0
+856640,Mads Hermansen,Premier League,G,15500000.0
+1410165,Finlay Herrick,Premier League,G,3707197.468487395
+996985,Armando Broja,Premier League,F,7200000.0
+901907,Lyle Foster,Premier League,F,10300000.0
+990550,Zeki Amdouni,Premier League,F,9700000.0
+875137,Zian Flemming,Premier League,F,12600000.0
+1004505,Loum Tchaouna,Premier League,F,16000000.0
+809276,Jacob Bruun Larsen,Premier League,F,5400000.0
+1009386,Hannibal Mejbri,Premier League,M,16700000.0
+1048916,Lesley Ugochukwu,Premier League,M,24000000.0
+161717,James Ward-Prowse,Premier League,M,5400000.0
+855845,Florentino Luís,Premier League,M,19400000.0
+795066,Marcus Edwards,Premier League,M,8800000.0
+1020680,Jaidon Anthony,Premier League,M,17500000.0
+826183,Mike Trésor,Premier League,M,3100000.0
+792122,Josh Cullen,Premier League,M,6200000.0
+27028,Ashley Barnes,Premier League,M,190000.0
+552036,Josh Laurent,Premier League,M,1900000.0
+44614,Kyle Walker,Premier League,D,2300000.0
+817979,Axel Tuanzebe,Premier League,D,4600000.0
+1117223,Maxime Estève,Premier League,D,23000000.0
+996910,Bashir Humphreys,Premier League,D,16300000.0
+1392044,Quilindschy Hartman,Premier League,D,17500000.0
+1136896,Lucas Pires,Premier League,D,5400000.0
+875360,Hjalmar Ekdal,Premier League,D,5600000.0
+804613,Connor Roberts,Premier League,D,2400000.0
+927175,Jordan Beyer,Premier League,D,2400000.0
+838399,Joe Worrall,Premier League,D,2900000.0
+42209,Martin Dúbravka,Premier League,G,725000.0
+1128801,Max Weiss,Premier League,G,4300000.0
+151518,Václav Hladký,Premier League,G,195000.0
+786186,Hee-Chan Hwang,Premier League,F,7300000.0
+987734,Tolu Arokodare,Premier League,F,20000000.0
+1899647,Mateus Mané,Premier League,F,18500000.0
+1402232,Enso González,Premier League,F,2800000.0
+361352,Adam Armstrong,Premier League,F,8700000.0
+1166679,Nathan Fraser,Premier League,F,625000.0
+845273,Jean-Ricner Bellegarde,Premier League,M,17600000.0
+1015267,João Gomes,Premier League,M,32000000.0
+1035996,André,Premier League,M,26000000.0
+867441,Angel Gomes,Premier League,M,12900000.0
+1096210,Jackson Tchatchoua,Premier League,M,13200000.0
+1006073,Rodrigo Gomes,Premier League,M,14600000.0
+1597270,Pedro Lima,Premier League,D,3900000.0
+1014835,Yerson Mosquera,Premier League,D,13000000.0
+856250,Ladislav Krejčí,Premier League,D,21000000.0
+143047,Matt Doherty,Premier League,D,1500000.0
+846308,Santiago Bueno,Premier League,D,9200000.0
+1013928,Hugo Bueno,Premier League,D,13000000.0
+973418,Toti Gomes,Premier League,D,21000000.0
+1031283,David Möller Wolfe,Premier League,D,9200000.0
+252669,José Sá,Premier League,G,4800000.0
+98427,Sam Johnstone,Premier League,G,3200000.0
+101367,Daniel Bentley,Premier League,G,910000.0
+41789,Robert Lewandowski,LaLiga,F,8400000.0
+855833,Ferran Torres,LaLiga,F,54000000.0
+1162107,Roony Bardghji,LaLiga,F,15500000.0
+1402912,Lamine Yamal,LaLiga,M,215000000.0
+831005,Raphinha,LaLiga,M,72000000.0
+992587,Pedri,LaLiga,M,153000000.0
+814590,Marcus Rashford,LaLiga,M,38000000.0
+1103693,Pablo Gavi,LaLiga,M,31000000.0
+795222,Frenkie de Jong,LaLiga,M,42000000.0
+789071,Dani Olmo,LaLiga,M,58000000.0
+1153270,Fermín López,LaLiga,M,103000000.0
+1526618,Marc Bernal,LaLiga,M,29000000.0
+1000483,Marc Casadó,LaLiga,M,24000000.0
+1939137,Tomás Marqués,LaLiga,M,1000000.0
+1402913,Pau Cubarsí,LaLiga,D,75000000.0
+827212,Jules Koundé,LaLiga,D,69000000.0
+997035,Alejandro Balde,LaLiga,D,66000000.0
+925097,Ronald Araújo,LaLiga,D,27000000.0
+138892,João Cancelo,LaLiga,D,10700000.0
+186795,Andreas Christensen,LaLiga,D,9600000.0
+876214,Eric García,LaLiga,D,29000000.0
+1094827,Gerard Martín,LaLiga,D,18200000.0
+1546073,Xavi Espart,LaLiga,D,320000.0
+1464652,Álvaro Cortés,LaLiga,D,270000.0
+930267,Joan García,LaLiga,G,31000000.0
+50490,Wojciech Szczęsny,LaLiga,G,820000.0
+1402907,Diego Kochen,LaLiga,G,455000.0
+826643,Kylian Mbappé,LaLiga,F,212000000.0
+868812,Vinicius Júnior,LaLiga,F,156000000.0
+910536,Rodrygo,LaLiga,F,64000000.0
+1403559,Franco Mastantuono,LaLiga,F,44000000.0
+1402716,Gonzalo García,LaLiga,F,31000000.0
+991011,Jude Bellingham,LaLiga,M,151000000.0
+831808,Federico Valverde,LaLiga,M,116000000.0
+1091116,Arda Güler,LaLiga,M,87000000.0
+835485,Brahim Díaz,LaLiga,M,37000000.0
+973887,Eduardo Camavinga,LaLiga,M,48000000.0
+859025,Aurélien Tchouaméni,LaLiga,M,78000000.0
+547838,Dani Ceballos,LaLiga,M,8400000.0
+2237795,Thiago Pitarch,LaLiga,M,18200000.0
+1142683,Manuel Ángel Morán,LaLiga,M,460000.0
+1402688,César Palacios,LaLiga,M,455000.0
+795064,Trent Alexander-Arnold,LaLiga,D,72000000.0
+142622,Antonio Rüdiger,LaLiga,D,12400000.0
+1176744,Dean Huijsen,LaLiga,D,71000000.0
+822519,Éder Militão,LaLiga,D,31000000.0
+138572,Daniel Carvajal,LaLiga,D,6800000.0
+1156645,Raúl Asencio,LaLiga,D,23000000.0
+66492,David Alaba,LaLiga,D,3600000.0
+1085081,Álvaro Carreras,LaLiga,D,64000000.0
+792073,Ferland Mendy,LaLiga,D,8500000.0
+851271,Fran García,LaLiga,D,13800000.0
+1614687,Diego Aguado,LaLiga,D,3300000.0
+70988,Thibaut Courtois,LaLiga,G,17400000.0
+857574,Andriy Lunin,LaLiga,G,14100000.0
+1493226,Fran González,LaLiga,G,910000.0
+1403015,Sergio Mestre,LaLiga,G,48000.0
+1009372,Georges Mikautadze,LaLiga,F,30000000.0
+593526,Nicolas Pépé,LaLiga,F,6600000.0
+146866,Gerard Moreno,LaLiga,F,2700000.0
+345195,Ayoze Pérez,LaLiga,F,6400000.0
+1172477,Tani Oluwaseyi,LaLiga,F,8600000.0
+1468090,Alfon González,LaLiga,F,3300000.0
+1863206,Pau Cabanes,LaLiga,F,775000.0
+316148,Thomas Partey,LaLiga,M,4800000.0
+879694,Pape Gueye,LaLiga,M,19400000.0
+973290,Tajon Buchanan,LaLiga,M,10800000.0
+1012444,Alberto Moleiro,LaLiga,M,33000000.0
+39182,Dani Parejo,LaLiga,M,1200000.0
+843678,Santi Comesaña,LaLiga,M,8400000.0
+1087359,Renato Veiga,LaLiga,D,24000000.0
+873189,Juan Foyth,LaLiga,D,16100000.0
+1468046,Santiago Mouriño,LaLiga,D,9700000.0
+984623,Rafa Marín,LaLiga,D,11600000.0
+1136721,Willy Kambwala,LaLiga,D,4099999.0
+986245,Sergi Cardona,LaLiga,D,9500000.0
+1184541,Alexander Freeman,LaLiga,D,3200000.0
+911853,Logan Costa,LaLiga,D,17500000.0
+797290,Alfonso Pedraza,LaLiga,D,2400000.0
+1525863,Pau Navarro,LaLiga,D,9700000.0
+908714,Arnau Tenas,LaLiga,G,4400000.0
+1066603,Luiz Júnior,LaLiga,G,12400000.0
+951008,Diego Conde,LaLiga,G,4300000.0
+944656,Julián Alvarez,LaLiga,F,97000000.0
+85859,Antoine Griezmann,LaLiga,F,10400000.0
+824200,Ademola Lookman,LaLiga,F,38000000.0
+309078,Alexander Sørloth,LaLiga,F,21000000.0
+944660,Thiago Almada,LaLiga,M,21000000.0
+901325,Nicolás González,LaLiga,M,25000000.0
+1099352,Giuliano Simeone,LaLiga,M,44000000.0
+910031,Alejandro Baena,LaLiga,M,59000000.0
+990169,Johnny Cardoso,LaLiga,M,21000000.0
+1142588,Pablo Barrios,LaLiga,M,66000000.0
+84539,Koke,LaLiga,M,6400000.0
+1119345,Obed Vargas,LaLiga,M,7400000.0
+1391752,Rodrigo Mendoza,LaLiga,M,21000000.0
+831799,Nahuel Molina,LaLiga,D,14600000.0
+353138,Marcos Llorente,LaLiga,D,23000000.0
+580550,Clément Lenglet,LaLiga,D,6200000.0
+787751,Robin Le Normand,LaLiga,D,29000000.0
+325355,José María Giménez,LaLiga,D,13400000.0
+807771,Dávid Hancko,LaLiga,D,31000000.0
+1094106,Marc Pubill,LaLiga,D,27000000.0
+965011,Matteo Ruggeri,LaLiga,D,14600000.0
+1402990,Julio Díaz,LaLiga,D,540000.0
+69768,Jan Oblak,LaLiga,G,18100000.0
+263651,Juan Musso,LaLiga,G,3200000.0
+1034421,Mario de Luis,LaLiga,G,415000.0
+1179149,Salvi Esquivel,LaLiga,G,290000.0
+115665,Cédric Bakambu,LaLiga,F,1400000.0
+887055,Cucho Hernández,LaLiga,F,16500000.0
+789381,Chimy Ávila,LaLiga,F,1500000.0
+958380,Antony,LaLiga,M,27000000.0
+1011375,Abdessamad Ezzalzouli,LaLiga,M,21000000.0
+359272,Sofyan Amrabat,LaLiga,M,11600000.0
+103417,Isco,LaLiga,M,4099999.0
+798835,Giovani Lo Celso,LaLiga,M,14600000.0
+1129401,Nelson Deossa,LaLiga,M,9800000.0
+989113,Rodrigo Riquelme,LaLiga,M,8600000.0
+838629,Álvaro Fidalgo,LaLiga,M,9300000.0
+816763,Pablo Fornals,LaLiga,M,8400000.0
+1893910,Pablo García,LaLiga,M,8199999.0
+847128,Marc Roca,LaLiga,M,4200000.0
+1137814,Sergi Altimira,LaLiga,M,19300000.0
+188365,Héctor Bellerín,LaLiga,D,2600000.0
+1015287,Natan,LaLiga,D,21000000.0
+914835,Junior Firpo,LaLiga,D,5800000.0
+1186010,Valentín Gómez,LaLiga,D,11200000.0
+99519,Marc Bartra,LaLiga,D,1000000.0
+67769,Ricardo Rodríguez,LaLiga,D,1600000.0
+305278,Diego Llorente,LaLiga,D,3100000.0
+893062,Aitor Ruibal,LaLiga,D,3400000.0
+1152139,Angel Ortiz,LaLiga,D,4400000.0
+50539,Adrián,LaLiga,G,415000.0
+548848,Pau López,LaLiga,G,2700000.0
+964983,Álvaro Valles,LaLiga,G,2300000.0
+19356,Iago Aspas,LaLiga,F,1700000.0
+785989,Borja Iglesias,LaLiga,F,3100000.0
+949962,Ferran Jutglà,LaLiga,F,7500000.0
+1173575,Jones El-Abdellaoui,LaLiga,F,8400000.0
+1398524,Pablo Durán,LaLiga,F,4099999.0
+962890,Ilaix Moriba,LaLiga,M,9200000.0
+1126779,Williot Swedberg,LaLiga,M,14000000.0
+859773,Óscar Mingueza,LaLiga,M,18700000.0
+158615,Matías Vecino,LaLiga,M,1600000.0
+1526628,Fer López,LaLiga,M,17500000.0
+557008,Franco Cervi,LaLiga,M,680000.0
+1154935,Hugo Álvarez,LaLiga,M,7800000.0
+1120669,Hugo Sotelo,LaLiga,M,7200000.0
+1002764,Sergio Carreira,LaLiga,M,5700000.0
+1398526,Miguel Román,LaLiga,M,14400000.0
+1916256,Andrés Antañón,LaLiga,M,320000.0
+69408,Marcos Alonso,LaLiga,D,1500000.0
+796320,Joseph Aidoo,LaLiga,D,930000.0
+360718,Carl Starfelt,LaLiga,D,4500000.0
+1526627,Javi Rodríguez,LaLiga,D,14600000.0
+363774,Mihailo Ristić,LaLiga,D,775000.0
+1012410,Alvaro Núñez,LaLiga,D,5800000.0
+1008259,Javier Rueda,LaLiga,D,3100000.0
+1069703,Carlos Domínguez,LaLiga,D,2900000.0
+1145100,Yoel Lago,LaLiga,D,2300000.0
+1630975,Manu Fernández,LaLiga,D,1400000.0
+815202,Ionuț Radu,LaLiga,G,4900000.0
+848980,Iván Villar,LaLiga,G,960000.0
+905443,Marc Vidal,LaLiga,G,310000.0
+823622,Mikel Oyarzabal,LaLiga,F,27000000.0
+1026015,Orri Steinn Óskarsson,LaLiga,F,12500000.0
+966862,Ander Barrenetxea,LaLiga,F,19100000.0
+1099175,Jon Karrikaburu,LaLiga,F,1800000.0
+880218,Takefusa Kubo,LaLiga,M,31000000.0
+1211632,Wesley,LaLiga,M,5200000.0
+949156,Luka Sučić,LaLiga,M,10900000.0
+1066045,Arsen Zakharyan,LaLiga,M,7300000.0
+855835,Sergio Gómez,LaLiga,M,14600000.0
+839585,Yangel Herrera,LaLiga,M,8400000.0
+832427,Carlos Soler,LaLiga,M,7600000.0
+280979,Gonçalo Guedes,LaLiga,M,5700000.0
+845385,Brais Méndez,LaLiga,M,11600000.0
+980410,Beñat Turrientes,LaLiga,M,8500000.0
+1216309,Jon Gorrotxategi,LaLiga,M,27000000.0
+1139409,Pablo Marín,LaLiga,M,8400000.0
+1116388,Jon Aramburu,LaLiga,D,13900000.0
+257091,Duje Ćaleta-Car,LaLiga,D,3100000.0
+353250,Álvaro Odriozola,LaLiga,D,825000.0
+1466116,Jon Martin,LaLiga,D,19300000.0
+838159,Igor Zubeldia,LaLiga,D,9500000.0
+966441,Aihen Muñoz,LaLiga,D,3600000.0
+785468,Aritz Elustondo,LaLiga,D,1900000.0
+791773,Álex Remiro,LaLiga,G,14900000.0
+1094782,Unai Marrero,LaLiga,G,655000.0
+973536,Martín Satriano,LaLiga,F,6400000.0
+604954,Borja Mayoral,LaLiga,F,7800000.0
+974713,Luis Vázquez,LaLiga,F,2100000.0
+831510,Veljko Birmančević,LaLiga,F,4300000.0
+1515554,Adrian Liso,LaLiga,F,6200000.0
+96369,Juanmi,LaLiga,F,1100000.0
+1154549,Mario Martín,LaLiga,M,10700000.0
+811629,Luis Milla,LaLiga,M,3200000.0
+385888,Mauro Arambarri,LaLiga,M,10300000.0
+1087476,Abu Kamara,LaLiga,M,2900000.0
+353154,Javier Muñoz,LaLiga,M,1400000.0
+1398518,Álex Sancris,LaLiga,M,1900000.0
+2439155,Adrián Riquelme,LaLiga,M,52000.0
+1101232,Abdelkabir Abqar,LaLiga,D,5700000.0
+307702,Djené,LaLiga,D,1700000.0
+1895964,Ismael Bekhoucha,LaLiga,D,290000.0
+1392092,Sebastián Boselli,LaLiga,D,2900000.0
+1108450,Zaid Romero,LaLiga,D,2400000.0
+350560,Diego Rico,LaLiga,D,1200000.0
+128637,Allan Nyom,LaLiga,D,220000.0
+576276,Domingos Duarte,LaLiga,D,870000.0
+949707,Juan Iglesias,LaLiga,D,4800000.0
+53739,Kiko Femenía,LaLiga,D,840000.0
+1918369,Davinchi,LaLiga,D,910000.0
+1895197,Jorge Montes,LaLiga,D,45000.0
+604258,David Soria,LaLiga,G,2900000.0
+826047,Jiří Letáček,LaLiga,G,1900000.0
+1513631,Jorge Benito,LaLiga,G,26000.0
+1520799,Maroan Sannadi,LaLiga,F,4700000.0
+605672,Gorka Guruzeta,LaLiga,F,4600000.0
+1430667,Urko Izeta,LaLiga,F,1600000.0
+1085400,Nico Williams,LaLiga,M,65000000.0
+783374,Iñaki Williams,LaLiga,M,9100000.0
+966801,Oihan Sancet,LaLiga,M,39000000.0
+592012,Álex Berenguer,LaLiga,M,5200000.0
+1495844,Mikel Jauregizar,LaLiga,M,36000000.0
+96365,Iñigo Ruiz de Galarreta,LaLiga,M,2300000.0
+944165,Robert Navarro,LaLiga,M,6500000.0
+1391375,Unai Gómez,LaLiga,M,5200000.0
+1012409,Beñat Prados,LaLiga,M,18500000.0
+2110897,Alejandro Rego,LaLiga,M,3300000.0
+1953923,Selton Sanchez,LaLiga,M,3100000.0
+359742,Mikel Vesga,LaLiga,M,1400000.0
+1019318,Nico Serrano,LaLiga,M,1600000.0
+149734,Aymeric Laporte,LaLiga,D,9400000.0
+910978,Daniel Vivian,LaLiga,D,27000000.0
+1398511,Adama Boiro,LaLiga,D,2800000.0
+84531,Yuri Berchiche,LaLiga,D,1100000.0
+959872,Aitor Paredes,LaLiga,D,17100000.0
+807648,Yeray Álvarez,LaLiga,D,1000000.0
+910267,Jesús Areso,LaLiga,D,11000000.0
+866810,Andoni Gorosabel,LaLiga,D,3900000.0
+801837,Íñigo Lekue,LaLiga,D,1100000.0
+1391374,Unai Eguíluz,LaLiga,D,620000.0
+1934668,Iker Monreal Agundez,LaLiga,D,110000.0
+797291,Unai Simón,LaLiga,G,24000000.0
+1155116,Alex Padilla,LaLiga,G,3100000.0
+1145642,Victor Muñoz,LaLiga,F,19400000.0
+37318,Ante Budimir,LaLiga,F,2800000.0
+997280,Raúl García de Haro,LaLiga,F,3100000.0
+1086346,Iker Benito,LaLiga,F,1600000.0
+591132,Kike Barja,LaLiga,F,1500000.0
+980383,Raúl Moro,LaLiga,M,6700000.0
+985329,Aimar Oroz,LaLiga,M,8199999.0
+260031,Rubén García,LaLiga,M,1900000.0
+976141,Jon Moncayola,LaLiga,M,7300000.0
+187313,Lucas Torró,LaLiga,M,3100000.0
+149370,Moi Gómez,LaLiga,M,1900000.0
+1119586,Iker Muñoz,LaLiga,M,1800000.0
+1399702,Asier Osambela,LaLiga,M,1000000.0
+1067582,Flavien Boyomo,LaLiga,D,19400000.0
+825133,Javi Galán,LaLiga,D,3400000.0
+900792,Alejandro Catena,LaLiga,D,2900000.0
+842419,Valentin Rosier,LaLiga,D,3100000.0
+1010165,Abel Bretones,LaLiga,D,4400000.0
+944225,Jorge Herrando,LaLiga,D,3200000.0
+897902,Juan Cruz,LaLiga,D,1200000.0
+1495856,Iñigo Arguibide,LaLiga,D,530000.0
+294377,Sergio Herrera,LaLiga,G,2800000.0
+99516,Aitor Fernández,LaLiga,G,560000.0
+1392592,Roberto Fernández,LaLiga,F,10854111.235294119
+877037,Cyril Ngonge,LaLiga,F,7800000.0
+84972,Kike García,LaLiga,F,825000.0
+758664,Charles Pickel,LaLiga,M,2700000.0
+891511,Javi Puado,LaLiga,M,9300000.0
+877262,Edu Expósito,LaLiga,M,3600000.0
+175185,Pere Milla,LaLiga,M,1200000.0
+1063015,Tyrhys Dolan,LaLiga,M,10800000.0
+826010,Pol Lozano,LaLiga,M,5800000.0
+1088565,Ramón Terrats,LaLiga,M,3200000.0
+1064009,Urko González,LaLiga,M,4900000.0
+1019236,Jofre Carreras,LaLiga,M,2800000.0
+1099344,Antoniu Roca,LaLiga,M,1600000.0
+1064026,Omar El Hilali,LaLiga,D,15900000.0
+1396048,Carlos Romero,LaLiga,D,24000000.0
+81992,Leandro Cabrera,LaLiga,D,1000000.0
+1129360,Clemens Riedel,LaLiga,D,4800000.0
+857205,Fernando Calero,LaLiga,D,2100000.0
+1068891,Jose Salinas,LaLiga,D,2500000.0
+934351,Miguel Rubio,LaLiga,D,1900000.0
+1021165,Rubén Sánchez,LaLiga,D,1400000.0
+1870032,Adama Timera,LaLiga,D,23000.0
+94527,Marko Dmitrović,LaLiga,G,740000.0
+1082734,Angel Fortuno,LaLiga,G,290000.0
+962624,Pol Tristan Jimenez,LaLiga,G,52000.0
+962029,Lucas Beltrán,LaLiga,F,8400000.0
+827064,Arnaut Danjuma,LaLiga,F,3800000.0
+754710,Umar Sadiq,LaLiga,F,3900000.0
+909119,Hugo Duro,LaLiga,F,11600000.0
+909966,Largie Ramazani,LaLiga,F,5600000.0
+873947,Dani Raba,LaLiga,F,2500000.0
+609752,Guido Rodríguez,LaLiga,M,6200000.0
+1122610,Javier Guerra,LaLiga,M,26000000.0
+826948,Pepelu,LaLiga,M,8199999.0
+998950,Diego López,LaLiga,M,16000000.0
+845693,André Almeida,LaLiga,M,9300000.0
+900433,Luis Rioja,LaLiga,M,2100000.0
+857482,Filip Ugrinić,LaLiga,M,5700000.0
+344751,Baptiste Santamaria,LaLiga,M,4700000.0
+797306,Mouctar Diakhaby,LaLiga,D,2900000.0
+227922,José Luis Gayà,LaLiga,D,5400000.0
+315916,Renzo Saravia,LaLiga,D,1400000.0
+892521,Unai Núñez,LaLiga,D,3300000.0
+996928,César Tárrega,LaLiga,D,15500000.0
+851282,Thierry Correia,LaLiga,D,3100000.0
+814023,Eray Cömert,LaLiga,D,2200000.0
+151138,Dimitri Foulquier,LaLiga,D,1300000.0
+996929,Jesús Vázquez,LaLiga,D,3200000.0
+913695,José Copete,LaLiga,D,3600000.0
+1614476,Alejandro Panach Olmo,LaLiga,D,23000.0
+1014412,Julen Agirrezabala,LaLiga,G,16300000.0
+97951,Stole Dimitrievski,LaLiga,G,2100000.0
+914744,Cristian Rivero,LaLiga,G,94000.0
+1464650,Vicent Abril,LaLiga,G,205000.0
+976374,Vladyslav Vanat,LaLiga,F,13900000.0
+32048,Cristhian Stuani,LaLiga,F,835000.0
+826013,Abel Ruíz,LaLiga,F,2800000.0
+218616,Portu,LaLiga,F,1600000.0
+1482424,Claudio Echeverri,LaLiga,M,14300000.0
+991421,Azzedine Ounahi,LaLiga,M,10300000.0
+35612,Axel Witsel,LaLiga,M,1500000.0
+361790,Donny van de Beek,LaLiga,M,2100000.0
+191182,Thomas Lemar,LaLiga,M,2100000.0
+319735,Viktor Tsygankov,LaLiga,M,15700000.0
+910026,Bryan Gil,LaLiga,M,12400000.0
+973699,Iván Martín,LaLiga,M,5500000.0
+835484,Fran Beltrán,LaLiga,M,5200000.0
+1860172,Lass Kourouma,LaLiga,M,520000.0
+1391616,Joel Roca,LaLiga,M,5200000.0
+1485300,Vitor Reis,LaLiga,D,31000000.0
+44864,Daley Blind,LaLiga,D,1500000.0
+1084081,Arnau Martínez,LaLiga,D,10800000.0
+294593,Álex Moreno,LaLiga,D,3600000.0
+1002347,Alejandro Francés,LaLiga,D,2800000.0
+135116,David López,LaLiga,D,730000.0
+1632454,Hugo Rincón,LaLiga,D,3400000.0
+88625,Marc-André Ter Stegen,LaLiga,G,7300000.0
+164343,Paulo Gazzaniga,LaLiga,G,2100000.0
+1521733,Vladyslav Krapyvtsov,LaLiga,G,440000.0
+180515,Rubén Blanco,LaLiga,G,830000.0
+83708,Juan Carlos,LaLiga,G,95000.0
+900003,Jorge de Frutos,LaLiga,F,10900000.0
+981604,Alemão,LaLiga,F,3800000.0
+1131581,Carlos Martín,LaLiga,F,2100000.0
+910024,Sergio Camello,LaLiga,F,2200000.0
+932764,Randy Nteka,LaLiga,F,1300000.0
+1089108,Ilias Akhomach,LaLiga,M,11100000.0
+913679,Pathé Ismaël Ciss,LaLiga,M,1800000.0
+899982,Isi Palazón,LaLiga,M,3300000.0
+345111,Álvaro García,LaLiga,M,1700000.0
+900669,Pedro Díaz,LaLiga,M,2900000.0
+21949,Óscar Trejo,LaLiga,M,390000.0
+588566,Unai López,LaLiga,M,2600000.0
+966637,Fran Pérez,LaLiga,M,2800000.0
+900008,Óscar Valentín,LaLiga,M,2100000.0
+326471,Gerard Gumbau,LaLiga,M,1400000.0
+1392573,Diego Mendez,LaLiga,M,54000.0
+965031,Andrei Rațiu,LaLiga,D,16700000.0
+1458073,Nobel Mendy,LaLiga,D,6200000.0
+846147,Abdul Mumin,LaLiga,D,4300000.0
+88528,Florian Lejeune,LaLiga,D,1900000.0
+850035,Luiz Felipe,LaLiga,D,3100000.0
+152446,Iván Balliu,LaLiga,D,1300000.0
+542634,Alfonso Espino,LaLiga,D,935000.0
+1010421,Josep Chavarría,LaLiga,D,9700000.0
+1120947,Jozhua Vertrouwd,LaLiga,D,2600000.0
+358910,Augusto Batalla,LaLiga,G,5800000.0
+965832,Dani Cárdenas,LaLiga,G,1700000.0
+1893144,Adrián Molina,LaLiga,G,3707197.468487395
+1165029,Juanpe,LaLiga,G,53000.0
+175753,Mariano Díaz,LaLiga,F,765000.0
+814385,Lucas Boyé,LaLiga,F,5300000.0
+831253,Toni Martínez,LaLiga,F,3400000.0
+1084043,Ibrahim Diabaté,LaLiga,F,1400000.0
+1403364,Youssef Enriquez Lekhedim,LaLiga,M,5300000.0
+855832,Antonio Blanco,LaLiga,M,9700000.0
+794937,Carles Aleñá,LaLiga,M,2800000.0
+138383,Denis Suárez,LaLiga,M,1300000.0
+1082968,Abderrahman Rebbach,LaLiga,M,1500000.0
+1046796,Calebe Gonçalves,LaLiga,M,1900000.0
+873717,Carlos Benavídez,LaLiga,M,960000.0
+1084381,Pablo Ibáñez,LaLiga,M,3100000.0
+788141,Jon Guridi,LaLiga,M,2400000.0
+891931,Ander Guevara,LaLiga,M,3200000.0
+879875,Facundo Garcés,LaLiga,D,1100000.0
+896073,Nahuel Tenaglia,LaLiga,D,3200000.0
+235648,Jonny Otto,LaLiga,D,2400000.0
+934383,Jon Pacheco,LaLiga,D,5200000.0
+999178,Ville Koski,LaLiga,D,1600000.0
+985726,Victor Parada,LaLiga,D,1900000.0
+1513222,Ángel Pérez,LaLiga,D,925000.0
+369004,Antonio Sivera,LaLiga,G,5600000.0
+31828,Raúl Fernández,LaLiga,G,195000.0
+1561798,Ruben Montero,LaLiga,G,3707197.468487395
+34120,Alexis Sánchez,LaLiga,F,1500000.0
+946381,Akor Adams,LaLiga,F,6800000.0
+875890,Chidera Ejuke,LaLiga,F,3700000.0
+268903,Neal Maupay,LaLiga,F,4099999.0
+1018190,Isaac Romero,LaLiga,F,6200000.0
+818986,Gabriel Suazo,LaLiga,M,7600000.0
+872919,Ruben Vargas,LaLiga,M,11100000.0
+799054,Djibril Sow,LaLiga,M,7100000.0
+960006,Lucien Agoumé,LaLiga,M,12400000.0
+68332,Nemanja Gudelj,LaLiga,M,2400000.0
+328145,Adnan Januzaj,LaLiga,M,1300000.0
+859021,Batista Mendy,LaLiga,M,9100000.0
+1010655,Juanlu Sánchez,LaLiga,M,14600000.0
+997033,Peque Fernández,LaLiga,M,3800000.0
+591750,Joan Jordán,LaLiga,M,1900000.0
+1534422,Oso,LaLiga,M,5200000.0
+1142094,Manu Bueno,LaLiga,M,1500000.0
+21555,César Azpilicueta,LaLiga,D,1100000.0
+1003007,Tanguy Nianzou,LaLiga,D,1400000.0
+840951,Marcão,LaLiga,D,2600000.0
+1015240,José Ángel Carmona,LaLiga,D,11100000.0
+1097719,Kike Salas,LaLiga,D,8800000.0
+941464,Federico Gattoni,LaLiga,D,900000.0
+252815,Fábio Cardoso,LaLiga,D,2400000.0
+1428699,Andres Castrin,LaLiga,D,1600000.0
+138149,Odysseas Vlachodimos,LaLiga,G,4300000.0
+22209,Ørjan Nyland,LaLiga,G,930000.0
+1154587,Álvaro Rodriguez,LaLiga,F,4600000.0
+190159,André Silva,LaLiga,F,2800000.0
+825754,Rafa Mir,LaLiga,F,4099999.0
+1518971,Adam Boayar,LaLiga,F,825000.0
+605374,Tete Morente,LaLiga,F,1600000.0
+2504296,Quini,LaLiga,F,10854111.235294119
+1126447,Lucas Cepeda,LaLiga,M,3600000.0
+1117026,Federico Redondo,LaLiga,M,3400000.0
+848512,Grady Diangana,LaLiga,M,3600000.0
+286167,Aleix Febas,LaLiga,M,4099999.0
+914765,Gonzalo Villar,LaLiga,M,1700000.0
+962710,Germán Valera,LaLiga,M,5200000.0
+1100646,Martim Neto,LaLiga,M,4800000.0
+1014595,Marc Aguado,LaLiga,M,3200000.0
+1092515,Yago Santiago,LaLiga,M,855000.0
+808955,Josan,LaLiga,M,105000.0
+1402908,Hector Fort,LaLiga,D,11600000.0
+988672,David Affengruber,LaLiga,D,8100000.0
+1542721,Buba Sangare,LaLiga,D,970000.0
+928672,Adrià Pedrosa,LaLiga,D,3900000.0
+855831,Víctor Chust,LaLiga,D,4300000.0
+141832,Pedro Bigas,LaLiga,D,415000.0
+827504,Léo Pétrot,LaLiga,D,1400000.0
+1094758,John Donald,LaLiga,D,1000000.0
+1916211,Pablo Felipe,LaLiga,D,54000.0
+794949,Iñaki Peña,LaLiga,G,7300000.0
+556884,Matías Dituro,LaLiga,G,205000.0
+1019324,Alejandro Iturbe,LaLiga,G,1900000.0
+310874,Vedat Muriqi,LaLiga,F,4400000.0
+1000150,Zito Luvumbo,LaLiga,F,3600000.0
+1170693,Mateo Joseph,LaLiga,F,3700000.0
+146852,Abdón Prats,LaLiga,F,970000.0
+1082981,Pablo Torre,LaLiga,M,4900000.0
+1939173,Jan Virgili,LaLiga,M,13800000.0
+309546,Takuma Asano,LaLiga,M,1700000.0
+988351,Samú Costa,LaLiga,M,14600000.0
+110783,Sergi Darder,LaLiga,M,3300000.0
+255999,Omar Mascarell,LaLiga,M,835000.0
+826004,Manu Morlanes,LaLiga,M,2200000.0
+949722,Antonio Sánchez,LaLiga,M,10937027.341997264
+1484974,Justin-Noel Kalumba,LaLiga,M,775000.0
+1162309,Javi Llabrés,LaLiga,M,845000.0
+1905699,Jan Salas,LaLiga,M,485000.0
+2415824,Jandro García,LaLiga,M,24000.0
+344847,Johan Mojica,LaLiga,D,1700000.0
+788216,Pablo Maffeo,LaLiga,D,4800000.0
+893642,Marash Kumbulla,LaLiga,D,4600000.0
+807116,Antonio Raíllo,LaLiga,D,1600000.0
+300522,Martin Valjent,LaLiga,D,4700000.0
+879543,Mateu Morey,LaLiga,D,1500000.0
+828239,Toni Lato,LaLiga,D,1400000.0
+1513896,David López,LaLiga,D,1300000.0
+2282845,Javier Olaizola,LaLiga,D,8067730.136468774
+996903,Lucas Bergström,LaLiga,G,1600000.0
+1131909,Leo Román,LaLiga,G,5800000.0
+19013,Iván Cuéllar,LaLiga,G,110000.0
+2522960,Rareș Vlad,LaLiga,G,3707197.468487395
+1393673,Etta Eyong,LaLiga,F,18700000.0
+344129,José Luis Morales,LaLiga,F,315000.0
+1014042,Iván Romero,LaLiga,F,6900000.0
+1649918,Carlos Espí,LaLiga,F,2700000.0
+1649919,Kareem Tunde,LaLiga,F,1100000.0
+1869106,Paco Cortés,LaLiga,F,960000.0
+2504430,Miguel Adorno,LaLiga,F,10854111.235294119
+1010656,Carlos Álvarez,LaLiga,M,15500000.0
+1083832,Kervin Arriaga,LaLiga,M,1500000.0
+1160250,Tai Abed,LaLiga,M,765000.0
+859769,Oriol Rey,LaLiga,M,1900000.0
+992331,Iker Losada,LaLiga,M,1500000.0
+1170694,Ugo Raghouber,LaLiga,M,2800000.0
+1010383,Jon Ander Olasagasti,LaLiga,M,1900000.0
+927066,Pablo Martínez,LaLiga,M,2100000.0
+966802,Unai Vencedor,LaLiga,M,1900000.0
+909554,Roger Brugué,LaLiga,M,1900000.0
+952222,Víctor García,LaLiga,M,970000.0
+1177401,Alan Matturro,LaLiga,D,4099999.0
+1496360,Matias Moreno,LaLiga,D,3900000.0
+984789,Manuel Sánchez,LaLiga,D,6400000.0
+997244,Adrián de la Fuente,LaLiga,D,2100000.0
+149606,Jeremy Toljan,LaLiga,D,2100000.0
+813574,Unai Elgezabal,LaLiga,D,580000.0
+855837,Diego Pampín,LaLiga,D,1300000.0
+2049311,Nacho Pérez,LaLiga,D,8067730.136468774
+134029,Mathew Ryan,LaLiga,G,1900000.0
+1085579,Pablo Cuñat,LaLiga,G,1600000.0
+1215079,Alejandro Primo,LaLiga,G,110000.0
+976104,Federico Viñas,LaLiga,F,3600000.0
+1018547,Thiago Borbas,LaLiga,F,3800000.0
+1086128,Álex Forés,LaLiga,F,720000.0
+17651,Santi Cazorla,LaLiga,M,195000.0
+942836,Haissem Hassan,LaLiga,M,5200000.0
+905639,Kwasi Sibo,LaLiga,M,1500000.0
+1008037,Ilyas Chaira,LaLiga,M,3800000.0
+190405,Leander Dendoncker,LaLiga,M,3700000.0
+1201412,Thiago Fernández,LaLiga,M,4700000.0
+885664,Luka Ilić,LaLiga,M,2100000.0
+944629,Nicolas Fonseca,LaLiga,M,2900000.0
+822379,Santiago Colombatto,LaLiga,M,3100000.0
+882475,Alberto Reina,LaLiga,M,1400000.0
+845025,Ovie Ejaria,LaLiga,M,535000.0
+1587199,Pablo Agudín,LaLiga,M,23000.0
+606346,Eric Bailly,LaLiga,D,1500000.0
+1120504,Abdel Rahim,LaLiga,D,1900000.0
+892235,David Carmo,LaLiga,D,9200000.0
+945404,Javi López,LaLiga,D,5400000.0
+844752,Nacho Vidal,LaLiga,D,1700000.0
+345333,David Costas,LaLiga,D,1500000.0
+560756,Dani Calvo,LaLiga,D,940000.0
+597876,Lucas Ahijado,LaLiga,D,750000.0
+2507465,Adri Fernández,LaLiga,D,24000.0
+857065,Horațiu Moldovan,LaLiga,G,2100000.0
+368922,Aarón Escandell,LaLiga,G,1900000.0
+823984,Lautaro Martínez,Serie A,F,80000000.0
+791702,Marcus Thuram,Serie A,F,62000000.0
+1086223,Ange-Yoan Bonny,Serie A,F,34000000.0
+1156616,Francesco Pio Esposito,Serie A,F,37000000.0
+1525370,Matteo Spinaccé,Serie A,F,1100000.0
+135700,Hakan Çalhanoğlu,Serie A,M,23000000.0
+363856,Nicolò Barella,Serie A,M,65000000.0
+138605,Piotr Zieliński,Serie A,M,10300000.0
+284361,Federico Dimarco,Serie A,M,48000000.0
+759520,Denzel Dumfries,Serie A,M,26000000.0
+37151,Henrikh Mkhitaryan,Serie A,M,3400000.0
+1091303,Petar Sučić,Serie A,M,33000000.0
+977679,Luís Henrique,Serie A,M,25000000.0
+835600,Davide Frattesi,Serie A,M,26000000.0
+1048889,Andy Diouf,Serie A,M,19400000.0
+19352,Matteo Darmian,Serie A,M,1400000.0
+383560,Manuel Akanji,Serie A,D,20000000.0
+826188,Alessandro Bastoni,Serie A,D,75000000.0
+929199,Carlos Augusto,Serie A,D,25000000.0
+91046,Stefan de Vrij,Serie A,D,3200000.0
+906275,Yann Bisseck,Serie A,D,33000000.0
+126816,Francesco Acerbi,Serie A,D,2400000.0
+16206,Yann Sommer,Serie A,G,2300000.0
+845291,Josep Martínez,Serie A,G,9400000.0
+301162,Raffaele Di Gennaro,Serie A,G,325000.0
+851284,Rafael Leão,Serie A,F,67000000.0
+769333,Christopher Nkunku,Serie A,F,33000000.0
+892141,Santiago Giménez,Serie A,F,21000000.0
+132645,Niclas Füllkrug,Serie A,F,8600000.0
+15466,Luka Modrić,Serie A,M,4400000.0
+817957,Christian Pulišić,Serie A,M,64000000.0
+250737,Adrien Rabiot,Serie A,M,19200000.0
+901891,Alexis Saelemaekers,Serie A,M,26000000.0
+284441,Ruben Loftus-Cheek,Serie A,M,10500000.0
+945062,Youssouf Fofana,Serie A,M,31000000.0
+1034082,Ardon Jashari,Serie A,M,30000000.0
+930189,Samuele Ricci,Serie A,M,23000000.0
+805465,Pervis Estupiñán,Serie A,D,12900000.0
+965893,Strahinja Pavlović,Serie A,D,27000000.0
+788255,Fikayo Tomori,Serie A,D,18500000.0
+1390489,Davide Bartesaghi,Serie A,D,16700000.0
+826195,Matteo Gabbia,Serie A,D,21000000.0
+1001828,Koni De Winter,Serie A,D,19400000.0
+1409700,Zachary Athekame,Serie A,D,8199999.0
+1424191,David Odogu,Serie A,D,4600000.0
+191210,Mike Maignan,Serie A,G,27000000.0
+1403294,Lorenzo Torriani,Serie A,G,480000.0
+136856,Pietro Terracciano,Serie A,G,1100000.0
+1907240,Matteo Pittarella,Serie A,G,97000.0
+1086417,Rasmus Højlund,Serie A,F,49000000.0
+78893,Romelu Lukaku,Serie A,F,14500000.0
+850993,David Neres,Serie A,F,27000000.0
+1122835,Alisson Santos,Serie A,F,4200000.0
+1170773,Giovane,Serie A,F,12600000.0
+235672,Matteo Politano,Serie A,F,8400000.0
+1069560,Antonio Vergara,Serie A,F,2300000.0
+70996,Kevin De Bruyne,Serie A,M,15500000.0
+879346,Scott McTominay,Serie A,M,42000000.0
+787941,Frank Anguissa,Serie A,M,24000000.0
+150383,Stanislav Lobotka,Serie A,M,18600000.0
+907668,Billy Gilmour,Serie A,M,18800000.0
+838232,Eljif Elmas,Serie A,M,13500000.0
+377512,Pasquale Mazzocchi,Serie A,M,1500000.0
+153257,Giovanni Di Lorenzo,Serie A,D,9100000.0
+908716,Miguel Gutiérrez,Serie A,D,18500000.0
+870263,Alessandro Buongiorno,Serie A,D,48000000.0
+148899,Leonardo Spinazzola,Serie A,D,3400000.0
+332155,Amir Rrahmani,Serie A,D,12700000.0
+805078,Mathías Olivera,Serie A,D,17400000.0
+108484,Juan Jesus,Serie A,D,1500000.0
+898815,Sam Beukema,Serie A,D,30000000.0
+356160,Vanja Milinković-Savić,Serie A,G,18600000.0
+592794,Alex Meret,Serie A,G,12600000.0
+352728,Nikita Contini,Serie A,G,390000.0
+1940256,Mathias Ferrante,Serie A,G,215000.0
+125407,Álvaro Morata,Serie A,F,8300000.0
+1493689,Assane Diao,Serie A,F,31000000.0
+894863,Anastasios Douvikas,Serie A,F,9400000.0
+877835,Nicolas-Gerrit Kühn,Serie A,F,14100000.0
+1171451,Nico Paz,Serie A,M,70000000.0
+1090019,Martin Baturina,Serie A,M,16600000.0
+123976,Sergi Roberto,Serie A,M,1400000.0
+1086286,Máximo Perrone,Serie A,M,24000000.0
+1800245,Jesús Rodriguez,Serie A,M,32000000.0
+1177723,Jayden Addai,Serie A,M,21000000.0
+859027,Maxence Caqueret,Serie A,M,15500000.0
+911848,Lucas Da Cunha,Serie A,M,13700000.0
+1802689,Adrian Lahdo,Serie A,M,905000.0
+1403348,Jacobo Ramón,Serie A,D,19100000.0
+1142238,Álex Valle,Serie A,D,10800000.0
+604232,Diego Carlos,Serie A,D,9000000.0
+798147,Mërgim Vojvoda,Serie A,D,3200000.0
+974581,Ivan Smolčić,Serie A,D,2700000.0
+226974,Marc-Oliver Kempf,Serie A,D,2900000.0
+229740,Alberto Moreno,Serie A,D,955000.0
+989186,Ignace Van der Brempt,Serie A,D,3200000.0
+295133,Edoardo Goldaniga,Serie A,D,2400000.0
+2035779,Cristiano De Paoli,Serie A,D,290000.0
+599114,Jean Butez,Serie A,G,4400000.0
+1063336,Nikola Čavlina,Serie A,G,805000.0
+1014583,Noel Törnqvist,Serie A,G,1900000.0
+1835763,Henrique Menke,Serie A,G,325000.0
+41444,Mauro Vigorito,Serie A,G,155000.0
+1149011,Kenan Yıldız,Serie A,F,72000000.0
+832208,Dušan Vlahović,Serie A,F,34000000.0
+935564,Jonathan David,Serie A,F,34000000.0
+979222,Francisco Conceição,Serie A,F,28000000.0
+835480,Loïs Openda,Serie A,F,43000000.0
+161325,Arkadiusz Milik,Serie A,F,1600000.0
+887766,Edon Zhegrova,Serie A,F,19000000.0
+367056,Jérémie Boga,Serie A,F,7700000.0
+904832,Khéphren Thuram,Serie A,M,38000000.0
+363860,Manuel Locatelli,Serie A,M,24000000.0
+881931,Weston McKennie,Serie A,M,23000000.0
+803033,Teun Koopmeiners,Serie A,M,26000000.0
+917048,Andrea Cambiaso,Serie A,M,32000000.0
+126588,Filip Kostić,Serie A,M,3200000.0
+1149288,Vasilije Adžić,Serie A,M,8800000.0
+1010223,Fabio Miretti,Serie A,M,13600000.0
+885197,Bremer,Serie A,D,33000000.0
+965330,Pierre Kalulu,Serie A,D,27000000.0
+1128063,Federico Gatti,Serie A,D,18800000.0
+988037,Juan Cabal,Serie A,D,9300000.0
+865167,Lloyd Kelly,Serie A,D,21000000.0
+965264,Emil Holm,Serie A,D,11700000.0
+844609,Michele Di Gregorio,Serie A,G,17200000.0
+79645,Mattia Perin,Serie A,G,1900000.0
+46420,Carlo Pinsoglio,Serie A,G,195000.0
+256219,Paulo Dybala,Serie A,F,5200000.0
+803039,Donyell Malen,Serie A,F,27000000.0
+798820,Artem Dovbyk,Serie A,F,18500000.0
+1082406,Matías Soulé,Serie A,F,36000000.0
+999231,Evan Ferguson,Serie A,F,27000000.0
+1514800,Robinio Vaz,Serie A,F,10400000.0
+555540,Lorenzo Pellegrini,Serie A,F,9500000.0
+45925,Stephan El Shaarawy,Serie A,F,2300000.0
+1084730,Bryan Zaragoza,Serie A,F,9300000.0
+1923599,Antonio Arena,Serie A,F,1100000.0
+1128530,Neil El Aynaoui,Serie A,M,19000000.0
+974087,Manu Koné,Serie A,M,47000000.0
+848355,Angeliño,Serie A,M,15800000.0
+186855,Bryan Cristante,Serie A,M,7700000.0
+1175821,Niccolò Pisilli,Serie A,M,12400000.0
+1618563,Lorenzo Venturino,Serie A,M,1400000.0
+1134200,Wesley,Serie A,D,37000000.0
+786259,Konstantinos Tsimikas,Serie A,D,9700000.0
+848287,Evan Ndicka,Serie A,D,29000000.0
+611210,Gianluca Mancini,Serie A,D,14600000.0
+1499991,Jan Ziółkowski,Serie A,D,7300000.0
+893008,Zeki Çelik,Serie A,D,12400000.0
+353130,Mario Hermoso,Serie A,D,6600000.0
+982778,Devyne Rensch,Serie A,D,7900000.0
+1384847,Daniele Ghilardi,Serie A,D,8800000.0
+793986,Mile Svilar,Serie A,G,33000000.0
+329175,Pierluigi Gollini,Serie A,G,830000.0
+1461428,Radosław Żelezny,Serie A,G,215000.0
+1652568,Giorgio De Marzi,Serie A,G,3707197.468487395
+960441,Charles De Ketelaere,Serie A,F,32000000.0
+1019442,Kamaldeen Sulemana,Serie A,F,17500000.0
+865651,Giacomo Raspadori,Serie A,F,23000000.0
+807301,Gianluca Scamacca,Serie A,F,27000000.0
+839156,Nikola Krstović,Serie A,F,19400000.0
+984184,Nicola Zalewski,Serie A,M,13800000.0
+946888,Éderson,Serie A,M,38000000.0
+190437,Mario Pašalić,Serie A,M,7200000.0
+980624,Lazar Samardžić,Serie A,M,14600000.0
+983815,Yunus Musah,Serie A,M,18600000.0
+826185,Raoul Bellanova,Serie A,M,21000000.0
+132318,Davide Zappacosta,Serie A,M,3800000.0
+100389,Marten de Roon,Serie A,M,3400000.0
+1012177,Lorenzo Bernasconi,Serie A,M,4099999.0
+973437,Odilon Kossounou,Serie A,D,23000000.0
+1012176,Giorgio Scalvini,Serie A,D,24000000.0
+142148,Sead Kolašinac,Serie A,D,6400000.0
+1157713,Isak Hien,Serie A,D,24000000.0
+151003,Berat Djimsiti,Serie A,D,5400000.0
+1634980,Honest Ahanor,Serie A,D,26000000.0
+856638,Mitchel Bakker,Serie A,D,4400000.0
+865646,Marco Carnesecchi,Serie A,G,26000000.0
+176301,Marco Sportiello,Serie A,G,915000.0
+80074,Francesco Rossi,Serie A,G,105000.0
+960080,Boulaye Dia,Serie A,F,9700000.0
+35428,Pedro,Serie A,F,1000000.0
+970928,Daniel Maldini,Serie A,F,8500000.0
+1101942,Petar Ratkov,Serie A,F,6500000.0
+1017649,Matteo Cancellieri,Serie A,F,5700000.0
+1069244,Tijjani Noslin,Serie A,F,5900000.0
+293581,Mattia Zaccagni,Serie A,M,13500000.0
+1389689,Reda Belahyane,Serie A,M,8199999.0
+910121,Fisayo Dele-Bashiru,Serie A,M,7100000.0
+959806,Kenneth Taylor,Serie A,M,24000000.0
+976381,Gustav Isaksen,Serie A,M,18500000.0
+937324,Nicolò Rovella,Serie A,M,31000000.0
+798002,Toma Bašić,Serie A,M,2600000.0
+1466806,Adrian Przyborek,Serie A,M,7300000.0
+317301,Danilo Cataldi,Serie A,M,3700000.0
+1547464,Valerio Farcomeni,Serie A,M,92000.0
+944973,Nuno Tavares,Serie A,D,15700000.0
+227864,Alessio Romagnoli,Serie A,D,7200000.0
+965828,Mario Gila Fuentes,Serie A,D,31000000.0
+826186,Luca Pellegrini,Serie A,D,3400000.0
+136322,Elseid Hysaj,Serie A,D,1500000.0
+267619,Adam Marušić,Serie A,D,3200000.0
+339231,Samuel Gigot,Serie A,D,1400000.0
+273405,Manuel Lazzari,Serie A,D,2700000.0
+1160559,Oliver Provstgaard,Serie A,D,4600000.0
+217784,Patric,Serie A,D,1400000.0
+308182,Ivan Provedel,Serie A,G,2800000.0
+1518983,Edoardo Motta,Serie A,G,1200000.0
+984095,Alessio Furlanetto,Serie A,G,52000.0
+2111460,Giacomo Giacomone,Serie A,G,3707197.468487395
+1116577,Santiago Castro,Serie A,F,32000000.0
+1065261,Jonathan Rowe,Serie A,F,16500000.0
+905381,Thijs Dallinga,Serie A,F,13100000.0
+971005,Nicolò Cambiaghi,Serie A,F,16200000.0
+793645,Riccardo Orsolini,Serie A,M,26000000.0
+294597,Federico Bernardeschi,Serie A,M,3600000.0
+1162611,Benjamín Domínguez,Serie A,M,12500000.0
+814882,Nikola Moro,Serie A,M,6700000.0
+907152,Lewis Ferguson,Serie A,M,18600000.0
+115516,Remo Freuler,Serie A,M,4099999.0
+826064,Jens Odgaard,Serie A,M,14200000.0
+928796,Tommaso Pobega,Serie A,M,9300000.0
+909991,Simon Sohm,Serie A,M,7800000.0
+818481,Jhon Lucumí,Serie A,D,26000000.0
+902031,João Mário,Serie A,D,9200000.0
+855829,Juan Miranda,Serie A,D,15700000.0
+928104,Nadir Zortea,Serie A,D,7000000.0
+1085913,Martin Vitík,Serie A,D,10300000.0
+933264,Torbjørn Heggem,Serie A,D,13100000.0
+98212,Charalampos Lykogiannis,Serie A,D,1500000.0
+1486808,Eivind Helland,Serie A,D,5500000.0
+862697,Nicolò Casale,Serie A,D,5400000.0
+14718,Lorenzo De Silvestri,Serie A,D,630000.0
+365992,Kevin Bonifazi,Serie A,D,320000.0
+44906,Łukasz Skorupski,Serie A,G,2400000.0
+850952,Federico Ravaglia,Serie A,G,1800000.0
+1530540,Massimo Pessina,Serie A,G,1100000.0
+2223023,Matteo Franceschelli,Serie A,G,3707197.468487395
+253367,Domenico Berardi,Serie A,F,8100000.0
+826198,Andrea Pinamonti,Serie A,F,15500000.0
+932643,Armand Laurienté,Serie A,F,14700000.0
+788061,M'Bala Nzola,Serie A,F,5800000.0
+1031548,Alieu Fadera,Serie A,F,4600000.0
+949780,Luca Moro,Serie A,F,2100000.0
+44241,Nemanja Matić,Serie A,M,1700000.0
+1134351,Ismael Koné,Serie A,M,14700000.0
+924973,Kristian Thorstvedt,Serie A,M,10300000.0
+1823916,Darryl Bakola,Serie A,M,4200000.0
+989371,Aster Vranckx,Serie A,M,7300000.0
+1155625,Cristian Volpato,Serie A,M,9700000.0
+1154898,Luca Lipani,Serie A,M,4600000.0
+882592,Daniel Boloca,Serie A,M,4600000.0
+1013239,Edoardo Iannoni,Serie A,M,720000.0
+1838644,Christian Frangella,Serie A,M,170000.0
+933641,Jay Idzes,Serie A,D,10400000.0
+1118177,Tarik Muharemović,Serie A,D,15100000.0
+989894,Woyo Coulibaly,Serie A,D,2200000.0
+886243,Sebastian Walukiewicz,Serie A,D,4200000.0
+989276,Josh Doig,Serie A,D,4900000.0
+558320,Ulisses Garcia,Serie A,D,2900000.0
+1485292,Pedro Felipe,Serie A,D,725000.0
+892430,Fali Candé,Serie A,D,2800000.0
+1069028,Edoardo Pieragnolo,Serie A,D,1900000.0
+356032,Filippo Romagna,Serie A,D,775000.0
+888971,Arijanet Murić,Serie A,G,6900000.0
+893752,Stefano Turati,Serie A,G,3100000.0
+1012165,Gioele Zacchi,Serie A,G,650000.0
+832375,Giacomo Satalino,Serie A,G,435000.0
+864898,Nicolò Zaniolo,Serie A,F,12300000.0
+1138856,Adam Buksa,Serie A,F,3900000.0
+796455,Vakoun Bayo,Serie A,F,3600000.0
+1536811,Idrissa Gueye,Serie A,F,4400000.0
+830858,Keinan Davis,Serie A,F,4099999.0
+1444690,Arthur Atta,Serie A,M,16300000.0
+825271,Jakub Piotrowski,Serie A,M,4400000.0
+1154894,Lennon Miller,Serie A,M,7500000.0
+904887,Jürgen Ekkelenkamp,Serie A,M,7200000.0
+351434,Hassane Kamara,Serie A,M,3200000.0
+922928,Alessandro Zanoli,Serie A,M,5500000.0
+227894,Jesper Karlström,Serie A,M,4099999.0
+609206,Kingsley Ehizibue,Serie A,M,2200000.0
+1961644,Abdoulaye Camara,Serie A,M,1500000.0
+1009661,Oier Zarraga,Serie A,M,1700000.0
+892979,Oumar Solet,Serie A,D,18800000.0
+1831525,Branimir Mlačić,Serie A,D,4300000.0
+1476922,Juan Arizala,Serie A,D,1100000.0
+1063373,Thomas Kristensen,Serie A,D,8700000.0
+964119,Jordan Zemura,Serie A,D,3600000.0
+58351,Christian Kabasele,Serie A,D,860000.0
+1136399,Nicolò Bertola,Serie A,D,6500000.0
+891656,Maduka Okoye,Serie A,G,8600000.0
+1001997,Răzvan Sava,Serie A,G,2700000.0
+1493201,Alessandro Nunziante,Serie A,G,1700000.0
+2899,Daniele Padelli,Serie A,G,165000.0
+1099296,Mateo Pellegrino,Serie A,F,9700000.0
+1092081,Matija Frigan,Serie A,F,8199999.0
+1004790,Jacob Ondrejka,Serie A,F,8500000.0
+965009,Gaetano Oristanio,Serie A,F,5400000.0
+1486729,Nesta Elphege,Serie A,F,460000.0
+856065,Pontus Almqvist,Serie A,F,1900000.0
+1459459,Benjamin Cremaschi,Serie A,M,4900000.0
+934384,Adrián Bernabé,Serie A,M,14100000.0
+877201,Gabriel Strefezza,Serie A,M,7600000.0
+876259,Hans Nicolussi Caviglia,Serie A,M,7200000.0
+1110136,Mandela Keita,Serie A,M,10900000.0
+1086199,Franco Carboni,Serie A,M,945000.0
+1201388,Christian Ordoñez,Serie A,M,7100000.0
+957921,Oliver Sørensen,Serie A,M,7700000.0
+895868,Nahuel Estévez,Serie A,M,1400000.0
+1516324,Mariano Troilo,Serie A,D,5500000.0
+984527,Abdoulaye Ndiaye,Serie A,D,6300000.0
+1155423,Alessandro Circati,Serie A,D,8700000.0
+928103,Enrico Delprato,Serie A,D,6600000.0
+891346,Emanuele Valeri,Serie A,D,2900000.0
+958517,Lautaro Valenti,Serie A,D,1600000.0
+1963449,Sascha Britschgi,Serie A,D,6500000.0
+1470737,Marlon Mena,Serie A,D,49000.0
+905351,Zion Suzuki,Serie A,G,21000000.0
+990411,Edoardo Corvi,Serie A,G,720000.0
+1002428,Filippo Rinaldi,Serie A,G,310000.0
+930191,Lorenzo Colombo,Serie A,F,6600000.0
+1093695,Vitinha,Serie A,F,8400000.0
+280439,Maxwel Cornet,Serie A,F,4500000.0
+888219,Junior Messias,Serie A,F,1200000.0
+309156,Caleb Ekuban,Serie A,F,1200000.0
+1613917,Jeff Ekhator,Serie A,F,7500000.0
+195850,Ruslan Malinovskyi,Serie A,M,2600000.0
+1012172,Tommaso Baldanzi,Serie A,M,9400000.0
+918440,Morten Frendrup,Serie A,M,17200000.0
+978301,Jean Onana,Serie A,M,1400000.0
+1511706,Alexsandro Amorim,Serie A,M,2700000.0
+933203,Mikael Ellertsson,Serie A,M,3300000.0
+970998,Patrizio Masini,Serie A,M,6300000.0
+889785,Johan Vásquez,Serie A,D,12200000.0
+879746,Leo Østigård,Serie A,D,11000000.0
+1087514,Brooke Norton-Cuffy,Serie A,D,16500000.0
+797286,Aarón Martín,Serie A,D,6800000.0
+1435226,Nils Zätterström,Serie A,D,2900000.0
+1404639,Sebastian Otoa,Serie A,D,2700000.0
+1068885,Alessandro Marcandalli,Serie A,D,2600000.0
+184421,Stefano Sabelli,Serie A,D,1400000.0
+556696,Justin Bijlow,Serie A,G,4099999.0
+98059,Nicola Leali,Serie A,G,1400000.0
+137773,Benjamin Siegrist,Serie A,G,630000.0
+595572,Daniele Sommariva,Serie A,G,110000.0
+1425153,Ernestas Lysionok,Serie A,G,210000.0
+341143,Giovanni Simeone,Serie A,F,5200000.0
+856737,Zakaria Aboukhlal,Serie A,F,9800000.0
+38162,Duván Zapata,Serie A,F,3100000.0
+826026,Sandro Kulenović,Serie A,F,3900000.0
+773409,Che Adams,Serie A,F,8199999.0
+1493157,Alieu Njie,Serie A,F,2400000.0
+1016788,Cesare Casadei,Serie A,M,14500000.0
+357596,Nikola Vlašić,Serie A,M,9300000.0
+877371,Ivan Ilić,Serie A,M,9700000.0
+1030829,Gvidas Gineitis,Serie A,M,5000000.0
+907667,Faustino Anjorin,Serie A,M,5200000.0
+1142612,Emirhan İlkhan,Serie A,M,1600000.0
+233826,Valentino Lazaro,Serie A,M,3800000.0
+1111640,Matteo Prati,Serie A,M,5400000.0
+934409,Marcus Pedersen,Serie A,M,3300000.0
+1592970,Sergiu Perciun,Serie A,M,1600000.0
+1154617,Zanos Savva,Serie A,M,210000.0
+339909,Guillermo Maripán,Serie A,D,3700000.0
+1142692,Rafael Obrador,Serie A,D,2100000.0
+122848,Cristiano Biraghi,Serie A,D,1300000.0
+1089453,Saúl Coco,Serie A,D,9300000.0
+840414,Ardian Ismajli,Serie A,D,5600000.0
+1101751,Saba Sazonov,Serie A,D,1300000.0
+1165371,Luca Marianucci,Serie A,D,8000000.0
+941179,Niels Nkounkou,Serie A,D,3800000.0
+848279,Enzo Ebosse,Serie A,D,1500000.0
+139235,Adrien Tameze,Serie A,D,1800000.0
+928769,Emanuele Valerio,Serie A,D,26000.0
+1084846,Franco Israel,Serie A,G,3700000.0
+259281,Alberto Paleari,Serie A,G,1000000.0
+1519010,Lapo Siviero,Serie A,G,280000.0
+1142606,Semih Kılıçsoy,Serie A,F,10600000.0
+965008,Sebastiano Esposito,Serie A,F,8199999.0
+220223,Andrea Belotti,Serie A,F,1400000.0
+132704,Leonardo Pavoletti,Serie A,F,640000.0
+979479,Gennaro Borrelli,Serie A,F,2900000.0
+975811,Mattia Felici,Serie A,F,2900000.0
+1615784,Yael Trepy,Serie A,F,1400000.0
+2049928,Paul Mendy,Serie A,F,10854111.235294119
+1397736,Marco Palestra,Serie A,M,26000000.0
+105905,Ibrahim Sulemana,Serie A,M,5800000.0
+869795,Michael Folorunsho,Serie A,M,5500000.0
+902019,Gianluca Gaetano,Serie A,M,3900000.0
+928777,Michel Adopo,Serie A,M,5800000.0
+369866,Luca Mazzitelli,Serie A,M,1500000.0
+1910527,Joseph Liteta,Serie A,M,2200000.0
+328109,Alessandro Deiola,Serie A,M,1500000.0
+1464187,Agustín Albarracín,Serie A,M,1900000.0
+360396,Yerry Mina,Serie A,D,2800000.0
+1485391,Juan Rodríguez,Serie A,D,4700000.0
+964153,Adam Obert,Serie A,D,3600000.0
+945448,Zé Pedro,Serie A,D,2600000.0
+927304,Gabriele Zappa,Serie A,D,3900000.0
+870211,Alberto Dossena,Serie A,D,6500000.0
+1123175,Riyad Idrissi,Serie A,D,2600000.0
+1469998,Othniël Raterink,Serie A,D,465000.0
+1798927,Nicola Grandu,Serie A,D,280000.0
+947954,Elia Caprile,Serie A,G,14100000.0
+363380,Alen Sherri,Serie A,G,970000.0
+992605,Giuseppe Ciocci,Serie A,G,105000.0
+835601,Moise Kean,Serie A,F,46000000.0
+804909,Albert Guðmundsson,Serie A,F,11800000.0
+958982,Roberto Piccoli,Serie A,F,17000000.0
+1012179,Jacopo Fazzini,Serie A,F,8700000.0
+1526932,Riccardo Braschi,Serie A,F,620000.0
+862223,Manor Solomon,Serie A,M,8700000.0
+901850,Nicolò Fagioli,Serie A,M,12900000.0
+807400,Abdelhamid Sabiri,Serie A,M,1600000.0
+822518,Dodô,Serie A,M,19500000.0
+377118,Robin Gosens,Serie A,M,6200000.0
+548178,Rolando Mandragora,Serie A,M,9500000.0
+1114422,Cher Ndour,Serie A,M,4700000.0
+1067204,Giovanni Fabbian,Serie A,M,9300000.0
+829570,Jack Harrison,Serie A,M,10800000.0
+928800,Marco Brescianini,Serie A,M,7000000.0
+1526934,Niccolò Fortini,Serie A,M,10900000.0
+1870792,Piergiorgio Bonanno,Serie A,M,10937027.341997264
+914691,Tariq Lamptey,Serie A,D,7300000.0
+847467,Marin Pongračić,Serie A,D,6800000.0
+1542041,Eman Košpo,Serie A,D,1600000.0
+139273,Daniele Rugani,Serie A,D,2100000.0
+1210848,Pietro Comuzzo,Serie A,D,24000000.0
+893998,Luca Ranieri,Serie A,D,7200000.0
+972886,Fabiano Parisi,Serie A,D,4099999.0
+1499054,Luís Balbo,Serie A,D,105000.0
+1526933,Eddy Kouadio,Serie A,D,2700000.0
+69378,David De Gea,Serie A,G,3300000.0
+860306,Oliver Christensen,Serie A,G,1400000.0
+139272,Luca Lezzerini,Serie A,G,365000.0
+1416231,Pietro Leonardelli,Serie A,G,135000.0
+173827,Jamie Vardy,Serie A,F,970000.0
+333261,Antonio Sanabria,Serie A,F,2300000.0
+1029456,Faris Moumbagna,Serie A,F,5200000.0
+284363,Federico Bonazzoli,Serie A,F,2300000.0
+831290,David Okereke,Serie A,F,1600000.0
+76132,Milan Đurić,Serie A,F,1100000.0
+1000366,Warren Bondo,Serie A,M,8100000.0
+1100354,Romano Floriani Mussolini,Serie A,M,2600000.0
+849274,Youssef Maleh,Serie A,M,1000000.0
+869888,Alessio Zerbin,Serie A,M,2400000.0
+318645,Jari Vandeputte,Serie A,M,4200000.0
+895592,Martín Payero,Serie A,M,5800000.0
+280991,Morten Thorsby,Serie A,M,3300000.0
+814589,Giuseppe Pezzella,Serie A,M,2600000.0
+993389,Tommaso Barbieri,Serie A,M,3900000.0
+839925,Michele Collocolo,Serie A,M,2900000.0
+186845,Alberto Grassi,Serie A,M,1600000.0
+1002564,Mikayil Faye,Serie A,D,5600000.0
+1034303,Filippo Terracciano,Serie A,D,4600000.0
+786175,Federico Baschirotto,Serie A,D,3900000.0
+352736,Sebastiano Luperto,Serie A,D,3900000.0
+158037,Matteo Bianchetti,Serie A,D,880000.0
+1424353,Francesco Folino,Serie A,D,760000.0
+139410,Federico Ceccherini,Serie A,D,415000.0
+318603,Emil Audero,Serie A,G,3100000.0
+1141168,Lapo Nava,Serie A,G,97000.0
+43970,Marco Silvestri,Serie A,G,525000.0
+1520771,Francesco Camarda,Serie A,F,15500000.0
+917485,Walid Cheddira,Serie A,F,2100000.0
+893640,Riccardo Sottil,Serie A,F,3600000.0
+1029748,Nikola Štulić,Serie A,F,4099999.0
+984998,Santiago Pierotti,Serie A,F,3700000.0
+978327,Konan N'Dri,Serie A,F,1500000.0
+911350,Lameck Banda,Serie A,M,2900000.0
+804621,Lassana Coulibaly,Serie A,M,2600000.0
+966929,Filip Marchwiński,Serie A,M,2600000.0
+1142149,Medon Berisha,Serie A,M,5800000.0
+1019125,Omri Gandelman,Serie A,M,4600000.0
+841977,Ylber Ramadani,Serie A,M,2000000.0
+1175854,Oumar Ngom,Serie A,M,550000.0
+1130662,Sadik Fofana,Serie A,M,570000.0
+886628,Þórir Jóhann Helgason,Serie A,M,2200000.0
+1157382,Alex Sala,Serie A,M,1500000.0
+1651825,Tiago Gabriel,Serie A,D,14600000.0
+1090374,Kialonda Gaspar,Serie A,D,3300000.0
+1801193,Matías Pérez,Serie A,D,470000.0
+945616,Antonino Gallo,Serie A,D,3600000.0
+1002045,Danilo Veiga,Serie A,D,1900000.0
+1014287,Jamil Siebert,Serie A,D,3600000.0
+981470,Corrie Ndaba,Serie A,D,955000.0
+1392819,Gaby Jean,Serie A,D,1900000.0
+256667,Wladimiro Falcone,Serie A,G,3600000.0
+845024,Christian Früchtl,Serie A,G,1000000.0
+999192,Jasper Samooja,Serie A,G,73000.0
+1217613,Gift Orban,Serie A,F,8900000.0
+964154,Tomáš Suslov,Serie A,F,4800000.0
+1018179,Daniel Mosquera,Serie A,F,2300000.0
+1022204,Amin Sarr,Serie A,F,3300000.0
+1471239,Isaac,Serie A,F,765000.0
+983601,Kieron Bowie,Serie A,F,2900000.0
+1474846,Junior Ajayi,Serie A,F,310000.0
+1103488,Rafik Belghali,Serie A,M,7200000.0
+868958,Mutassim Al-Musrati,Serie A,M,6500000.0
+897594,Domagoj Bradarić,Serie A,M,2700000.0
+972523,Cheikh Niasse,Serie A,M,2300000.0
+915812,Abdou Harroui,Serie A,M,1900000.0
+575852,Sandi Lovrić,Serie A,M,5800000.0
+800408,Suat Serdar,Serie A,M,4099999.0
+287057,Roberto Gagliardini,Serie A,M,1300000.0
+164511,Jean-Daniel Akpa Akpro,Serie A,M,515000.0
+837080,Antoine Bernede,Serie A,M,3400000.0
+846148,Victor Nelsson,Serie A,D,8000000.0
+1116570,Nicolás Valentini,Serie A,D,5200000.0
+976025,Armel Bella-Kotchap,Serie A,D,7200000.0
+844480,Pol Lirola,Serie A,D,1800000.0
+1133236,Tobias Slotsager,Serie A,D,2100000.0
+874812,Martin Frese,Serie A,D,2700000.0
+906963,Andrias Edmundsson,Serie A,D,825000.0
+1945133,Fallou Cham,Serie A,D,920000.0
+998830,Daniel Oyegoke,Serie A,D,465000.0
+253391,Lorenzo Montipò,Serie A,G,1900000.0
+253369,Simone Perilli,Serie A,G,375000.0
+1137380,Giacomo Toniolo,Serie A,G,78000.0
+2026440,Arthur Rampineli Borghi,Serie A,G,52000.0
+996919,Samuel Iling Junior,Serie A,F,9700000.0
+1152386,Rafiu Durosinmi,Serie A,F,7100000.0
+887275,Matteo Tramoni,Serie A,F,6200000.0
+1184248,Henrik Wendel Meister,Serie A,F,4700000.0
+346948,Stefano Moreo,Serie A,F,1600000.0
+959003,Filip Stojilković,Serie A,F,3200000.0
+47743,Juan Cuadrado,Serie A,M,950000.0
+1459764,Lorran,Serie A,M,6900000.0
+1125917,Felipe Loyola,Serie A,M,7800000.0
+1525367,Ebenezer Akinsanmiro,Serie A,M,6200000.0
+857480,Calvin Stengs,Serie A,M,6400000.0
+851222,Mehdi Léris,Serie A,M,2100000.0
+797596,Marius Marin,Serie A,M,2800000.0
+850891,Michel Aebischer,Serie A,M,4700000.0
+1210995,Isak Vural,Serie A,M,5200000.0
+826326,Idrissa Touré,Serie A,M,5800000.0
+1174457,Samuele Angori,Serie A,M,4800000.0
+997583,Malthe Højholt,Serie A,M,1200000.0
+970778,Gabriele Piccinini,Serie A,M,4099999.0
+2284001,Brando Bettazzi,Serie A,M,160000.0
+3041,Raúl Albiol,Serie A,D,760000.0
+1152943,Rosen Bozhinov,Serie A,D,2300000.0
+911355,Simone Canestrelli,Serie A,D,7200000.0
+1494096,Francesco Coppola,Serie A,D,2400000.0
+116666,Antonio Caracciolo,Serie A,D,470000.0
+284367,Arturo Calabresi,Serie A,D,725000.0
+1922473,Daniel Denoon,Serie A,D,455000.0
+814876,Adrian Šemper,Serie A,G,3300000.0
+284349,Simone Scuffet,Serie A,G,910000.0
+150611,Nícolas,Serie A,G,110000.0
+2467621,Matteo Luppichini,Serie A,G,3707197.468487395
+108579,Harry Kane,Bundesliga,F,71000000.0
+1085381,Nicolas Jackson,Bundesliga,F,44000000.0
+1976732,Wisdom Mike,Bundesliga,F,4800000.0
+883537,Luis Díaz,Bundesliga,M,76000000.0
+1010231,Jamal Musiala,Bundesliga,M,126000000.0
+978838,Michael Olise,Bundesliga,M,125000000.0
+1861975,Lennart Karl,Bundesliga,M,63000000.0
+259117,Joshua Kimmich,Bundesliga,M,43000000.0
+187433,Serge Gnabry,Bundesliga,M,21000000.0
+184661,Leon Goretzka,Bundesliga,M,13700000.0
+1142251,Aleksandar Pavlović,Bundesliga,M,69000000.0
+1129935,Tom Bischof,Bundesliga,M,39000000.0
+1489220,David Daiber,Bundesliga,M,920000.0
+1618538,Guido Della Rovere,Bundesliga,M,960000.0
+2427970,Bara Sapoko Ndiaye,Bundesliga,M,280000.0
+1994983,Erblin Osmani,Bundesliga,M,10937027.341997264
+843665,Alphonso Davies,Bundesliga,D,49000000.0
+896569,Min-jae Kim,Bundesliga,D,26000000.0
+798583,Dayot Upamecano,Bundesliga,D,65000000.0
+227672,Jonathan Tah,Bundesliga,D,28000000.0
+927407,Josip Stanišić,Bundesliga,D,31000000.0
+246999,Raphaël Guerreiro,Bundesliga,D,6300000.0
+355492,Konrad Laimer,Bundesliga,D,31000000.0
+873106,Hiroki Itō,Bundesliga,D,19800000.0
+1994978,Cassiano Kiala,Bundesliga,D,1800000.0
+1195752,Vincent Manuba,Bundesliga,D,155000.0
+8959,Manuel Neuer,Bundesliga,G,4099999.0
+1130647,Jonas Urbig,Bundesliga,G,13100000.0
+2236493,Leonard Prescott,Bundesliga,G,3707197.468487395
+26768,Sven Ulreich,Bundesliga,G,515000.0
+1534063,Leon Klanac,Bundesliga,G,145000.0
+2160267,Jannis Bartl,Bundesliga,G,73000.0
+328027,Serhou Guirassy,Bundesliga,F,42000000.0
+940054,Karim Adeyemi,Bundesliga,F,62000000.0
+954076,Fábio Silva,Bundesliga,F,27000000.0
+980628,Maximilian Beier,Bundesliga,F,32000000.0
+1134083,Jobe Bellingham,Bundesliga,M,24000000.0
+994556,Carney Chukwuemeka,Bundesliga,M,23000000.0
+226978,Julian Brandt,Bundesliga,M,21000000.0
+133908,Marcel Sabitzer,Bundesliga,M,7200000.0
+1002813,Yan Couto,Bundesliga,M,21000000.0
+907463,Felix Nmecha,Bundesliga,M,44000000.0
+1021272,Daniel Svensson,Bundesliga,M,20000000.0
+795005,Salih Özcan,Bundesliga,M,3400000.0
+577726,Ramy Bensebaini,Bundesliga,D,7400000.0
+940871,Nico Schlotterbeck,Bundesliga,D,57000000.0
+138156,Emre Can,Bundesliga,D,6500000.0
+168937,Niklas Süle,Bundesliga,D,4700000.0
+800951,Julian Ryerson,Bundesliga,D,18900000.0
+1137131,Filippo Mané,Bundesliga,D,2400000.0
+799046,Waldemar Anton,Bundesliga,D,19700000.0
+1937833,Luca Reggiani,Bundesliga,D,4900000.0
+1418620,Almugera Kabar,Bundesliga,D,3100000.0
+556866,Gregor Kobel,Bundesliga,G,41000000.0
+138491,Alexander Meyer,Bundesliga,G,760000.0
+1140591,Silas Ostrzinski,Bundesliga,G,205000.0
+132607,Patrick Drewes,Bundesliga,G,420000.0
+794298,Deniz Undav,Bundesliga,F,18500000.0
+878081,Ermedin Demirović,Bundesliga,F,20000000.0
+1464642,Jeremy Arevalo,Bundesliga,F,7200000.0
+983540,Tiago Tomás,Bundesliga,F,14600000.0
+1126569,Bilal El Khannouss,Bundesliga,M,30000000.0
+1469995,Noah Darvich,Bundesliga,M,1900000.0
+1153265,Badredine Bouanani,Bundesliga,M,12600000.0
+1464641,Chema Andrés,Bundesliga,M,14600000.0
+901882,Angelo Stiller,Bundesliga,M,46000000.0
+990201,Jamie Leweling,Bundesliga,M,23000000.0
+891510,Chris Führich,Bundesliga,M,9700000.0
+801030,Atakan Karazor,Bundesliga,M,9900000.0
+1427148,Lazar Jovanović,Bundesliga,M,5400000.0
+861981,Nikolas Nartey,Bundesliga,M,2100000.0
+1009334,Lorenz Assignon,Bundesliga,M,11600000.0
+1146132,Justin Diehl,Bundesliga,M,1700000.0
+1937274,Mirza Ćatović,Bundesliga,M,1400000.0
+788949,Maximilian Mittelstädt,Bundesliga,D,19800000.0
+1418649,Finn Jeltsch,Bundesliga,D,23000000.0
+826205,Dan-Axel Zagadou,Bundesliga,D,1900000.0
+863271,Jeff Chabot,Bundesliga,D,15500000.0
+1979970,Ameen Al-Dakhil,Bundesliga,D,4099999.0
+906278,Josha Vagnoman,Bundesliga,D,10300000.0
+916943,Ramon Hendriks,Bundesliga,D,4800000.0
+1127823,Luca Jaquez,Bundesliga,D,10700000.0
+352562,Pascal Stenzel,Bundesliga,D,1100000.0
+584722,Alexander Nübel,Bundesliga,G,10900000.0
+152463,Fabian Bredlow,Bundesliga,G,825000.0
+930339,Stefan Drljača,Bundesliga,G,280000.0
+1481222,Florian Hellstern,Bundesliga,G,1600000.0
+2087085,Yan Diomande,Bundesliga,F,49000000.0
+1121923,Antonio Nusa,Bundesliga,F,31000000.0
+1088896,Johan Bakayoko,Bundesliga,F,23000000.0
+1494826,Conrad Harder,Bundesliga,F,26000000.0
+1133743,Rômulo,Bundesliga,F,32000000.0
+1894870,Sani Suleiman,Bundesliga,F,1300000.0
+1418623,Assan Ouédraogo,Bundesliga,M,26000000.0
+1406171,Andrija Maksimović,Bundesliga,M,14400000.0
+1198075,Brajan Gruda,Bundesliga,M,29000000.0
+825956,Christoph Baumgartner,Bundesliga,M,21000000.0
+976575,Nicolas Seiwald,Bundesliga,M,17500000.0
+1155383,Ezechiel Banzuzi,Bundesliga,M,18900000.0
+791079,Xaver Schlager,Bundesliga,M,9500000.0
+1426577,Tidiam Gomis,Bundesliga,M,3200000.0
+1586659,Ayodele Thomas,Bundesliga,M,600000.0
+1925472,Benno Kaltefleiter,Bundesliga,M,10937027.341997264
+136924,Willi Orbán,Bundesliga,D,6600000.0
+976421,Castello Lukeba,Bundesliga,D,44000000.0
+856076,David Raum,Bundesliga,D,22000000.0
+1152923,Kosta Nedeljković,Bundesliga,D,8700000.0
+1048009,El Chadaille Bitshiabu,Bundesliga,D,14600000.0
+856553,Ridle Baku,Bundesliga,D,12800000.0
+319857,Benjamin Henrichs,Bundesliga,D,13000000.0
+319853,Lukas Klostermann,Bundesliga,D,3400000.0
+1146250,Max Finkgräfe,Bundesliga,D,3300000.0
+1606622,Jonathan Norbye,Bundesliga,D,280000.0
+37096,Péter Gulácsi,Bundesliga,G,1900000.0
+934385,Maarten Vandevoordt,Bundesliga,G,8800000.0
+148263,Leopold Zingerle,Bundesliga,G,375000.0
+67647,Andrej Kramarić,Bundesliga,F,3200000.0
+1010117,Fisnik Asllani,Bundesliga,F,31000000.0
+963801,Adam Hložek,Bundesliga,F,15500000.0
+1418703,Max Moerstedt,Bundesliga,F,7600000.0
+1014290,Tim Lemperle,Bundesliga,F,10800000.0
+254297,Ihlas Bebou,Bundesliga,F,870000.0
+1440627,Yannick Eduardo,Bundesliga,F,515000.0
+1604187,Deniz Zeitler,Bundesliga,F,1500000.0
+1568123,Bazoumana Touré,Bundesliga,M,24000000.0
+1134578,Cole Campbell,Bundesliga,M,4800000.0
+1493305,Leon Avdullahu,Bundesliga,M,18700000.0
+916946,Wouter Burger,Bundesliga,M,9300000.0
+978062,Alexander Prass,Bundesliga,M,4900000.0
+1128638,Muhammed Damar,Bundesliga,M,6500000.0
+253993,Grischa Prömel,Bundesliga,M,3100000.0
+1838178,Luis Engelns,Bundesliga,M,4400000.0
+2216257,Luka Duric,Bundesliga,M,320000.0
+857740,Ozan Kabak,Bundesliga,D,4900000.0
+138024,Vladimír Coufal,Bundesliga,D,2600000.0
+790977,Koki Machida,Bundesliga,D,6700000.0
+1000269,Albian Hajdari,Bundesliga,D,11600000.0
+828571,Bernardo,Bundesliga,D,4600000.0
+187423,Kevin Akpoguma,Bundesliga,D,1900000.0
+944899,Valentin Gendrey,Bundesliga,D,7400000.0
+957615,Robin Hranáč,Bundesliga,D,7700000.0
+1864768,Kelven Frees ,Bundesliga,D,310000.0
+1150373,Valentin Lässig,Bundesliga,D,440000.0
+40244,Oliver Baumann,Bundesliga,G,3200000.0
+943550,Luca Philipp,Bundesliga,G,705000.0
+1196091,Lukas Petersson,Bundesliga,G,570000.0
+2029648,Christian Kofane,Bundesliga,F,23000000.0
+280609,Patrik Schick,Bundesliga,F,23000000.0
+1119502,Ernest Poku,Bundesliga,F,19100000.0
+846445,Martin Terrier,Bundesliga,F,11000000.0
+142390,Jonas Hofmann,Bundesliga,F,2100000.0
+1568522,Montrell Culbreath,Bundesliga,F,1000000.0
+1407524,Ibrahim Maza,Bundesliga,M,23000000.0
+1394353,Eliesse Ben Seghir,Bundesliga,M,25000000.0
+177177,Alejandro Grimaldo,Bundesliga,M,23000000.0
+822600,Exequiel Palacios,Bundesliga,M,31000000.0
+1003012,Ezequiel Fernández,Bundesliga,M,26000000.0
+975798,Malik Tillman,Bundesliga,M,32000000.0
+796047,Aleix García,Bundesliga,M,21000000.0
+920379,Nathan Tella,Bundesliga,M,15800000.0
+1174761,Arthur,Bundesliga,M,6500000.0
+255239,Lucas Vázquez,Bundesliga,D,2700000.0
+883262,Edmond Tapsoba,Bundesliga,D,37000000.0
+1003339,Jarell Quansah,Bundesliga,D,43000000.0
+168903,Robert Andrich,Bundesliga,D,7200000.0
+1006489,Loïc Badé,Bundesliga,D,27000000.0
+1937795,Axel Tape,Bundesliga,D,8700000.0
+1542758,Issa Traoré,Bundesliga,D,775000.0
+1138778,Tim Oermann,Bundesliga,D,4099999.0
+2516237,Kurt Kowalski,Bundesliga,D,8067730.136468774
+171919,Mark Flekken,Bundesliga,G,8500000.0
+96832,Janis Blaswich,Bundesliga,G,650000.0
+571622,Jonas Omlin,Bundesliga,G,1400000.0
+142471,Niklas Lomb,Bundesliga,G,240000.0
+147745,Michy Batshuayi,Bundesliga,F,3200000.0
+939830,Jonathan Burkardt,Bundesliga,F,34000000.0
+954061,Arnaud Kalimuendo,Bundesliga,F,24000000.0
+997012,Ansgar Knauff,Bundesliga,F,15500000.0
+1474296,Younes Ebnoutalib,Bundesliga,F,6600000.0
+1898148,Ayoube Amaimouni-Echghouyab,Bundesliga,F,2200000.0
+1403087,Alexander Staff,Bundesliga,F,340000.0
+1192318,Farès Chaïbi,Bundesliga,M,14500000.0
+1440948,Can Uzun,Bundesliga,M,44000000.0
+66518,Mario Götze,Bundesliga,M,3600000.0
+790965,Ritsu Doan,Bundesliga,M,23000000.0
+591706,Ellyes Skhiri,Bundesliga,M,6200000.0
+1142211,Hugo Larsson,Bundesliga,M,42000000.0
+1146148,Jean-Mattéo Bahoya,Bundesliga,M,24000000.0
+341589,Mahmoud Dahoud,Bundesliga,M,2200000.0
+1149113,Oscar Højlund,Bundesliga,M,7300000.0
+1977245,Love Arrhov,Bundesliga,M,5200000.0
+40239,Timothy Chandler,Bundesliga,M,375000.0
+965778,Arthur Theate,Bundesliga,D,23000000.0
+1159759,Nathaniel Brown,Bundesliga,D,32000000.0
+581302,Robin Koch,Bundesliga,D,16100000.0
+921789,Rasmus Kristensen,Bundesliga,D,15000000.0
+1048569,Nnamdi Collins,Bundesliga,D,13900000.0
+1501641,Keita Kosugi,Bundesliga,D,3900000.0
+1403018,Elias Baum,Bundesliga,D,4900000.0
+999276,Aurèle Amenda,Bundesliga,D,6200000.0
+1134203,Kauã Santos,Bundesliga,G,6500000.0
+190161,Michael Zetterer,Bundesliga,G,4600000.0
+2006785,Amil Šiljević,Bundesliga,G,3707197.468487395
+27214,Jens Grahl,Bundesliga,G,210000.0
+1019321,Igor Matanović,Bundesliga,F,6800000.0
+280009,Lucas Höler,Bundesliga,F,2900000.0
+171927,Maximilian Philipp,Bundesliga,F,580000.0
+1131002,Derry Scherhant,Bundesliga,F,5800000.0
+1508537,Cyriaque Irié,Bundesliga,M,8199999.0
+1020422,Yuito Suzuki,Bundesliga,M,15500000.0
+1518931,Johan Manzambi,Bundesliga,M,33000000.0
+171961,Vincenzo Grifo,Bundesliga,M,4600000.0
+569684,Daniel-Kofi Kyereh,Bundesliga,M,310000.0
+836711,Jan-Niklas Beste,Bundesliga,M,7500000.0
+569784,Maximilian Eggestein,Bundesliga,M,10500000.0
+914755,Patrick Osterhage,Bundesliga,M,11600000.0
+979820,Philipp Treu,Bundesliga,M,8500000.0
+49639,Nicolas Höfler,Bundesliga,M,475000.0
+142259,Matthias Ginter,Bundesliga,D,5700000.0
+576266,Philipp Lienhart,Bundesliga,D,11500000.0
+142231,Christian Günter,Bundesliga,D,1900000.0
+1131339,Jordy Makengo,Bundesliga,D,5800000.0
+1596573,Bruno Ogbus,Bundesliga,D,940000.0
+142525,Lukas Kübler,Bundesliga,D,1500000.0
+1131337,Max Rosenfelder,Bundesliga,D,8400000.0
+103442,Anthony Jung,Bundesliga,D,675000.0
+980626,Noah Atubolu,Bundesliga,G,19400000.0
+842858,Florian Müller,Bundesliga,G,1200000.0
+174341,Jannik Huth,Bundesliga,G,435000.0
+1462742,Ilyas Ansah,Bundesliga,F,12900000.0
+927405,Woo-Yeong Jeong,Bundesliga,F,3700000.0
+953767,Andrej Ilić,Bundesliga,F,5500000.0
+608362,Oliver Burke,Bundesliga,F,3900000.0
+1513469,Livan Burcu,Bundesliga,F,4200000.0
+1568506,Dmytro Bogdanov,Bundesliga,F,580000.0
+1518974,David Preu,Bundesliga,F,410000.0
+791642,Josip Juranović,Bundesliga,M,2700000.0
+877302,András Schäfer,Bundesliga,M,4099999.0
+886737,Derrick Köhn,Bundesliga,M,4200000.0
+149479,Rani Khedira,Bundesliga,M,2100000.0
+1210666,Tom Rothe,Bundesliga,M,10300000.0
+327863,Robert Skov,Bundesliga,M,2800000.0
+825740,Alex Král,Bundesliga,M,3600000.0
+1198074,Aljoscha Kemlein,Bundesliga,M,8300000.0
+48557,Christopher Trimmel,Bundesliga,M,555000.0
+800252,Tim Skarke,Bundesliga,M,1700000.0
+168985,Janik Haberer,Bundesliga,M,2600000.0
+1086547,Leopold Querfeld,Bundesliga,D,17000000.0
+855663,Diogo Leite,Bundesliga,D,11600000.0
+830803,Danilho Doekhi,Bundesliga,D,13900000.0
+904991,Stanley N'Soki,Bundesliga,D,1600000.0
+1534045,Andrik Markgraf,Bundesliga,D,8067730.136468774
+137692,Frederik Rønnow,Bundesliga,G,2600000.0
+842718,Matheo Raab,Bundesliga,G,560000.0
+148167,Carl Klaus,Bundesliga,G,335000.0
+1215904,Rodrigo Ribeiro,Bundesliga,F,2400000.0
+111483,Michael Gregoritsch,Bundesliga,F,1600000.0
+822877,Alexis Claude-Maurice,Bundesliga,F,12900000.0
+1996846,Uchenna Ogundu,Bundesliga,F,1600000.0
+1113488,Ismael Gharbi,Bundesliga,M,6700000.0
+796206,Kristijan Jakić,Bundesliga,M,5600000.0
+929620,Fabian Rieder,Bundesliga,M,7400000.0
+354878,Dimitrios Giannoulis,Bundesliga,M,3100000.0
+1390682,Mert Kömür,Bundesliga,M,11600000.0
+927340,Han-Noah Massengo,Bundesliga,M,5200000.0
+254119,Marius Wolf,Bundesliga,M,2300000.0
+842188,Elvis Rexhbeçaj,Bundesliga,M,3800000.0
+1129365,Anton Kade,Bundesliga,M,7700000.0
+877842,Yannik Keitel,Bundesliga,M,1900000.0
+860461,Robin Fellhauer,Bundesliga,M,2600000.0
+1388328,Mahmut Kücüksahin,Bundesliga,M,180000.0
+1597260,Noahkai Banks,Bundesliga,D,14600000.0
+963198,Chrislain Matsima,Bundesliga,D,21000000.0
+891651,Keven Schlotterbeck,Bundesliga,D,5700000.0
+1122806,Arthur Chaves,Bundesliga,D,4900000.0
+798926,Cedric Zesiger,Bundesliga,D,4900000.0
+146853,Jeffrey Gouweleeuw,Bundesliga,D,1000000.0
+809219,Mads Pedersen,Bundesliga,D,1100000.0
+1504873,Oliver Sorg,Bundesliga,D,410000.0
+1995786,Felix Meiser,Bundesliga,D,140000.0
+947986,Nediljko Labrović,Bundesliga,G,2100000.0
+822564,Finn Dahmen,Bundesliga,G,12500000.0
+930282,Daniel Klein,Bundesliga,G,155000.0
+537552,Jae-sung Lee,Bundesliga,F,2100000.0
+352544,Sheraldo Becker,Bundesliga,F,1500000.0
+980621,Paul Nebel,Bundesliga,F,17200000.0
+1152505,Nelson Weiper,Bundesliga,F,12700000.0
+1021075,William Bøving,Bundesliga,F,4600000.0
+1005834,Armindo Sieb,Bundesliga,F,3700000.0
+975800,Benedict Hollerbach,Bundesliga,F,9400000.0
+822340,Phillip Tietz,Bundesliga,F,3400000.0
+1065051,Fabio Moreno Fell,Bundesliga,F,320000.0
+949062,Silas,Bundesliga,M,3100000.0
+327755,Nadiem Amiri,Bundesliga,M,15500000.0
+1028307,Kaishu Sano,Bundesliga,M,26000000.0
+157377,Silvan Widmer,Bundesliga,M,730000.0
+1028306,Sota Kawasaki,Bundesliga,M,1400000.0
+138126,Phillipp Mwene,Bundesliga,M,1600000.0
+846471,Anthony Caci,Bundesliga,M,9700000.0
+893962,Lennard Maloney,Bundesliga,M,3600000.0
+1535558,Daniel Gleiber,Bundesliga,M,325000.0
+1065453,Niklas Tauer,Bundesliga,M,330000.0
+1548910,Kacper Potulski,Bundesliga,D,2300000.0
+355486,Stefan Posch,Bundesliga,D,5700000.0
+794294,Andreas Hanche-Olsen,Bundesliga,D,4700000.0
+152206,Dominik Kohr,Bundesliga,D,1900000.0
+97926,Danny da Costa,Bundesliga,D,1100000.0
+1138150,Nikolas Veratschnig,Bundesliga,D,1400000.0
+1418701,Maxim Dal,Bundesliga,D,155000.0
+1512624,Kasey Bos,Bundesliga,D,435000.0
+106662,Stefan Bell,Bundesliga,D,620000.0
+842869,Maxim Leitsch,Bundesliga,D,1400000.0
+174345,Robin Zentner,Bundesliga,G,2900000.0
+94312,Daniel Batz,Bundesliga,G,265000.0
+1069252,Lasse Riess,Bundesliga,G,750000.0
+1535584,Louis Babatz,Bundesliga,G,3707197.468487395
+135264,Yussuf Poulsen,Bundesliga,F,1400000.0
+1012235,Ransford Yeboah Königsdörffer,Bundesliga,F,3800000.0
+168987,Robert Glatzel,Bundesliga,F,1400000.0
+1146091,Damion Downs,Bundesliga,F,6800000.0
+789192,Jean-Luc Dompé,Bundesliga,F,3300000.0
+991824,Rayan Philippe,Bundesliga,F,4099999.0
+1568535,Otto Stange,Bundesliga,F,2700000.0
+1546267,Fabio Baldé,Bundesliga,F,2700000.0
+904835,Fábio Vieira,Bundesliga,M,16600000.0
+901892,Albert Sambi Lokonga,Bundesliga,M,8199999.0
+1000263,Albert Grønbæk,Bundesliga,M,8500000.0
+988476,Philip Otele,Bundesliga,M,5300000.0
+1862226,Alexander Røssing-Lelesiit,Bundesliga,M,4700000.0
+842526,Bakery Jatta,Bundesliga,M,725000.0
+1064305,Nicolai Remberg,Bundesliga,M,4700000.0
+930271,Noah Katterbach,Bundesliga,M,630000.0
+1405212,Luka Vušković,Bundesliga,D,43000000.0
+1035752,Giorgi Gocholeishvili,Bundesliga,D,3800000.0
+973564,Nicolás Capaldo,Bundesliga,D,4200000.0
+798303,Miro Muheim,Bundesliga,D,4200000.0
+801003,Jordan Torunarigha,Bundesliga,D,4099999.0
+945532,Daniel Elfadli,Bundesliga,D,3800000.0
+999030,Warmed Omari,Bundesliga,D,2900000.0
+1102528,William Mikelbrencis,Bundesliga,D,1900000.0
+113442,Daniel Heuer Fernandes,Bundesliga,G,1300000.0
+1030355,Sander Tangvik,Bundesliga,G,2700000.0
+1489167,Fernando Dickes,Bundesliga,G,3707197.468487395
+1409356,Hannes Hermann,Bundesliga,G,140000.0
+1482433,Alejo Sarco,Bundesliga,F,1800000.0
+259803,Haris Tabaković,Bundesliga,F,3100000.0
+228981,Tim Kleindienst,Bundesliga,F,11600000.0
+925910,Shuto Machino,Bundesliga,F,6800000.0
+989056,Giovanni Reyna,Bundesliga,M,6400000.0
+1048650,Rocco Reitz,Bundesliga,M,18700000.0
+1019312,Jens Castrop,Bundesliga,M,5600000.0
+837205,Florian Neuhaus,Bundesliga,M,3800000.0
+1142210,Hugo Bolin,Bundesliga,M,6200000.0
+1995809,Wael Mohya,Bundesliga,M,2700000.0
+95381,Kevin Stöger,Bundesliga,M,3100000.0
+280453,Franck Honorat,Bundesliga,M,11200000.0
+962409,Nathan N'Goumou,Bundesliga,M,3600000.0
+876858,Robin Hack,Bundesliga,M,11100000.0
+990209,Yannik Engelhardt,Bundesliga,M,5600000.0
+939880,Philipp Sander,Bundesliga,M,4200000.0
+1568530,Niklas Swider,Bundesliga,M,245000.0
+583806,Kevin Diks,Bundesliga,D,4800000.0
+1144143,Kota Takai,Bundesliga,D,4600000.0
+1002920,Joseph Scally,Bundesliga,D,6600000.0
+282229,Nico Elvedi,Bundesliga,D,7300000.0
+1130067,Fabio Chiarodia,Bundesliga,D,2900000.0
+1083382,Lukas Ullrich,Bundesliga,D,7200000.0
+254449,Marvin Friedrich,Bundesliga,D,1900000.0
+1149294,Tiago Pereira Cardoso,Bundesliga,G,1600000.0
+578166,Moritz Nicolas,Bundesliga,G,4800000.0
+972510,Jan Olschowsky,Bundesliga,G,465000.0
+8772,Tobias Sippel,Bundesliga,G,290000.0
+978521,Victor Okoh Boniface,Bundesliga,F,13200000.0
+1154491,Jovan Milošević,Bundesliga,F,7200000.0
+1166832,Keke Topp,Bundesliga,F,5200000.0
+1005343,Justin Njinmah,Bundesliga,F,7500000.0
+815612,Marco Grüll,Bundesliga,F,6500000.0
+1864786,Salim Musah,Bundesliga,F,260000.0
+1100836,Samuel Mbangula,Bundesliga,M,12700000.0
+138150,Mitchell Weiser,Bundesliga,M,3200000.0
+916176,Cameron Puertas,Bundesliga,M,9700000.0
+830127,Romano Schmid,Bundesliga,M,18700000.0
+830142,Jens Stage,Bundesliga,M,14400000.0
+1596105,Patrice Čović,Bundesliga,M,3900000.0
+933398,Felix Agu,Bundesliga,M,8400000.0
+826171,Senne Lynen,Bundesliga,M,9100000.0
+111969,Leonardo Bittencourt,Bundesliga,M,1300000.0
+1864921,Wesley Adeh,Bundesliga,M,240000.0
+905347,Yukinari Sugawara,Bundesliga,D,6800000.0
+1797852,Karim Coulibaly,Bundesliga,D,18400000.0
+794962,Maximilian Wöber,Bundesliga,D,3700000.0
+1087043,Julián Malatini,Bundesliga,D,2100000.0
+825771,Marco Friedl,Bundesliga,D,12700000.0
+1015164,Isaac Schmidt,Bundesliga,D,2100000.0
+960114,Olivier Deman,Bundesliga,D,2900000.0
+851254,Amos Pieper,Bundesliga,D,3900000.0
+229544,Niklas Stark,Bundesliga,D,3200000.0
+1568521,Mick Schmetgens,Bundesliga,D,165000.0
+991591,Karl Hein,Bundesliga,G,2900000.0
+1083390,Mio Backhaus,Bundesliga,G,9600000.0
+94411,Markus Kolke,Bundesliga,G,330000.0
+877544,Ragnar Ache,Bundesliga,F,7300000.0
+2245371,Fynn Schenten,Bundesliga,F,10854111.235294119
+319861,Luca Waldschmidt,Bundesliga,F,1800000.0
+378340,Marius Bülter,Bundesliga,F,2100000.0
+1855407,Malek El Mala,Bundesliga,F,240000.0
+2197599,Youssoupha Niang,Bundesliga,F,475000.0
+801263,Jakub Kamiński,Bundesliga,M,10900000.0
+1482457,Felipe Chávez,Bundesliga,M,730000.0
+1800475,Said El Mala,Bundesliga,M,41000000.0
+1064842,Denis Huseinbašić,Bundesliga,M,3100000.0
+988639,Eric Martel,Bundesliga,M,8199999.0
+1112327,Ísak Bergmann Jóhannesson,Bundesliga,M,10500000.0
+78781,Florian Kainz,Bundesliga,M,1600000.0
+921033,Linton Maina,Bundesliga,M,3300000.0
+930272,Tom Krauß,Bundesliga,M,3700000.0
+1010726,Jan Thielmann,Bundesliga,M,4500000.0
+839898,Alessio Castro-Montes,Bundesliga,M,3300000.0
+1418648,Fayssal Harchaoui,Bundesliga,M,185000.0
+1402924,Jahmai Simpson-Pusey,Bundesliga,D,4099999.0
+1014493,Rav van den Berg,Bundesliga,D,8300000.0
+953097,Cenk Özkaçar,Bundesliga,D,2100000.0
+963043,Kristoffer Lund,Bundesliga,D,4300000.0
+387220,Timo Hübers,Bundesliga,D,2400000.0
+1020206,Sebastian Sebulonsen,Bundesliga,D,5100000.0
+965950,Joel Schmied,Bundesliga,D,3600000.0
+855676,Luca Kilian,Bundesliga,D,105000.0
+136922,Dominique Heintz,Bundesliga,D,670000.0
+1823913,Cenny Neumann,Bundesliga,D,81000.0
+187185,Marvin Schwäbe,Bundesliga,G,3200000.0
+41615,Ron-Robert Zieler,Bundesliga,G,455000.0
+840352,Matthias Köbbing,Bundesliga,G,97000.0
+1112796,Andreas Hountondji,Bundesliga,F,5400000.0
+861850,Martijn Kaars,Bundesliga,F,4200000.0
+887500,Danel Sinani,Bundesliga,F,2900000.0
+1888501,Abdoulie Ceesay,Bundesliga,F,730000.0
+925790,Taichi Hara,Bundesliga,F,1400000.0
+994529,Ricky-Jade Jones,Bundesliga,F,855000.0
+831400,Mathias Pereira Lage,Bundesliga,F,3200000.0
+1002461,Joel Chima Fujita,Bundesliga,M,7800000.0
+971481,Arkadiusz Pyrka,Bundesliga,M,2900000.0
+181581,Jackson Irvine,Bundesliga,M,1600000.0
+885892,James Sands,Bundesliga,M,4099999.0
+280551,Manolis Saliakas,Bundesliga,M,2700000.0
+834244,Mathias Rasmussen,Bundesliga,M,2600000.0
+888854,Connor Metcalfe,Bundesliga,M,1800000.0
+1967998,Nick Schmidt,Bundesliga,M,120000.0
+1607774,Marwin Schmitz,Bundesliga,M,205000.0
+57627,Karol Mets,Bundesliga,D,825000.0
+1125024,Tomoya Ando,Bundesliga,D,925000.0
+252343,Adam Dźwigała,Bundesliga,D,870000.0
+542038,Eric Smith,Bundesliga,D,5300000.0
+1137900,Louis Oppie,Bundesliga,D,2800000.0
+253469,Hauke Wahl,Bundesliga,D,1500000.0
+966889,David Nemeth,Bundesliga,D,4300000.0
+1064630,Fin Stevens,Bundesliga,D,550000.0
+1401055,Jannik Thomas Robatsch,Bundesliga,D,620000.0
+873347,Lars Ritzka,Bundesliga,D,1100000.0
+2515023,Christian Hofmeister,Bundesliga,D,8067730.136468774
+325061,Nikola Vasilj,Bundesliga,G,4099999.0
+987437,Ben Voll,Bundesliga,G,525000.0
+1035484,Emil Gazdov,Bundesliga,G,185000.0
+1133370,Simon Emil Spari,Bundesliga,G,325000.0
+1107591,Mohamed Amoura,Bundesliga,F,35000000.0
+826069,Jonas Wind,Bundesliga,F,7300000.0
+1499696,Kento Shiogai,Bundesliga,F,2600000.0
+1127790,Dženan Pejčinović,Bundesliga,F,6600000.0
+1180758,Adam Daghim,Bundesliga,F,8100000.0
+2516548,Holger Brügmann,Bundesliga,F,10854111.235294119
+105734,Christian Eriksen,Bundesliga,M,2900000.0
+841947,Lovro Majer,Bundesliga,M,16100000.0
+947929,Jesper Lindstrøm,Bundesliga,M,8700000.0
+979290,Vinícius Souza,Bundesliga,M,11300000.0
+1418624,Bence Dárdai,Bundesliga,M,6700000.0
+987504,Patrick Wimmer,Bundesliga,M,13900000.0
+147289,Maximilian Arnold,Bundesliga,M,4200000.0
+1016810,Kevin Paredes,Bundesliga,M,4900000.0
+796987,Mattias Svanberg,Bundesliga,M,12500000.0
+169255,Yannick Gerhardt,Bundesliga,M,1900000.0
+2114948,Pharell Hensel,Bundesliga,M,1100000.0
+1184855,Konstantinos Koulierakis,Bundesliga,D,24000000.0
+1134199,Cleiton,Bundesliga,D,775000.0
+1218056,Jonas Adjei Adjetey,Bundesliga,D,7500000.0
+842364,Joakim Mæhle,Bundesliga,D,9500000.0
+1173172,Jeanuël Belocian,Bundesliga,D,12900000.0
+1155226,Saël Kumbedi,Bundesliga,D,9300000.0
+293127,Denis Vavro,Bundesliga,D,6500000.0
+1088897,Jenson Seelt,Bundesliga,D,5200000.0
+1127788,Aaron Zehnter,Bundesliga,D,6300000.0
+920525,Moritz Jenz,Bundesliga,D,4700000.0
+830551,Rogério,Bundesliga,D,2200000.0
+995316,Kilian Fischer,Bundesliga,D,8199999.0
+1568511,Jan Bürger,Bundesliga,D,970000.0
+2515880,Peter Bengsch,Bundesliga,D,8067730.136468774
+902080,Kamil Grabara,Bundesliga,G,11600000.0
+1594710,Jakub Zieliński,Bundesliga,G,535000.0
+136933,Marius Müller,Bundesliga,G,1100000.0
+35976,Pavao Pervan,Bundesliga,G,310000.0
+149728,Budu Zivzivadze,Bundesliga,F,1300000.0
+1067120,Eren Dinkçi,Bundesliga,F,5400000.0
+909485,Marvin Pieringer,Bundesliga,F,4099999.0
+918437,Mikkel Kaufmann,Bundesliga,F,1700000.0
+933833,Christian Joe Conteh,Bundesliga,F,760000.0
+800400,Sirlord Conteh,Bundesliga,F,1600000.0
+842922,Stefan Schimmer,Bundesliga,F,450000.0
+2189165,Yannik Wagner,Bundesliga,F,825000.0
+1142248,Arijon Ibrahimović,Bundesliga,M,5200000.0
+794995,Niklas Dorsch,Bundesliga,M,2800000.0
+575952,Mathias Honsak,Bundesliga,M,1900000.0
+933707,Jan Schöppner,Bundesliga,M,4300000.0
+1097453,Luca Kerber,Bundesliga,M,1900000.0
+845742,Adrian Beck,Bundesliga,M,1900000.0
+1066042,Julian Niehues,Bundesliga,M,1600000.0
+1900436,Nick Rothweiler,Bundesliga,M,270000.0
+962898,Leonidas Stergiou,Bundesliga,D,3700000.0
+151581,Leart Paqarada,Bundesliga,D,920000.0
+254429,Patrick Mainka,Bundesliga,D,2600000.0
+1864760,Hennes Behrens,Bundesliga,D,410000.0
+798936,Benedikt Gimber,Bundesliga,D,2600000.0
+988252,Tim Siersleben,Bundesliga,D,2600000.0
+920022,Haktab Omar Traore,Bundesliga,D,2900000.0
+311676,Jonas Föhrenbach,Bundesliga,D,1600000.0
+168861,Marnon Busch,Bundesliga,D,1300000.0
+2192753,Adam Kölle,Bundesliga,D,1100000.0
+981562,Diant Ramaj,Bundesliga,G,6300000.0
+1083359,Frank Feller,Bundesliga,G,450000.0
+1022845,Paul Tschernuth,Bundesliga,G,105000.0
+818244,Ousmane Dembélé,Ligue 1,F,97000000.0
+889259,Khvicha Kvaratskhelia,Ligue 1,F,93000000.0
+1154605,Désiré Doué,Ligue 1,F,93000000.0
+996952,Bradley Barcola,Ligue 1,F,68000000.0
+1590918,Ibrahim Mbaye,Ligue 1,F,24000000.0
+934510,Gonçalo Ramos,Ligue 1,F,32000000.0
+1926085,Dro Fernández,Ligue 1,M,9700000.0
+902029,Vitinha,Ligue 1,M,102000000.0
+1190933,João Neves,Ligue 1,M,116000000.0
+1473491,Senny Mayulu,Ligue 1,M,38000000.0
+784655,Fabián Ruiz,Ligue 1,M,39000000.0
+917087,Kang-in Lee,Ligue 1,M,27000000.0
+1142672,Warren Zaïre-Emery,Ligue 1,M,49000000.0
+814594,Achraf Hakimi,Ligue 1,D,82000000.0
+989768,Nuno Mendes,Ligue 1,D,72000000.0
+155995,Marquinhos,Ligue 1,D,29000000.0
+979480,Willian Pacho,Ligue 1,D,66000000.0
+1108441,Lucas Beraldo,Ligue 1,D,18500000.0
+1023567,Ilya Zabarnyi,Ligue 1,D,46000000.0
+352370,Lucas Hernández,Ligue 1,D,21000000.0
+996953,Lucas Chevalier,Ligue 1,G,36000000.0
+800749,Matvey Safonov,Ligue 1,G,15900000.0
+1524396,Renato Marin,Ligue 1,G,485000.0
+347010,Allan Saint-Maximin,Ligue 1,F,10700000.0
+148824,Florian Thauvin,Ligue 1,F,5200000.0
+795228,Odsonne Édouard,Ligue 1,F,7600000.0
+1029018,Abdallah Sima,Ligue 1,F,3900000.0
+227862,Wesley Saïd,Ligue 1,F,4200000.0
+788921,Florian Sotoca,Ligue 1,F,1600000.0
+1545376,Rayan Fofana,Ligue 1,F,5200000.0
+1842137,Erawan Garnier,Ligue 1,F,105000.0
+822708,Amadou Haidara,Ligue 1,M,5800000.0
+1064697,Mamadou Sangare,Ligue 1,M,14600000.0
+1423504,Andrija Bulatovic,Ligue 1,M,1600000.0
+231946,Adrien Thomasson,Ligue 1,M,4800000.0
+1426222,Fode Sylla,Ligue 1,M,1100000.0
+579576,Ruben Aguilar,Ligue 1,M,3300000.0
+1545297,Anthony Bermont,Ligue 1,M,1100000.0
+174975,Arthur Masuaku,Ligue 1,D,2400000.0
+966849,Saud Abdulhamid,Ligue 1,D,2800000.0
+1408080,Ismaelo Ganiou,Ligue 1,D,2900000.0
+826203,Malang Sarr,Ligue 1,D,10600000.0
+1099117,Samson Baidoo,Ligue 1,D,12400000.0
+1399503,Nidal Čelik,Ligue 1,D,915000.0
+787827,Matthieu Udol,Ligue 1,D,4800000.0
+369650,Jonathan Gradit,Ligue 1,D,2900000.0
+1546405,Kyllian Antonio,Ligue 1,D,235000.0
+1387161,Robin Risser,Ligue 1,G,10400000.0
+1961639,Ilan Jourdren,Ligue 1,G,3707197.468487395
+123226,Mathieu Gorgelin,Ligue 1,G,260000.0
+14841,Régis Gurtner,Ligue 1,G,95000.0
+942116,Mason Greenwood,Ligue 1,F,49000000.0
+51498,Pierre-Emerick Aubameyang,Ligue 1,F,2900000.0
+859026,Amine Gouiri,Ligue 1,F,30000000.0
+981815,Igor Paixão,Ligue 1,F,33000000.0
+1401702,Ethan Nwaneri,Ligue 1,M,39000000.0
+855810,Timothy Weah,Ligue 1,M,18200000.0
+959805,Quinten Timber,Ligue 1,M,24000000.0
+945830,Himad Abdelli,Ligue 1,M,6400000.0
+1129527,Bilal Nadir,Ligue 1,M,260000.0
+1149127,Arthur Vermeeren,Ligue 1,M,27000000.0
+149593,Pierre-Emile Højbjerg,Ligue 1,M,16300000.0
+892924,Hamed Junior Traorè,Ligue 1,M,14100000.0
+96544,Geoffrey Kondogbia,Ligue 1,M,4800000.0
+1191892,Tochukwu Nnadi,Ligue 1,M,2100000.0
+877102,Nayef Aguerd,Ligue 1,D,23000000.0
+787505,Benjamin Pavard,Ligue 1,D,21000000.0
+928236,Leonardo Balerdi,Ligue 1,D,18200000.0
+860307,Facundo Medina,Ligue 1,D,18100000.0
+155997,Emerson Palmieri,Ligue 1,D,9100000.0
+1131448,Conrad Jaden Egan-Riley,Ligue 1,D,12600000.0
+128383,Gerónimo Rulli,Ligue 1,G,8700000.0
+803034,Jeffrey de Lange,Ligue 1,G,2100000.0
+1142668,Jelle Van Neck,Ligue 1,G,155000.0
+952626,Théo Vermot,Ligue 1,G,94000.0
+1174937,Endrick,Ligue 1,F,26000000.0
+1202024,Ernest Nuamah,Ligue 1,F,11500000.0
+829296,Roman Yaremchuk,Ligue 1,F,2300000.0
+957604,Pavel Šulc,Ligue 1,F,12400000.0
+1215906,Afonso Moreira,Ligue 1,F,4600000.0
+2369898,Adil Hamdani,Ligue 1,F,970000.0
+979118,Tyler Morton,Ligue 1,M,18700000.0
+1195784,Malick Fofana,Ligue 1,M,29000000.0
+2127096,Khalis Merah,Ligue 1,M,10937027.341997264
+343067,Corentin Tolisso,Ligue 1,M,13200000.0
+123228,Rachid Ghezzal,Ligue 1,M,735000.0
+1195782,Noah Nartey,Ligue 1,M,7500000.0
+793988,Orel Mangala,Ligue 1,M,9600000.0
+1000175,Adam Karabec,Ligue 1,M,7600000.0
+1022084,Tanner Tessmann,Ligue 1,M,11500000.0
+1961628,Rémi Himbert,Ligue 1,M,10937027.341997264
+1545023,Mathys de Carvalho,Ligue 1,M,10937027.341997264
+1961884,Tiago Goncalves,Ligue 1,M,47000.0
+158243,Nicolás Tagliafico,Ligue 1,D,4800000.0
+758168,Moussa Niakhaté,Ligue 1,D,14600000.0
+973838,Abner Vinícius,Ligue 1,D,6400000.0
+1937750,Noham Kamara,Ligue 1,D,960000.0
+1014540,Ruben Kluivert,Ligue 1,D,2400000.0
+352768,Ainsley Maitland-Niles,Ligue 1,D,10900000.0
+152813,Clinton Mata,Ligue 1,D,3100000.0
+1126845,Achraf Laaziri,Ligue 1,D,460000.0
+356352,Hans Hateboer,Ligue 1,D,1900000.0
+1627804,Steeve Kango,Ligue 1,D,8067730.136468774
+1563914,Prince Mbatshi Mukuba,Ligue 1,D,8067730.136468774
+791046,Dominik Greif,Ligue 1,G,7600000.0
+1481174,Lassine Diarra,Ligue 1,G,23000.0
+788180,Rémy Descamps,Ligue 1,G,1900000.0
+1563912,Yvann Konan,Ligue 1,G,3707197.468487395
+39070,Olivier Giroud,Ligue 1,F,1000000.0
+1140859,Hamza Igamane,Ligue 1,F,16600000.0
+1149144,Matías Fernández,Ligue 1,F,22000000.0
+1130111,Marius Sivertsen Broholm,Ligue 1,F,5500000.0
+1512354,Noah Edjouma,Ligue 1,F,2400000.0
+1936816,Soriba Diaoune,Ligue 1,F,10854111.235294119
+2427238,Matah Yondjio,Ligue 1,F,10854111.235294119
+1402698,Ethan Mbappé,Ligue 1,M,8700000.0
+368120,Nabil Bentaleb,Ligue 1,M,5500000.0
+1391541,Ngal'ayel Mukau,Ligue 1,M,11400000.0
+965357,Osame Sahraoui,Ligue 1,M,9700000.0
+1564180,Ayyoub Bouaddi,Ligue 1,M,44000000.0
+1138804,Hakon Arnar Haraldsson,Ligue 1,M,23000000.0
+934498,Félix Correia,Ligue 1,M,9700000.0
+51665,Benjamin André,Ligue 1,M,4099999.0
+827506,Gaëtan Perrin,Ligue 1,M,6200000.0
+1937062,Saad Boussadia,Ligue 1,M,10937027.341997264
+1515932,Lilian Baret,Ligue 1,M,10937027.341997264
+238612,Chancel Mbemba,Ligue 1,D,2300000.0
+361780,Calvin Verdonk,Ligue 1,D,3100000.0
+122810,Aïssa Mandi,Ligue 1,D,1100000.0
+1049775,Alexsandro Ribeiro,Ligue 1,D,21000000.0
+128587,Thomas Meunier,Ligue 1,D,1700000.0
+1119487,Nathan Ngoy,Ligue 1,D,9600000.0
+1087364,Tiago Santos,Ligue 1,D,12700000.0
+827519,Romain Perraud,Ligue 1,D,6800000.0
+1087352,Rafael Fernandes,Ligue 1,D,620000.0
+1513466,Ousmane Touré,Ligue 1,D,520000.0
+1937040,Maxima Goffi,Ligue 1,D,970000.0
+847494,Berke Özer,Ligue 1,G,10500000.0
+878898,Arnaud Bodart,Ligue 1,G,1900000.0
+189859,Marc-Aurele Caillard,Ligue 1,G,110000.0
+2407610,Zadig Lanssade,Ligue 1,G,3707197.468487395
+962883,Ansu Fati,Ligue 1,F,10400000.0
+934237,Folarin Balogun,Ligue 1,F,20000000.0
+1083007,Mika Biereth,Ligue 1,F,23000000.0
+1403216,Paris Brunner,Ligue 1,F,1600000.0
+111802,Paul Pogba,Ligue 1,M,5200000.0
+1110842,Simon Adingra,Ligue 1,M,23000000.0
+1389846,Lamine Camara,Ligue 1,M,31000000.0
+873534,Krépin Diatta,Ligue 1,M,5800000.0
+318963,Aleksandr Golovin,Ligue 1,M,17500000.0
+155818,Takumi Minamino,Ligue 1,M,11600000.0
+1130939,Maghnes Akliouche,Ligue 1,M,44000000.0
+770677,Denis Zakaria,Ligue 1,M,26000000.0
+1410148,Mamadou Coulibaly,Ligue 1,M,7500000.0
+1868591,Aladji Bamba,Ligue 1,M,3200000.0
+1149152,Stanis Idumbo Muzambo,Ligue 1,M,4700000.0
+1090694,Vanderson,Ligue 1,D,19000000.0
+946158,Mohammed Salisu,Ligue 1,D,9200000.0
+146101,Eric Dier,Ligue 1,D,6300000.0
+845170,Caio Henrique,Ligue 1,D,14300000.0
+281277,Thilo Kehrer,Ligue 1,D,18500000.0
+361696,Wout Faes,Ligue 1,D,12700000.0
+825846,Jordan Teze,Ligue 1,D,13100000.0
+1407848,Christian Mawissa,Ligue 1,D,13700000.0
+1397558,Kassoum Ouattara,Ligue 1,D,8700000.0
+15219,Lukáš Hrádecký,Ligue 1,G,1900000.0
+868964,Philipp Köhn,Ligue 1,G,4099999.0
+1136884,Yann Lienard,Ligue 1,G,105000.0
+1606621,Jules Stawiecki,Ligue 1,G,135000.0
+1606013,Yassir Zabiri,Ligue 1,F,4400000.0
+876600,Mousa Tamari,Ligue 1,F,6500000.0
+352296,Breel Embolo,Ligue 1,F,10900000.0
+966621,Esteban Lepaul,Ligue 1,F,13700000.0
+806076,Ludovic Blas,Ligue 1,F,14000000.0
+2111258,Elias Legendre Quiñonez,Ligue 1,F,105000.0
+848458,Arnaud Nordin,Ligue 1,F,4099999.0
+1891021,Nordan Mukiele,Ligue 1,F,10854111.235294119
+2517022,Stjepan Matic,Ligue 1,F,10854111.235294119
+847983,Sebastian Szymański,Ligue 1,M,12600000.0
+286909,Przemysław Frankowski,Ligue 1,M,7600000.0
+1102502,Quentin Merlin,Ligue 1,M,11600000.0
+1445628,Djaoui Cissé,Ligue 1,M,14000000.0
+581314,Valentin Rongier,Ligue 1,M,8700000.0
+916041,Mahdi Camara,Ligue 1,M,10800000.0
+292665,Glen Kamara,Ligue 1,M,2400000.0
+1445625,Jérémy Jacquet,Ligue 1,D,21000000.0
+1597145,Abdelhamid Ait Boudlal,Ligue 1,D,10700000.0
+1049515,Alidu Seidu,Ligue 1,D,6300000.0
+1545409,Mahamadou Nagida,Ligue 1,D,145000.0
+991479,Anthony Rouault,Ligue 1,D,9700000.0
+988907,Lilian Brassier,Ligue 1,D,9000000.0
+164055,Brice Samba,Ligue 1,G,9200000.0
+1513605,Mathys Silistrie,Ligue 1,G,3707197.468487395
+1410925,Joaquin Panichelli,Ligue 1,F,23000000.0
+1048333,Emmanuel Emegha,Ligue 1,F,29000000.0
+1090458,David Datro Fofana,Ligue 1,F,5200000.0
+1190938,Martial Godo,Ligue 1,F,7200000.0
+1407484,Samuel Amo-Ameyaw,Ligue 1,F,8500000.0
+1935902,Ghianny Kodia,Ligue 1,F,10854111.235294119
+2418022,Jean-Baptiste Bosey,Ligue 1,F,10854111.235294119
+973556,Julio Enciso,Ligue 1,M,18900000.0
+1127057,Valentín Barco,Ligue 1,M,27000000.0
+1638338,Gessime Yassine,Ligue 1,M,6500000.0
+1142233,Diego Moreira,Ligue 1,M,17500000.0
+1153355,Maxi Oyedele,Ligue 1,M,4099999.0
+1426224,Mathis Amougou,Ligue 1,M,10600000.0
+1605921,Samir El Mourabet,Ligue 1,M,7800000.0
+962068,Sebastian Nanasi,Ligue 1,M,15500000.0
+1930811,Abdoul Ouattara,Ligue 1,M,8300000.0
+1153333,Rafael Luis,Ligue 1,M,4200000.0
+1197153,Junior Mwanga,Ligue 1,M,7400000.0
+1944829,Max Marechal,Ligue 1,M,10937027.341997264
+1500263,Aarón Anselmino,Ligue 1,D,12700000.0
+802695,Ben Chilwell,Ligue 1,D,11100000.0
+1002033,Guéla Doué,Ligue 1,D,18800000.0
+1426597,Lucas Høgsberg,Ligue 1,D,11600000.0
+1049517,Ismael Doukouré,Ligue 1,D,17500000.0
+983066,Andrew Omobamidele,Ligue 1,D,7700000.0
+2200813,Yoann Becker,Ligue 1,D,8067730.136468774
+1149148,Mike Penders,Ligue 1,G,14300000.0
+40973,Karl-Johan Johnsson,Ligue 1,G,230000.0
+911843,Stefan Bajić,Ligue 1,G,480000.0
+1965113,Gabriel Kerckaert,Ligue 1,G,3707197.468487395
+1169436,Frank Magri,Ligue 1,F,4200000.0
+911851,Yann Gboho,Ligue 1,F,11000000.0
+1199247,Santiago Hidalgo,Ligue 1,F,1900000.0
+1128844,Emersonn,Ligue 1,F,3900000.0
+1002267,Jacen Russell-Rowe,Ligue 1,F,3400000.0
+1657108,Julian Vignolo,Ligue 1,F,1100000.0
+2203373,Enzo Faty,Ligue 1,F,10854111.235294119
+1410217,Pape Diop,Ligue 1,M,3600000.0
+988801,Abu Francis,Ligue 1,M,2100000.0
+878938,Cristian Cásseres Jr.,Ligue 1,M,6400000.0
+1198264,Rafik Messali,Ligue 1,M,775000.0
+863133,Aron Dønnum,Ligue 1,M,5400000.0
+1386065,Mario Sauer,Ligue 1,M,1600000.0
+1894003,Dayann Methalie,Ligue 1,M,8800000.0
+2193194,Alexis Vossah,Ligue 1,M,2800000.0
+1048366,Warren Kamanzi,Ligue 1,M,1600000.0
+1020744,Charlie Cresswell,Ligue 1,D,14300000.0
+922759,Mark McKenzie,Ligue 1,D,6300000.0
+123388,Djibril Sidibé,Ligue 1,D,1100000.0
+798124,Rasmus Nicolaisen,Ligue 1,D,5200000.0
+1894007,Gaëtan Bakhouche,Ligue 1,D,8067730.136468774
+2077075,Seny Koumbassa,Ligue 1,D,95000.0
+1154630,Guillaume Restes,Ligue 1,G,18100000.0
+792318,Kjetil Haug,Ligue 1,G,485000.0
+909272,Alex Domínguez,Ligue 1,G,245000.0
+1102503,Ahmadou Bamba Dieng,Ligue 1,F,1900000.0
+875548,Aiyegun Tosin,Ligue 1,F,1900000.0
+1405239,Mohamed Bamba,Ligue 1,F,2300000.0
+1103141,Sambou Soumano,Ligue 1,F,4200000.0
+1174462,Pablo Pagis,Ligue 1,F,4600000.0
+1492716,Trevan Sanusi,Ligue 1,F,475000.0
+1130307,Karim Dermane,Ligue 1,M,3100000.0
+1465307,Arthur Avom Ebong,Ligue 1,M,8700000.0
+954059,Bandiougou Fadiga,Ligue 1,M,245000.0
+1402217,Panos Katseris,Ligue 1,M,2200000.0
+802138,Jean-Victor Makengo,Ligue 1,M,2400000.0
+296434,Laurent Abergel,Ligue 1,M,2100000.0
+1131540,Théo Le Bris,Ligue 1,M,2100000.0
+993952,Noah Cadiou,Ligue 1,M,1000000.0
+2430329,Daniel Semedo,Ligue 1,M,10937027.341997264
+1855502,Arsène Kouassi,Ligue 1,D,7700000.0
+879618,Montassar Talbi,Ligue 1,D,6700000.0
+1529051,Abdoulaye Faye,Ligue 1,D,2800000.0
+998241,Darlin Yongwa,Ligue 1,D,3700000.0
+1012650,Souleymane Isaak Touré,Ligue 1,D,2600000.0
+1131541,Bamo Meïté,Ligue 1,D,3900000.0
+1103079,Nathaniel Adjei,Ligue 1,D,1300000.0
+831246,Igor Silva,Ligue 1,D,1100000.0
+149656,Yvon Mvogo,Ligue 1,G,3100000.0
+583312,Bingourou Kamara,Ligue 1,G,730000.0
+80392,Benjamin Leroy,Ligue 1,G,96000.0
+343971,Ludovic Ajorque,Ligue 1,F,3700000.0
+557166,Mama Baldé,Ligue 1,F,3400000.0
+1401005,Remy Labeau Lascary,Ligue 1,F,1700000.0
+1922996,Serigne Diop,Ligue 1,F,53000.0
+1156353,Kamory Doumbia,Ligue 1,M,7600000.0
+904994,Junior Dina Ebimbe,Ligue 1,M,6500000.0
+1410231,Pathé Mboup,Ligue 1,M,3200000.0
+1597197,Hamidou Makalou,Ligue 1,M,870000.0
+825681,Romain Del Castillo,Ligue 1,M,6400000.0
+976396,Joris Chotard,Ligue 1,M,5700000.0
+787889,Lucas Tousart,Ligue 1,M,2100000.0
+861324,Hugo Magnetti,Ligue 1,M,5500000.0
+1001858,Soumaila Coulibaly,Ligue 1,D,7400000.0
+1135887,Daouda Guindo,Ligue 1,D,2100000.0
+1499870,Luc Zogbé,Ligue 1,D,2200000.0
+1129382,Bradley Locko,Ligue 1,D,7200000.0
+141080,Kenny Lala,Ligue 1,D,1700000.0
+1400993,Michel Diaz,Ligue 1,D,4800000.0
+328035,Brendan Chardonnet,Ligue 1,D,5200000.0
+1894085,Raphaël Le Guen,Ligue 1,D,8067730.136468774
+849114,Radosław Majecki,Ligue 1,G,4300000.0
+891508,Grégoire Coudert,Ligue 1,G,725000.0
+1910904,Noah Jauny,Ligue 1,G,3707197.468487395
+891505,Goduine Koyalipou,Ligue 1,F,2400000.0
+2318284,Djibirin Harouna,Ligue 1,F,10854111.235294119
+2137784,Prosper Peter,Ligue 1,F,10854111.235294119
+2142283,Lanroy Machine,Ligue 1,F,10854111.235294119
+580642,Haris Belkebla,Ligue 1,M,2100000.0
+1195241,Yassin Belkhdim,Ligue 1,M,3900000.0
+190883,Branco van den Boomen,Ligue 1,M,2400000.0
+1392829,Amine Sbai,Ligue 1,M,1400000.0
+1172936,Louis Mouton,Ligue 1,M,2600000.0
+209768,Pierrick Capelle,Ligue 1,M,220000.0
+794373,Carlens Arcus,Ligue 1,D,1900000.0
+1049538,Ousmane Camara,Ligue 1,D,4099999.0
+1170532,Jacques Ekomié,Ligue 1,D,3700000.0
+1462778,Lilian Raolisoa,Ligue 1,D,1900000.0
+363042,Jordan Lefort,Ligue 1,D,1200000.0
+1493480,Dan Sinaté,Ligue 1,D,8067730.136468774
+121180,Abdoulaye Bamba,Ligue 1,D,260000.0
+1506932,Marius Courcoul,Ligue 1,D,53000.0
+1442036,Emmanuel Biumla,Ligue 1,D,3200000.0
+170129,Florent Hanin,Ligue 1,D,260000.0
+1862843,Marius Louer,Ligue 1,D,8067730.136468774
+867299,Hervé Koffi,Ligue 1,G,2800000.0
+1651830,Oumar Pona,Ligue 1,G,97000.0
+963201,Melvin Zinga,Ligue 1,G,290000.0
+45923,Ciro Immobile,Ligue 1,F,1900000.0
+330051,Moses Simon,Ligue 1,F,7700000.0
+940328,Jean-Philippe Krasso,Ligue 1,F,3800000.0
+1216282,Luca Koleosho,Ligue 1,F,3900000.0
+802142,Jonathan Ikoné,Ligue 1,F,4800000.0
+877979,Willem Geubbels,Ligue 1,F,7700000.0
+1046147,Lamine Gueye,Ligue 1,F,240000.0
+842399,Alimami Gory,Ligue 1,F,1200000.0
+857471,Pierre-Yves Hamel,Ligue 1,F,390000.0
+826492,Julien López,Ligue 1,F,195000.0
+1049442,Ilan Kebbal,Ligue 1,M,11200000.0
+894733,Marshall Munetsi,Ligue 1,M,12400000.0
+352802,Maxime López,Ligue 1,M,6300000.0
+801306,Pierre Lees Melou,Ligue 1,M,4700000.0
+1961626,Rudy Matondo,Ligue 1,M,2900000.0
+1507384,Adama Camara,Ligue 1,M,2600000.0
+816810,Mathieu Cafaro,Ligue 1,M,1900000.0
+795508,Vincent Marchetti,Ligue 1,M,2100000.0
+981168,Samir Sophian Chergui,Ligue 1,D,2800000.0
+362014,Hamari Traoré,Ligue 1,D,1900000.0
+982319,Moustapha Mbow,Ligue 1,D,5500000.0
+1050692,Diego Coppola,Ligue 1,D,11000000.0
+1069159,Otávio,Ligue 1,D,9600000.0
+838688,Sofiane Alakouch,Ligue 1,D,220000.0
+1426221,Nhoa Sangui,Ligue 1,D,8067730.136468774
+844744,Thibault De Smet,Ligue 1,D,1900000.0
+930813,Tuomas Ollila,Ligue 1,D,525000.0
+41605,Timothée Kolodziejczak,Ligue 1,D,210000.0
+38440,Kevin Trapp,Ligue 1,G,2100000.0
+1015872,Obed Nkambadio,Ligue 1,G,5700000.0
+13906,Rémy Riou,Ligue 1,G,96000.0
+825088,Mbwana Ally Samatta,Ligue 1,F,880000.0
+257205,Sofiane Boufal,Ligue 1,F,1800000.0
+1001458,Issa Soumaré,Ligue 1,F,5200000.0
+910076,Felix Mambimbi,Ligue 1,F,565000.0
+975300,Godson Kyeremeh,Ligue 1,F,825000.0
+2198657,Kenny Quetant,Ligue 1,F,10854111.235294119
+1895833,Noam Obougou Jacquet,Ligue 1,F,160000.0
+149732,Abdoulaye Touré,Ligue 1,M,2800000.0
+1000442,Yassine Kechta,Ligue 1,M,4800000.0
+992026,Rassoul Ndiaye,Ligue 1,M,5400000.0
+1035695,Fodé Doucouré,Ligue 1,M,1900000.0
+1012657,Lucas Gourna-Douath,Ligue 1,M,3700000.0
+995671,Reda Khadra,Ligue 1,M,1900000.0
+1490783,Simon Ebonog,Ligue 1,M,930000.0
+1895829,Daren Nbenbege Mosengo,Ligue 1,M,52000.0
+1895830,Guy-Noël Zohouri,Ligue 1,M,10937027.341997264
+54308,Loic Négo,Ligue 1,D,650000.0
+1035988,Arouna Sangante,Ligue 1,D,7700000.0
+873221,Ayumu Seko,Ligue 1,D,2800000.0
+1824137,Timothee Pembele,Ligue 1,D,1900000.0
+1397882,Yanis Zouaoui,Ligue 1,D,1700000.0
+980406,Étienne Youte Kinkoue,Ligue 1,D,2900000.0
+2073555,Stephan Zagadou,Ligue 1,D,97000.0
+287887,Gautier Lloris,Ligue 1,D,3100000.0
+599192,Lionel M'Pasi,Ligue 1,G,370000.0
+580226,Mory Diaw,Ligue 1,G,1100000.0
+1426218,Paul Argney,Ligue 1,G,55000.0
+1992481,Alex Teixeira,Ligue 1,G,3707197.468487395
+979315,Elye Wahi,Ligue 1,F,12900000.0
+1063235,Mohamed-Ali Cho,Ligue 1,F,11600000.0
+976410,Tiago Gouveia,Ligue 1,F,4099999.0
+1518669,Kaïl Boudache,Ligue 1,F,10854111.235294119
+1035619,Kevin Carlos Omoruyi,Ligue 1,F,6300000.0
+962064,Isak Jansson,Ligue 1,F,5400000.0
+985923,Hicham Boudaoui,Ligue 1,M,11300000.0
+919027,Ali Abdi,Ligue 1,M,2300000.0
+944164,Sofiane Diop,Ligue 1,M,9300000.0
+845486,Tanguy Ndombélé,Ligue 1,M,3200000.0
+993455,Salis Abdul Samed,Ligue 1,M,4900000.0
+821728,Jonathan Clauss,Ligue 1,M,4099999.0
+928033,Charles Vanhoutte,Ligue 1,M,6800000.0
+250133,Morgan Sanson,Ligue 1,M,4200000.0
+1127313,Tom Louchet,Ligue 1,M,5200000.0
+1893993,Gabin Bernardeau,Ligue 1,M,530000.0
+2020789,Djibril Coulibaly,Ligue 1,M,485000.0
+1489254,Raoul Louche,Ligue 1,M,10937027.341997264
+926506,Mohamed Abdelmonem,Ligue 1,D,3300000.0
+1120615,Antoine Mendy,Ligue 1,D,3900000.0
+1606792,Abdulay Juma Bah,Ligue 1,D,7300000.0
+985934,Youssouf Ndayishimiye,Ligue 1,D,8400000.0
+1473092,Kojo Peprah Oppong,Ligue 1,D,3900000.0
+3577,Dante,Ligue 1,D,550000.0
+1469180,Moise Bombito,Ligue 1,D,7800000.0
+906075,Melvin Bard,Ligue 1,D,10300000.0
+845183,Yehvann Diouf,Ligue 1,G,8500000.0
+96542,Maxime Dupé,Ligue 1,G,875000.0
+1511924,Bartosz Żelazowski,Ligue 1,G,3707197.468487395
+927005,Lassine Sinayoko,Ligue 1,F,7400000.0
+867440,Danny Namaso,Ligue 1,F,4800000.0
+1047484,Sékou Mara,Ligue 1,F,3600000.0
+1927696,Ryan Rodin,Ligue 1,F,10854111.235294119
+1035986,Josué Casimir,Ligue 1,M,3200000.0
+1127191,Oussama El Azzouzi,Ligue 1,M,1900000.0
+904424,Elisha Owusu,Ligue 1,M,3800000.0
+913942,Romain Faivre,Ligue 1,M,5400000.0
+1151803,Kévin Danois,Ligue 1,M,10500000.0
+997104,Naouirou Ahamada,Ligue 1,M,3400000.0
+1126588,Lasso Coulibaly,Ligue 1,M,930000.0
+782240,Assane Dioussé,Ligue 1,M,635000.0
+1142138,Nathan Buayi-Kiala,Ligue 1,M,94000.0
+1927719,Tidiane Devernois,Ligue 1,M,10937027.341997264
+844942,Gideon Mensah,Ligue 1,D,3200000.0
+805096,Francisco Sierralta,Ligue 1,D,1400000.0
+1177351,Lamine Sy,Ligue 1,D,875000.0
+1387156,Clement Akpa,Ligue 1,D,7800000.0
+996951,Sinaly Diomandé,Ligue 1,D,4400000.0
+1087805,Marvin Senaya,Ligue 1,D,3100000.0
+987491,Bryan Okoh,Ligue 1,D,1200000.0
+1005648,Fredrik Oppegård,Ligue 1,D,650000.0
+1974210,Elikya Legros,Ligue 1,D,8067730.136468774
+1897492,Telli Siwe,Ligue 1,D,8067730.136468774
+1974202,Alvin Petit Dol,Ligue 1,D,8067730.136468774
+159837,Donovan Léon,Ligue 1,G,810000.0
+1095836,Théo De Percin,Ligue 1,G,310000.0
+1129363,Tom Negrel,Ligue 1,G,49000.0
+2221903,Louis Mezerette,Ligue 1,G,3707197.468487395
+873551,Mostafa Mohamed,Ligue 1,F,4300000.0
+45512,Youssef El Arabi,Ligue 1,F,140000.0
+1406007,Bahereba Guirassy,Ligue 1,F,6600000.0
+999070,Matthis Abline,Ligue 1,F,21000000.0
+1516047,Amady Camara,Ligue 1,F,1200000.0
+890329,Ignatius Ganago,Ligue 1,F,1900000.0
+829093,Ibrahima Sissoko,Ligue 1,M,2900000.0
+822110,Deiver Machado,Ligue 1,M,2600000.0
+72998,Rémy Cabella,Ligue 1,M,1400000.0
+963299,Johann Lepenant,Ligue 1,M,6600000.0
+1127590,Mohamed Kaba,Ligue 1,M,1400000.0
+40672,Francis Coquelin,Ligue 1,M,845000.0
+1405998,Louis Leroux,Ligue 1,M,9300000.0
+1405912,Dehmaine Tabibou,Ligue 1,M,2200000.0
+1562126,Bahmed Deuff,Ligue 1,M,10937027.341997264
+1107439,Ali Youssef,Ligue 1,D,830000.0
+804764,Chidozie Awaziem,Ligue 1,D,3100000.0
+1170197,Abakar Sylla,Ligue 1,D,2900000.0
+2193204,Tylel Tati,Ligue 1,D,12700000.0
+151900,Uroš Radaković,Ligue 1,D,550000.0
+372430,Frédéric Guilbert,Ligue 1,D,875000.0
+802143,Kelvin Amian,Ligue 1,D,2600000.0
+802034,Fabien Centonze,Ligue 1,D,1100000.0
+886286,Nicolas Cozza,Ligue 1,D,3200000.0
+1415436,Sékou Doucoure,Ligue 1,D,8067730.136468774
+48535,Anthony Lopes,Ligue 1,G,1000000.0
+156236,Patrik Carlgren,Ligue 1,G,485000.0
+1196912,Alexis Mirbach,Ligue 1,G,45000.0
+802159,Habib Diallo,Ligue 1,F,5500000.0
+1470032,Ibou Sane,Ligue 1,F,480000.0
+1154647,Lucas Michal,Ligue 1,F,2600000.0
+300412,Giorgi Kvilitaia,Ligue 1,F,970000.0
+2195736,Nathan Mbala,Ligue 1,F,10854111.235294119
+825901,Joel Asoro,Ligue 1,F,930000.0
+1928236,Joseph Mangondo,Ligue 1,F,10854111.235294119
+875677,Georgiy Tsitaishvili,Ligue 1,M,2300000.0
+982613,Boubacar Traoré,Ligue 1,M,4800000.0
+1597191,Alpha Touré,Ligue 1,M,10937027.341997264
+842391,Gauthier Hein,Ligue 1,M,5200000.0
+985199,Giorgi Abuashvili,Ligue 1,M,1200000.0
+2076689,Believe Munongo,Ligue 1,M,910000.0
+1928232,Ismaël Guerti,Ligue 1,M,10937027.341997264
+105951,Benjamin Stambouli,Ligue 1,M,310000.0
+902657,Jessy Deminguet,Ligue 1,M,2700000.0
+1656715,Yannis Lawson,Ligue 1,M,240000.0
+158233,Bouna Sarr,Ligue 1,D,415000.0
+788170,Fodé Ballo-Touré,Ligue 1,D,1100000.0
+326343,Jean-Philippe Gbamin,Ligue 1,D,2100000.0
+1471683,Sadibou Sané,Ligue 1,D,3900000.0
+1200442,Terry Yegbe,Ligue 1,D,2800000.0
+867575,Koffi Kouao,Ligue 1,D,2700000.0
+1397934,Urie-Michel Mboula,Ligue 1,D,1000000.0
+128285,Maxime Colin,Ligue 1,D,310000.0
+1463509,Pape Sy,Ligue 1,G,265000.0
+1002541,Ousmane Ba,Ligue 1,G,110000.0
+1004550,Jonathan Fischer,Ligue 1,G,3200000.0
+1136110,Esmir Bajraktarević,Eredivisie,F,5200000.0
+1047395,Couhaib Driouech,Eredivisie,F,5600000.0
+986395,Ricardo Pepi,Eredivisie,F,26000000.0
+856744,Myron Boadu,Eredivisie,F,4700000.0
+1063767,Ismael Saibari,Eredivisie,M,35000000.0
+38710,Ivan Perišić,Eredivisie,M,1300000.0
+812145,Dennis Man,Eredivisie,M,13600000.0
+1146018,Paul Wanner,Eredivisie,M,18800000.0
+850816,Joey Veerman,Eredivisie,M,28000000.0
+845798,Guus Til,Eredivisie,M,15500000.0
+1212550,Ruben van Bommel,Eredivisie,M,12600000.0
+192308,Alassane Pléa,Eredivisie,M,3100000.0
+844234,Jerdy Schouten,Eredivisie,M,20000000.0
+1886213,Noah Fernandez,Eredivisie,M,1900000.0
+961684,Anass Salah-Eddine,Eredivisie,D,11100000.0
+906021,Sergiño Dest,Eredivisie,D,17200000.0
+1184317,Yarek Gasiorowski,Eredivisie,D,14700000.0
+1046960,Ryan Flamingo,Eredivisie,D,14800000.0
+893499,Mauro Júnior,Eredivisie,D,17600000.0
+1014222,Kiliann Sildillia,Eredivisie,D,4800000.0
+825838,Armando Obispo,Eredivisie,D,3700000.0
+927366,Matěj Kovář,Eredivisie,G,7200000.0
+227192,Nick Olij,Eredivisie,G,2800000.0
+1134720,Niek Schiks,Eredivisie,G,315000.0
+138534,Raheem Sterling,Eredivisie,F,4800000.0
+985823,Ayase Ueda,Eredivisie,F,14600000.0
+957937,Casper Tengstedt,Eredivisie,F,3900000.0
+979221,Gonçalo Borges,Eredivisie,F,4099999.0
+1218066,Anis Hadj Moussa,Eredivisie,M,21000000.0
+1095731,Oussama Targhalline,Eredivisie,M,10800000.0
+886242,Jakub Moder,Eredivisie,M,10900000.0
+889689,In-Beom Hwang,Eredivisie,M,7300000.0
+944467,Sem Steijn,Eredivisie,M,11900000.0
+1918931,Gaoussou Diarra,Eredivisie,M,2200000.0
+1150938,Leo Sauer,Eredivisie,M,6500000.0
+1121400,Luciano Valente,Eredivisie,M,19200000.0
+1479467,Aymen Sliti,Eredivisie,M,3300000.0
+1196520,Shiloh 't Zand,Eredivisie,M,290000.0
+1384486,Thijs Kraaijeveld,Eredivisie,M,3100000.0
+1939011,Tobias van den Elshout,Eredivisie,M,580000.0
+1388535,Givairo Read,Eredivisie,D,24000000.0
+825899,Anel Ahmedhodžić,Eredivisie,D,11600000.0
+942213,Tsuyoshi Watanabe,Eredivisie,D,9300000.0
+787640,Jeremiah St. Juste,Eredivisie,D,2900000.0
+1144138,Jordan Bos,Eredivisie,D,7400000.0
+121588,Gernot Trauner,Eredivisie,D,1900000.0
+796279,Jordan Lotomba,Eredivisie,D,3600000.0
+1127916,Thomas Beelen,Eredivisie,D,7200000.0
+794013,Mats Deijl,Eredivisie,D,1900000.0
+860160,Gijs Smal,Eredivisie,D,6300000.0
+797279,Bart Nieuwkoop,Eredivisie,D,1800000.0
+1484975,Malcolm Jeng,Eredivisie,D,1800000.0
+1614358,Hakeem Agboluaje,Eredivisie,D,8067730.136468774
+253875,Timon Wellenreuther,Eredivisie,G,6200000.0
+860764,Steven Benda,Eredivisie,G,1100000.0
+307364,Liam Bossin,Eredivisie,G,490000.0
+831860,Koki Ogawa,Eredivisie,F,2700000.0
+940647,Danilo,Eredivisie,F,1900000.0
+1193676,Başar Önal,Eredivisie,F,4400000.0
+958317,Youssef El Kachati,Eredivisie,F,650000.0
+47753,Bryan Linssen,Eredivisie,F,340000.0
+148623,Virgil Misidjan,Eredivisie,F,555000.0
+1184054,Kodai Sano,Eredivisie,M,12900000.0
+1019011,Isak Hansen Aarøen,Eredivisie,M,770000.0
+35208,Tjaronn Chery,Eredivisie,M,440000.0
+1394147,Sami Ouaissa,Eredivisie,M,5200000.0
+897603,Darko Nejašmić,Eredivisie,M,3100000.0
+978823,Willum Thor Willumsson,Eredivisie,M,3600000.0
+1214957,Noe Lebreton,Eredivisie,M,2100000.0
+961685,Dirk Proper,Eredivisie,M,1800000.0
+2193004,Sam de Laat,Eredivisie,M,68000.0
+1064177,Ahmetcan Kaplan,Eredivisie,D,4600000.0
+127846,Eli Dasa,Eredivisie,D,830000.0
+798180,Thomas Ouwejan,Eredivisie,D,845000.0
+842275,Philippe Sandler,Eredivisie,D,1900000.0
+138828,Jetro Willems,Eredivisie,D,275000.0
+1012639,Brayann Pereira,Eredivisie,D,1100000.0
+70930,Bram Nuytinck,Eredivisie,D,240000.0
+1177177,Deveron Fonville,Eredivisie,D,1000000.0
+123865,Jasper Cillessen,Eredivisie,G,275000.0
+990798,Gonzalo Crettaz,Eredivisie,G,2800000.0
+1066313,Rijk Janse,Eredivisie,G,27000.0
+252215,Wout Weghorst,Eredivisie,F,2600000.0
+1149146,Mika Godts,Eredivisie,F,23000000.0
+795761,Kasper Dolberg,Eredivisie,F,10900000.0
+100386,Steven Berghuis,Eredivisie,F,2600000.0
+878599,Oliver Edvardsen,Eredivisie,F,4099999.0
+1403073,Don-Angelo Konadu,Eredivisie,F,860000.0
+1155158,Oscar Gloukh,Eredivisie,M,15500000.0
+1403090,Rayane Bounida,Eredivisie,M,4900000.0
+1597274,Maher Carrizo,Eredivisie,M,9500000.0
+1563462,Jorthy Mokio,Eredivisie,M,7800000.0
+97410,Davy Klaassen,Eredivisie,M,2600000.0
+1001945,Kian Fitz-Jim,Eredivisie,M,3200000.0
+1859920,Sean Steur,Eredivisie,M,5800000.0
+996940,Youri Regeer,Eredivisie,M,4700000.0
+287643,Oleksandr Zinchenko,Eredivisie,D,10300000.0
+804434,Takehiro Tomiyasu,Eredivisie,D,8600000.0
+954836,Josip Šutalo,Eredivisie,D,16399999.0
+790989,Ko Itakura,Eredivisie,D,10500000.0
+1000228,Youri Baas,Eredivisie,D,19400000.0
+1120315,Anton Gaaei,Eredivisie,D,4800000.0
+1586649,Aaron Bouwman,Eredivisie,D,3700000.0
+836673,Owen Wijndal,Eredivisie,D,4300000.0
+970860,Lucas Rosa,Eredivisie,D,4300000.0
+1586629,Mylo van der Lans,Eredivisie,D,300000.0
+843250,Maarten Paes,Eredivisie,G,1400000.0
+927359,Vítězslav Jaroš,Eredivisie,G,5300000.0
+1424337,Joeri Heerkens,Eredivisie,G,970000.0
+1403089,Paul Reverson,Eredivisie,G,340000.0
+804901,Sam Lammers,Eredivisie,F,3200000.0
+35193,Ricky van Wolfswinkel,Eredivisie,F,385000.0
+1634542,Lucas Vennegoor of Hesselink,Eredivisie,F,320000.0
+989882,Ramiz Zerrouki,Eredivisie,M,5600000.0
+190435,Marko Pjaca,Eredivisie,M,2100000.0
+1160026,Kristian Hlynsson,Eredivisie,M,3800000.0
+1200962,Sondre Ørjasæter,Eredivisie,M,5800000.0
+1048430,Daan Rots,Eredivisie,M,3800000.0
+906024,Taylor Booth,Eredivisie,M,1600000.0
+945233,Thomas Van den Belt,Eredivisie,M,2900000.0
+578344,Arno Verschueren,Eredivisie,M,960000.0
+966546,Mathias Kjølø,Eredivisie,M,1400000.0
+1142678,Daouda Weidmann,Eredivisie,M,1100000.0
+1014288,Mees Hilgers,Eredivisie,D,4300000.0
+1890313,Ruud Nijstad,Eredivisie,D,8400000.0
+1387012,Mats Rots,Eredivisie,D,9300000.0
+946506,Bart van Rooij,Eredivisie,D,8700000.0
+1091923,Stav Lemkin,Eredivisie,D,2800000.0
+196082,Robin Pröpper,Eredivisie,D,1900000.0
+1470065,Guilherme Peixoto,Eredivisie,D,195000.0
+1091627,Max Bruns,Eredivisie,D,2300000.0
+1911393,Maik Poeketie,Eredivisie,D,110000.0
+27691,Przemysław Tytoń,Eredivisie,G,82000.0
+904775,Issam El Maach,Eredivisie,G,165000.0
+94835,Lars Unnerstall,Eredivisie,G,1600000.0
+1201942,Sam Karssies,Eredivisie,G,79000.0
+1928510,Yannick Gerritsen,Eredivisie,G,49000.0
+966555,Troy Parrott,Eredivisie,F,20000000.0
+905174,Ibrahim Sadiq,Eredivisie,F,3100000.0
+1153117,Mexx Meerdink,Eredivisie,F,10400000.0
+2055327,Bendegúz Kovács,Eredivisie,F,10854111.235294119
+914392,Jizz Hornkamp,Eredivisie,F,3100000.0
+1087931,Isak Steiner Jensen,Eredivisie,F,3400000.0
+1405756,Kees Smit,Eredivisie,M,24000000.0
+980671,Sven Mijnans,Eredivisie,M,15300000.0
+1148468,Weslley Patati,Eredivisie,M,6300000.0
+1648756,Ayoub Oufkir,Eredivisie,M,3700000.0
+1145989,Ro-Zangelo Daal,Eredivisie,M,2100000.0
+922018,Peer Koopmeiners,Eredivisie,M,10400000.0
+1170900,Matěj Šín,Eredivisie,M,3600000.0
+116946,Jordy Clasie,Eredivisie,M,1200000.0
+1590941,Kasper Boogaard,Eredivisie,M,2800000.0
+1638685,Mateo Chávez,Eredivisie,D,4099999.0
+1028330,Seiya Maikuma,Eredivisie,D,3100000.0
+1499691,Rion Ichihara,Eredivisie,D,1600000.0
+1145982,Wouter Goes,Eredivisie,D,16500000.0
+1004278,Alexandre Penetra,Eredivisie,D,9300000.0
+1008111,Denso Kasius,Eredivisie,D,5800000.0
+1386461,Elijah Dijkstra,Eredivisie,D,2300000.0
+893559,Mees de Wit,Eredivisie,D,4400000.0
+1213381,Billy van Duijl,Eredivisie,D,775000.0
+1145999,Rome Jayden Owusu-Oduro,Eredivisie,G,6700000.0
+40963,Jeroen Zoet,Eredivisie,G,280000.0
+97401,Hobie Verhulst,Eredivisie,G,210000.0
+1066470,Daniel Deen,Eredivisie,G,115000.0
+149731,Sébastien Haller,Eredivisie,F,1200000.0
+1489193,Artem Stepanov,Eredivisie,F,1400000.0
+834597,Jesper Karlsson,Eredivisie,F,3800000.0
+966429,David Min,Eredivisie,F,1600000.0
+1214695,Adrian Blake,Eredivisie,F,2200000.0
+1153261,Ángel Alarcón,Eredivisie,M,2900000.0
+1433802,Gjivai Zechiël,Eredivisie,M,7300000.0
+1014118,Miguel Rodríguez,Eredivisie,M,4099999.0
+855854,Dani de Wit,Eredivisie,M,2700000.0
+1105700,Yoann Cathline,Eredivisie,M,6800000.0
+1402994,Emirhan Demircan,Eredivisie,M,620000.0
+856648,Victor Jensen,Eredivisie,M,2300000.0
+1000548,Alonzo Engwanda,Eredivisie,M,6400000.0
+1190941,Rafik El Arguioui,Eredivisie,M,340000.0
+934249,Can Bozdoğan,Eredivisie,M,2600000.0
+1957736,Jaygo van Ommeren,Eredivisie,M,465000.0
+991679,Souffian El Karouani,Eredivisie,D,14000000.0
+794990,Siebe Horemans,Eredivisie,D,4400000.0
+947842,Mike Eerdhuijzen,Eredivisie,D,1800000.0
+996992,Matisse Didden,Eredivisie,D,2800000.0
+152414,Mike van der Hoorn,Eredivisie,D,845000.0
+46900,Nick Viergever,Eredivisie,D,380000.0
+837010,Niklas Vesterlund,Eredivisie,D,825000.0
+347726,Vasilis Barkas,Eredivisie,G,3600000.0
+1169107,Kevin Gadellaa,Eredivisie,G,245000.0
+252027,Michael Brouwer,Eredivisie,G,325000.0
+825843,Dylan Vente,Eredivisie,F,2300000.0
+1022376,Amourricho van Axel-Dongen,Eredivisie,F,370000.0
+1028070,Lasse Selvåg Nordås,Eredivisie,F,2300000.0
+1015627,Jacob Trenskow,Eredivisie,M,6700000.0
+992018,Ringo Meerveld,Eredivisie,M,3800000.0
+996986,Luca Oyen,Eredivisie,M,975000.0
+1627623,Marcus Linday,Eredivisie,M,4099999.0
+1586644,Eser Gürbüz,Eredivisie,M,560000.0
+794014,Luuk Brouwers,Eredivisie,M,1800000.0
+1014408,Maxence Rivera,Eredivisie,M,1900000.0
+1133678,Levi Smans,Eredivisie,M,1900000.0
+138842,Joris van Overeem,Eredivisie,M,850000.0
+1425327,Nolhan Courtens,Eredivisie,M,10937027.341997264
+1801303,Isaiah Ahmed,Eredivisie,M,120000.0
+1129996,Hristiyan Petrov,Eredivisie,D,530000.0
+1064426,Vasilios Zagaritis,Eredivisie,D,2200000.0
+1121247,Nikolai Soyset Hopland,Eredivisie,D,1600000.0
+1150061,Oliver Braude,Eredivisie,D,4400000.0
+1514878,Mats Egbring,Eredivisie,D,320000.0
+847072,Sam Kersten,Eredivisie,D,1400000.0
+1132765,Maas Willemsen,Eredivisie,D,1500000.0
+1888917,Ingmar Mulder,Eredivisie,D,8067730.136468774
+339339,Andries Noppert,Eredivisie,G,380000.0
+1195719,Bernt Klaverboer,Eredivisie,G,1400000.0
+945955,Nordin Bakker,Eredivisie,G,425000.0
+796943,Tobias Lauritsen,Eredivisie,F,3600000.0
+1050672,Casper Terho,Eredivisie,F,1600000.0
+1137227,Milan Zonneveld,Eredivisie,F,275000.0
+1002479,Shunsuke Mito,Eredivisie,M,2100000.0
+913584,Joshua Kitolano,Eredivisie,M,2700000.0
+827662,Mitchell van Bergen,Eredivisie,M,1100000.0
+385708,Vito van Crooij,Eredivisie,M,1100000.0
+99960,Jens Toornstra,Eredivisie,M,290000.0
+1101593,Alwande Roaldsoy,Eredivisie,M,1000000.0
+1046143,Julian Baas,Eredivisie,M,765000.0
+1648751,Ayoni  Santos,Eredivisie,M,1300000.0
+13028,Jonathan de Guzmán,Eredivisie,M,10937027.341997264
+795135,Pelle Clement,Eredivisie,M,595000.0
+74577,Patrick van Aanholt,Eredivisie,D,290000.0
+966299,Teo Quintero,Eredivisie,D,950000.0
+916926,Shurandy Sambo,Eredivisie,D,1600000.0
+1648759,Marvin Young,Eredivisie,D,5200000.0
+116947,Bruno Martins Indi,Eredivisie,D,425000.0
+1960315,Lushendry Edward Martes,Eredivisie,D,1600000.0
+896210,Saïd Bakari,Eredivisie,D,430000.0
+1193084,Mike Kleijn,Eredivisie,D,230000.0
+1517610,Max De Ligt,Eredivisie,D,68000.0
+1652148,Giannino Vianello,Eredivisie,D,140000.0
+610396,Joël Drommel,Eredivisie,G,2300000.0
+139149,Filip Bednarek,Eredivisie,G,190000.0
+1067956,Pascal Kuiper,Eredivisie,G,79000.0
+318745,Oskar Zawada,Eredivisie,F,525000.0
+1413536,Thom van Bergen,Eredivisie,F,2100000.0
+907520,Brynjólfur Darri Willumsson,Eredivisie,F,1400000.0
+940979,Rui Mendes,Eredivisie,F,180000.0
+2360419,Ryan Metu,Eredivisie,F,10854111.235294119
+1146623,Younes Taha,Eredivisie,M,3200000.0
+1441117,Tygo Land,Eredivisie,M,1400000.0
+1090328,Stije Resink,Eredivisie,M,7600000.0
+1400656,Travis Hernes,Eredivisie,M,230000.0
+1424404,Jorg Schreuders,Eredivisie,M,1500000.0
+163541,Mats Seuntjens,Eredivisie,M,340000.0
+1121402,Tika de Jonge,Eredivisie,M,1200000.0
+1878212,David van der Werff,Eredivisie,M,1100000.0
+2199364,Jismerai Dillema,Eredivisie,M,10937027.341997264
+1470010,Dies Janse,Eredivisie,D,4300000.0
+1121401,Thijmen Blokzijl,Eredivisie,D,3300000.0
+827103,Marco Rente,Eredivisie,D,1000000.0
+76160,Marvin Peersman,Eredivisie,D,280000.0
+1592993,Tyrique Mercera,Eredivisie,D,655000.0
+1977230,Elvis Van der Laan,Eredivisie,D,97000.0
+1481249,Wouter Prins,Eredivisie,D,625000.0
+1647694,Sven Bouland,Eredivisie,D,145000.0
+2197961,Robin Kelder,Eredivisie,D,8067730.136468774
+809408,Etienne Vaessen,Eredivisie,G,2400000.0
+1004481,Lovro Štubljar,Eredivisie,G,275000.0
+339941,Hidde Jurjus,Eredivisie,G,240000.0
+1191214,Dirk Baron,Eredivisie,G,26000.0
+855847,Kaj Sierhuis,Eredivisie,F,1400000.0
+148615,Paul Gladon,Eredivisie,F,195000.0
+2480868,Peter Schmitz,Eredivisie,F,10854111.235294119
+929633,Mohamed Ihattaren,Eredivisie,M,3200000.0
+277331,Alen Halilović,Eredivisie,M,495000.0
+1048011,Édouard Michut,Eredivisie,M,1200000.0
+1010846,Yassin Oukili,Eredivisie,M,750000.0
+591044,Dimitris Limnios,Eredivisie,M,880000.0
+352964,Samuel Bastien,Eredivisie,M,425000.0
+875673,Justin Lonwijk,Eredivisie,M,765000.0
+1896133,Luka Tunjić,Eredivisie,M,390000.0
+946505,Lance Duijvestijn,Eredivisie,M,745000.0
+366942,Kristoffer Peterson,Eredivisie,M,575000.0
+1132766,Philip Brittijn,Eredivisie,M,1200000.0
+1386737,Tristan Schenkhuizen,Eredivisie,M,24000.0
+1916795,Hasip Korkmazyürek,Eredivisie,M,53000.0
+1112604,Justin Hubner,Eredivisie,D,835000.0
+961678,Neraysho Kasanwirjo,Eredivisie,D,1400000.0
+377206,Daley Sinkgraven,Eredivisie,D,415000.0
+989586,Shawn Adewoye,Eredivisie,D,930000.0
+78730,Ivo Pinto,Eredivisie,D,260000.0
+961686,Syb van Ottele,Eredivisie,D,620000.0
+862479,Iván Márquez,Eredivisie,D,570000.0
+1048758,Jasper Dahlhaus,Eredivisie,D,1400000.0
+146871,Mattijs Branderhorst,Eredivisie,G,895000.0
+70927,Nick Marsman,Eredivisie,G,160000.0
+128992,Luuk Koopmans,Eredivisie,G,160000.0
+1855744,Ramazan Bayram,Eredivisie,G,24000.0
+1513291,Niels Martens,Eredivisie,G,23000.0
+2457000,Lars Van Parys,Eredivisie,G,3707197.468487395
+966655,Shola Shoretire,Eredivisie,F,1900000.0
+847073,Koen Kostons,Eredivisie,F,1400000.0
+927605,Kaj de Rooij,Eredivisie,F,970000.0
+856736,Thomas Buitink,Eredivisie,F,330000.0
+1381819,Jan Faberski,Eredivisie,M,760000.0
+1012931,Samir Lagsir,Eredivisie,M,140000.0
+815080,Jamiro Monteiro,Eredivisie,M,685000.0
+235538,Younes Namli,Eredivisie,M,1000000.0
+2195123,Jadiel Pereira da Gama,Eredivisie,M,1500000.0
+1050828,Zico Buurmeester,Eredivisie,M,1700000.0
+333571,Ryan Thomas,Eredivisie,M,725000.0
+876233,Thijs Oosting,Eredivisie,M,725000.0
+846003,Odysseus Velanas,Eredivisie,M,520000.0
+1509752,Nick Fichtinger,Eredivisie,M,465000.0
+1885838,Gabriel Reiziger,Eredivisie,M,180000.0
+1957718,Givaro Renwarin,Eredivisie,M,92000.0
+1142572,Tristan Gooijer,Eredivisie,D,1400000.0
+1005693,Anselmo Garcia McNulty,Eredivisie,D,1400000.0
+803021,Sherel Floranus,Eredivisie,D,855000.0
+1049446,Olivier Aertssen,Eredivisie,D,610000.0
+927155,Simon Graves,Eredivisie,D,1400000.0
+961674,Tijs Velthuis,Eredivisie,D,515000.0
+1172732,Damian van der Haar,Eredivisie,D,455000.0
+1638397,Dylan Ruward,Eredivisie,D,8067730.136468774
+1145525,Tom de Graaff,Eredivisie,G,875000.0
+856636,Jasper Schendelaar,Eredivisie,G,2100000.0
+1394059,Duke Verduin,Eredivisie,G,24000.0
+2228932,Len Bakker,Eredivisie,G,3707197.468487395
+841420,Victor Kaj Edvardsen,Eredivisie,F,1100000.0
+973716,Richonell Margaret,Eredivisie,F,725000.0
+907517,Stefán Ingi Sigurðarson,Eredivisie,F,1900000.0
+1022552,Oskar Siira Sivertsen,Eredivisie,F,545000.0
+964766,Thibo Baeten,Eredivisie,F,515000.0
+2056009,Ofosu Boakye,Eredivisie,F,81000.0
+360006,Finn Stokkers,Eredivisie,F,280000.0
+2513535,Harry Buisman,Eredivisie,F,10854111.235294119
+1029724,Jakob Breum,Eredivisie,M,4900000.0
+1218004,Jaden Slory,Eredivisie,M,835000.0
+909960,Mathis Suray,Eredivisie,M,2700000.0
+916947,Kenzo Goudmijn,Eredivisie,M,825000.0
+891795,Melle Meulensteen,Eredivisie,M,1900000.0
+2180363,Yassir Rahmouni,Eredivisie,M,440000.0
+932555,Evert Linthorst,Eredivisie,M,1400000.0
+987647,Søren Tengstedt,Eredivisie,M,770000.0
+1386182,Robbin Weijenberg,Eredivisie,M,260000.0
+1046722,Dean James,Eredivisie,D,1900000.0
+842536,Alfons Sampsted,Eredivisie,D,1600000.0
+793742,Joris Kramer,Eredivisie,D,1900000.0
+1133233,Aske Adelgaard,Eredivisie,D,660000.0
+1479476,Eus Waayers,Eredivisie,D,360000.0
+133168,Gerrit Nauber,Eredivisie,D,380000.0
+1001943,Julius Dirksen,Eredivisie,D,325000.0
+1119473,Giovanni van Zwam,Eredivisie,D,280000.0
+1171238,Pim Saathof,Eredivisie,D,69000.0
+837072,Jari De Busser,Eredivisie,G,3200000.0
+877840,Luca Plogmann,Eredivisie,G,410000.0
+1090199,Sven Jansen,Eredivisie,G,47000.0
+1130708,Nando Verdoni,Eredivisie,G,27000.0
+1157777,Jochem Ritmeester van de Kamp,Eredivisie,F,1400000.0
+860158,Kay Tejan,Eredivisie,F,290000.0
+1548834,Sem van Duijn,Eredivisie,F,360000.0
+1548838,Soufiane Hetli,Eredivisie,F,435000.0
+987077,Nökkvi Þórisson,Eredivisie,F,515000.0
+1066319,Patrick Brouwer,Eredivisie,F,485000.0
+2007289,Jelani Seedorf,Eredivisie,F,210000.0
+1638564,Cedric Hatenboer,Eredivisie,M,1100000.0
+1084609,Tyrone Owusu,Eredivisie,M,570000.0
+1469336,Tyrese Noslin,Eredivisie,M,775000.0
+1150154,Nils Rossen,Eredivisie,M,660000.0
+385300,Jeff Hardeveld,Eredivisie,M,435000.0
+1594488,Adil Lechkar,Eredivisie,M,155000.0
+995365,Dylan Mertens,Eredivisie,M,290000.0
+1469273,Rojendro Oudsten,Eredivisie,M,105000.0
+2165162,Rayyan Koubini,Eredivisie,M,10937027.341997264
+2480588,Frank Dikstaal,Eredivisie,M,10937027.341997264
+1403075,Gerald Alders,Eredivisie,D,680000.0
+73557,Dion Malone,Eredivisie,D,77000.0
+302690,Danny Bakker,Eredivisie,D,490000.0
+1068610,Devon Koswal,Eredivisie,D,475000.0
+1418395,Neville Nwankwo,Eredivisie,D,530000.0
+1906681,Abdelraffie Benzzine,Eredivisie,D,8067730.136468774
+1047396,Guus Offerhaus,Eredivisie,D,550000.0
+955148,Nigel Ogidi Nwankwo,Eredivisie,D,145000.0
+2025752,Yamano Olfers,Eredivisie,D,8067730.136468774
+268701,Ronald Koeman Jr,Eredivisie,G,595000.0
+916942,Daan Reiziger,Eredivisie,G,97000.0
+1049270,Tyrick Bodak,Eredivisie,G,27000.0
+313264,Henk Veerman,Eredivisie,F,335000.0
+1008697,Anthony Descotte,Eredivisie,F,605000.0
+1520752,Benjamin Pauwels,Eredivisie,F,1100000.0
+2166694,Key Shawn Wong A Soij,Eredivisie,F,47000.0
+1939251,Jesper Tielemans,Eredivisie,F,49000.0
+544532,Bilal Ould-Chikh,Eredivisie,M,825000.0
+1100399,Ozan Kökçü,Eredivisie,M,465000.0
+788971,Juninho Bacuna,Eredivisie,M,2300000.0
+1146002,Dave Kwakman,Eredivisie,M,1400000.0
+1049063,Joel Ideho,Eredivisie,M,385000.0
+156676,Robert Mühren,Eredivisie,M,210000.0
+1095753,Gibson Yah,Eredivisie,M,970000.0
+252885,Brandley Kuwas,Eredivisie,M,320000.0
+2216656,Robin van Cruijsen,Eredivisie,M,1400000.0
+1511723,Nordin Bukala,Eredivisie,M,630000.0
+1095406,Aurelio Oehlers,Eredivisie,M,470000.0
+1935932,Anass Bouziane,Eredivisie,M,26000.0
+1841361,Myron Mau-Asam,Eredivisie,M,48000.0
+860161,Alex Plat,Eredivisie,M,415000.0
+1481354,Precious Ugwu,Eredivisie,D,380000.0
+106154,Mawouna Amevor,Eredivisie,D,210000.0
+1523582,Nick Verschuren,Eredivisie,D,950000.0
+996982,Yannick Leliendal,Eredivisie,D,1100000.0
+1011489,Silvinho Esajas,Eredivisie,D,195000.0
+1922946,Luca Blondeau,Eredivisie,D,69000.0
+1423743,Deron Payne,Eredivisie,D,470000.0
+32386,Aaron Meijers,Eredivisie,D,72000.0
+1393970,Kayne van Oevelen,Eredivisie,G,2100000.0
+1403023,Roy Steur,Eredivisie,G,120000.0
+1065542,Dion Vlak,Eredivisie,G,23000.0
+1211982,Miliano Jonathans,Eredivisie,F,930000.0
+1009285,Szymon Włodarczyk,Eredivisie,F,815000.0
+1893852,Jerolldino Bergraaf,Eredivisie,F,435000.0
+1198088,Nesto Groen,Eredivisie,F,130000.0
+150494,Mike van Duinen,Eredivisie,F,145000.0
+1126966,Gyan de Regt,Eredivisie,M,630000.0
+1528458,Chris-Kévin Nadje,Eredivisie,M,680000.0
+1384483,Irakli Yegoian,Eredivisie,M,1500000.0
+794362,Emil Hansson,Eredivisie,M,970000.0
+1048487,Noah Naujoks,Eredivisie,M,930000.0
+1046142,Derensili Sanches Fernandes,Eredivisie,M,580000.0
+1126595,Lennard Hartjes,Eredivisie,M,620000.0
+966542,Mathijs Tielemans,Eredivisie,M,485000.0
+991039,Adam Carlén,Eredivisie,M,545000.0
+910053,Arthur Zagre,Eredivisie,D,1100000.0
+1145987,Lewis Schouten,Eredivisie,D,375000.0
+1031721,Casper Widell,Eredivisie,D,875000.0
+983662,Hamdi Akujobi,Eredivisie,D,465000.0
+899644,Ilias Bronkhorst,Eredivisie,D,710000.0
+1133679,Stan Henderikx,Eredivisie,D,495000.0
+1048906,Rick Meissen,Eredivisie,D,665000.0
+946950,Simon Janssen,Eredivisie,D,410000.0
+1923374,Giuliano Cairo,Eredivisie,D,8067730.136468774
+367118,Stijn van Gassel,Eredivisie,G,930000.0
+961616,Calvin Raatsie,Eredivisie,G,410000.0
+1893851,Tijmen Holla,Eredivisie,G,72000.0
+27035,André Ayew,Eredivisie,F,280000.0
+1175856,Amine Salama,Eredivisie,F,1600000.0
+1149130,Brahim Ghalidi,Eredivisie,F,190000.0
+990814,Charles-Andreas Brym,Eredivisie,F,495000.0
+1461935,Moussa Soumano,Eredivisie,F,860000.0
+2197943,Pepijn Reulen,Eredivisie,F,315000.0
+927440,Kamal Sowah,Eredivisie,M,675000.0
+1088895,Mohamed Nassoh,Eredivisie,M,680000.0
+1149147,Juho Talvitie,Eredivisie,M,745000.0
+1135884,Lewis Holtby,Eredivisie,M,420000.0
+1096511,Maximilien Balard,Eredivisie,M,910000.0
+1083398,Raul Paula,Eredivisie,M,375000.0
+226762,Fredrik Jensen,Eredivisie,M,325000.0
+336811,Clint Leemans,Eredivisie,M,410000.0
+58994,Denis Odoi,Eredivisie,D,210000.0
+918420,Leo Greiml,Eredivisie,D,1400000.0
+1515525,Cherrion Valerius,Eredivisie,D,645000.0
+571964,Enes Mahmutović,Eredivisie,D,315000.0
+858242,Boy Kemper,Eredivisie,D,895000.0
+1012927,Rio Hillen,Eredivisie,D,860000.0
+1130306,Jayden Candelaria,Eredivisie,D,155000.0
+912651,Boyd Lucassen,Eredivisie,D,470000.0
+2197942,Jemuel Erat,Eredivisie,D,8067730.136468774
+2077687,Christian Chiza,Eredivisie,D,8067730.136468774
+939460,Daniel Bielica,Eredivisie,G,1000000.0
+42876,Kostas Lamprou,Eredivisie,G,145000.0
+168437,Roy Kortsmit,Eredivisie,G,160000.0
+2197941,Thomas Goos,Eredivisie,G,54000.0
+998999,Luka Kulenović,Eredivisie,F,810000.0
+1123613,Yvandro Borges Sanches,Eredivisie,F,470000.0
+1118181,Lequincio Zeefuik,Eredivisie,F,825000.0
+1469027,Giandro Sambo,Eredivisie,F,46000.0
+2186070,Sil Blokhuis,Eredivisie,F,49000.0
+954317,Naci Ünüvar,Eredivisie,M,1400000.0
+794269,Jeff Reine-Adélaïde,Eredivisie,M,720000.0
+788284,Ajdin Hrustić,Eredivisie,M,680000.0
+1066450,Walid Ould-Chikh,Eredivisie,M,630000.0
+996988,Bryan Limbombe,Eredivisie,M,530000.0
+980742,Erik Ahlstrand,Eredivisie,M,480000.0
+1189738,Sem Scheperman,Eredivisie,M,680000.0
+930295,Jan Žambůrek,Eredivisie,M,515000.0
+1213453,Tristan van Gilst,Eredivisie,M,380000.0
+1144148,Rhys Bozinovski,Eredivisie,M,390000.0
+132674,Mario Engels,Eredivisie,M,385000.0
+146401,Thomas Bruns,Eredivisie,M,240000.0
+1130308,Mimeirhel Benita,Eredivisie,D,635000.0
+974530,Djevencio van der Kust,Eredivisie,D,465000.0
+918484,Ivan Mesík,Eredivisie,D,630000.0
+974203,Alec Van Hoorenbeeck,Eredivisie,D,725000.0
+1014566,Sava Arangel Čestić,Eredivisie,D,220000.0
+318575,Damon Mirani,Eredivisie,D,515000.0
+127554,Mike te Wierik,Eredivisie,D,240000.0
+984880,Jannes Wieckhoff,Eredivisie,D,425000.0
+1862924,Jop Tijink,Eredivisie,D,47000.0
+2622,Remko Pasveer,Eredivisie,G,145000.0
+856743,Fabian de Keijzer,Eredivisie,G,460000.0
+1189737,Timo Jansink,Eredivisie,G,215000.0
+943230,Robin Mantel,Eredivisie,G,55000.0
+2077282,Leco Zeevalkink,Eredivisie,G,3707197.468487395
+1503836,Samu Aghehowa,Liga Portugal,F,52000000.0
+40878,Luuk de Jong,Liga Portugal,F,1400000.0
+882664,Pepê,Liga Portugal,F,18800000.0
+1639250,William Gomes,Liga Portugal,F,18600000.0
+1407720,Deniz Gül,Liga Portugal,F,6200000.0
+894396,Terem Moffi,Liga Portugal,F,10300000.0
+992567,Borja Sainz,Liga Portugal,F,24000000.0
+802149,Yann Karamoh,Liga Portugal,F,1500000.0
+1432418,Gonçalo Sousa,Liga Portugal,F,1200000.0
+1410240,Rodrigo Mora,Liga Portugal,M,42000000.0
+191188,Seko Fofana,Liga Portugal,M,8800000.0
+1548929,Oskar Pietuszewski,Liga Portugal,M,12400000.0
+1066560,Alan Varela,Liga Portugal,M,35000000.0
+1010505,Gabri Veiga,Liga Portugal,M,22000000.0
+1406639,Victor Froholdt,Liga Portugal,M,27000000.0
+804472,Pablo Rosario,Liga Portugal,M,7800000.0
+1006995,Vasco Sousa,Liga Portugal,M,2300000.0
+33541,Thiago Silva,Liga Portugal,D,560000.0
+976037,Jakub Kiwior,Liga Portugal,D,28000000.0
+286085,Jan Bednarek,Liga Portugal,D,10600000.0
+913401,Nehuén Pérez,Liga Portugal,D,11800000.0
+1160957,Alberto Costa,Liga Portugal,D,14000000.0
+987510,Zaidu Sanusi,Liga Portugal,D,2900000.0
+1146484,Dominik Prpić,Liga Portugal,D,5500000.0
+1142585,Martim Fernandes,Liga Portugal,D,11500000.0
+985138,Francisco Moura,Liga Portugal,D,14200000.0
+843115,Diogo Costa,Liga Portugal,G,42000000.0
+116372,Cláudio Ramos,Liga Portugal,G,1100000.0
+788365,João Costa,Liga Portugal,G,845000.0
+914213,Luis Javier Suárez,Liga Portugal,F,19900000.0
+830431,Francisco Trincão,Liga Portugal,F,36000000.0
+903679,Fotis Ioannidis,Liga Portugal,F,19200000.0
+1464415,Rafael Nel,Liga Portugal,F,1600000.0
+1402589,Mauro Couto,Liga Portugal,F,465000.0
+1403165,Geovany Quenda,Liga Portugal,M,49000000.0
+1001140,Geny Catamo,Liga Portugal,M,16100000.0
+895764,Pedro Gonçalves,Liga Portugal,M,33000000.0
+1464248,Luis Guilherme,Liga Portugal,M,10400000.0
+859917,Morten Hjulmand,Liga Portugal,M,53000000.0
+929193,Maximiliano Araújo,Liga Portugal,M,20000000.0
+886402,Giorgi Kochorashvili,Liga Portugal,M,5700000.0
+926560,Hidemasa Morita,Liga Portugal,M,8300000.0
+1410209,João Simões,Liga Portugal,M,15900000.0
+861979,Daniel Bragança,Liga Portugal,M,9100000.0
+352882,Nuno Santos,Liga Portugal,M,5200000.0
+1002343,Souleymane Faye,Liga Portugal,M,1600000.0
+1001196,Gonçalo Inácio,Liga Portugal,D,47000000.0
+1394342,Ousmane Diomande,Liga Portugal,D,48000000.0
+1126512,Zeno Debast,Liga Portugal,D,31000000.0
+1166952,Giorgos Vagiannidis,Liga Portugal,D,10100000.0
+989841,Eduardo Quaresma,Liga Portugal,D,16000000.0
+1167818,Iván Fresneda,Liga Portugal,D,12500000.0
+878496,Ricardo Mangas,Liga Portugal,D,2400000.0
+253809,Rui Silva,Liga Portugal,G,6700000.0
+930666,João Virgínia,Liga Portugal,G,915000.0
+1130378,Diego Callai,Liga Portugal,G,1300000.0
+795236,Vangelis Pavlidis,Liga Portugal,F,37000000.0
+1100952,Andreas Schjelderup,Liga Portugal,F,14400000.0
+1103333,Franjo Ivanović,Liga Portugal,F,19400000.0
+97012,Bruma,Liga Portugal,F,5400000.0
+2163561,Anísio Cabral,Liga Portugal,F,5200000.0
+998870,Henrique Araújo,Liga Portugal,F,1900000.0
+1184329,Rodrigo Rego,Liga Portugal,F,935000.0
+1015292,Richard Ríos,Liga Portugal,M,24000000.0
+1201395,Gianluca Prestianni,Liga Portugal,M,11600000.0
+252577,Rafa Silva,Liga Portugal,M,5300000.0
+1087316,Enzo Barrenechea,Liga Portugal,M,13800000.0
+1123925,Georgiy Sudakov,Liga Portugal,M,31000000.0
+823631,Dodi Lukebakio,Liga Portugal,M,18800000.0
+228364,Fredrik Aursnes,Liga Portugal,M,15900000.0
+906800,Leandro Barreiro,Liga Portugal,M,14500000.0
+1158353,João Rêgo,Liga Portugal,M,3100000.0
+1085740,Manuel Silva,Liga Portugal,M,10900000.0
+1215905,João Veloso,Liga Portugal,M,1500000.0
+1146008,Diogo Prioste,Liga Portugal,M,1900000.0
+74915,Nicolás Otamendi,Liga Portugal,D,1100000.0
+1006069,António Silva,Liga Portugal,D,32000000.0
+1102791,Amar Dedić,Liga Portugal,D,14600000.0
+983542,Tomás Araújo,Liga Portugal,D,31000000.0
+850976,Alexander Bah,Liga Portugal,D,9500000.0
+993101,Samuel Dahl,Liga Portugal,D,9400000.0
+1117723,Sidny Lopes Cabral,Liga Portugal,D,2100000.0
+966616,Anatoliy Trubin,Liga Portugal,G,30000000.0
+983550,Samuel Soares,Liga Portugal,G,4099999.0
+1489159,Diogo Ferreira,Liga Portugal,G,870000.0
+1031567,Pau Víctor,Liga Portugal,F,9600000.0
+314380,Ricardo Horta,Liga Portugal,F,10700000.0
+1014048,Amine El Ouazzani,Liga Portugal,F,3400000.0
+914772,Fran Navarro,Liga Portugal,F,4400000.0
+1649069,Sandro Vidigal,Liga Portugal,F,1400000.0
+1485309,Gabriel Moscardo,Liga Portugal,M,7500000.0
+1120039,Jean-Baptiste Gorby,Liga Portugal,M,7400000.0
+966575,Rodrigo Zalazar,Liga Portugal,M,21000000.0
+1142613,Demir Ege Tıknaz,Liga Portugal,M,6200000.0
+6562,João Moutinho,Liga Portugal,M,525000.0
+1396015,Mario Dorgeles,Liga Portugal,M,10800000.0
+186719,Florian Grillitsch,Liga Portugal,M,2100000.0
+1134430,Gabriel Martínez,Liga Portugal,M,3600000.0
+1006865,Leonardo Lelo,Liga Portugal,M,8199999.0
+1184326,Diego Rodrigues,Liga Portugal,M,4700000.0
+1439201,Yanis da Rocha,Liga Portugal,M,195000.0
+868235,Sikou Niakaté,Liga Portugal,D,7700000.0
+959592,Adrian Leon Barišić,Liga Portugal,D,3900000.0
+997173,Bright Arrey-Mbi,Liga Portugal,D,7200000.0
+965263,Gustaf Lagerbielke,Liga Portugal,D,5200000.0
+887754,Vítor Carvalho,Liga Portugal,D,3900000.0
+877918,Victor Gómez,Liga Portugal,D,6800000.0
+106751,Paulo Oliveira,Liga Portugal,D,460000.0
+1000501,Alaa Bellaarouch,Liga Portugal,G,365000.0
+963744,Lukáš Horníček,Liga Portugal,G,9400000.0
+1195449,Joao Carvalho,Liga Portugal,G,1400000.0
+344159,Tiago Sá,Liga Portugal,G,325000.0
+1195796,Romeo Beney,Liga Portugal,F,1400000.0
+1463265,Antoine Joujou,Liga Portugal,F,2100000.0
+2194737,Umar Abubakar,Liga Portugal,F,580000.0
+1049526,Simon Elisor,Liga Portugal,F,1400000.0
+1563665,Gustavo Sá,Liga Portugal,M,14900000.0
+984626,Óscar Aranda,Liga Portugal,M,4099999.0
+1105595,Sorriso,Liga Portugal,M,4800000.0
+583838,Gil Dias,Liga Portugal,M,1600000.0
+1120040,Pedro Santos,Liga Portugal,M,620000.0
+1511656,Mathias De Amorim,Liga Portugal,M,5800000.0
+1006067,Otar Mamageishvili,Liga Portugal,M,735000.0
+352874,Rochinha,Liga Portugal,M,560000.0
+836676,Tom Van De Looi,Liga Portugal,M,1800000.0
+1493216,Marcos Peña,Liga Portugal,M,1500000.0
+1002443,Gustavo García,Liga Portugal,D,2100000.0
+1152893,Vojin Serafimović,Liga Portugal,D,420000.0
+977676,Léo Realpe,Liga Portugal,D,3800000.0
+1102988,Pedro Bondo,Liga Portugal,D,2100000.0
+1595506,Ibrahima Ba,Liga Portugal,D,970000.0
+876255,Justin De Haas,Liga Portugal,D,4400000.0
+991924,Rodrigo Pinheiro,Liga Portugal,D,3300000.0
+190137,Rafa Soares,Liga Portugal,D,935000.0
+1471224,Renan Santana,Liga Portugal,D,1100000.0
+886204,Lazar Carević,Liga Portugal,G,2700000.0
+788203,Ivan Zlobin,Liga Portugal,G,1400000.0
+352448,Héctor Hernández,Liga Portugal,F,880000.0
+1146305,Gustavo Varela,Liga Portugal,F,1100000.0
+1404790,Carlos Eduardo,Liga Portugal,F,660000.0
+1032547,Joelson Fernandes,Liga Portugal,M,1400000.0
+1097527,Luís Esteves,Liga Portugal,M,1900000.0
+989837,Facundo Cáseres,Liga Portugal,M,2200000.0
+611880,Murilo Souza,Liga Portugal,M,830000.0
+1084746,Santi García,Liga Portugal,M,1600000.0
+1537180,Mohamed Bamba,Liga Portugal,M,3100000.0
+1445615,Tidjany Touré,Liga Portugal,M,275000.0
+1410239,Gil Martins,Liga Portugal,M,220000.0
+1138915,Zé Carlos,Liga Portugal,M,825000.0
+1799336,Agustín Moreira,Liga Portugal,M,670000.0
+1083277,Martin Fernández,Liga Portugal,M,420000.0
+2154588,Rodrigo Rodrigues,Liga Portugal,M,10937027.341997264
+949449,Sergio Bermejo,Liga Portugal,M,860000.0
+1907260,Gui Beleza,Liga Portugal,M,10937027.341997264
+2158739,Gonçalo Maia Pereira,Liga Portugal,M,94000.0
+831781,Ghislain Konan,Liga Portugal,D,2800000.0
+800348,Jonathan Buatu,Liga Portugal,D,565000.0
+1087355,Hevertton Santos,Liga Portugal,D,860000.0
+905452,Weverson,Liga Portugal,D,1100000.0
+1114164,Marvin Elimbi,Liga Portugal,D,2400000.0
+1001662,Zé Carlos,Liga Portugal,D,1500000.0
+1004444,Jonathan Mutombo,Liga Portugal,D,380000.0
+1142261,Antonio Espigares,Liga Portugal,D,465000.0
+1426239,Arthur Tchaptchet,Liga Portugal,D,93000.0
+981586,Lucão,Liga Portugal,G,1300000.0
+862060,Daniel Figueira,Liga Portugal,G,310000.0
+826210,Rafik Guitane,Liga Portugal,F,3600000.0
+930246,Yanis Begraoui,Liga Portugal,F,3800000.0
+929894,Alejandro Marqués,Liga Portugal,F,1500000.0
+548044,João Carvalho,Liga Portugal,F,2900000.0
+1084291,Khayon Edwards,Liga Portugal,F,340000.0
+1120679,André Lacximicant,Liga Portugal,F,770000.0
+1513647,Peixinho,Liga Portugal,F,10854111.235294119
+77725,Pizzi,Liga Portugal,M,270000.0
+1001313,Nodar Lominadze,Liga Portugal,M,745000.0
+920684,Jordan Holsgrove,Liga Portugal,M,3700000.0
+858705,Xeka,Liga Portugal,M,940000.0
+877920,Jandro Orellana,Liga Portugal,M,1000000.0
+357734,Ferro,Liga Portugal,D,580000.0
+1049465,Kévin Boma,Liga Portugal,D,4300000.0
+994532,Antef Tsoungui,Liga Portugal,D,630000.0
+986726,Ricard Sánchez,Liga Portugal,D,2100000.0
+943525,Felix Bacher,Liga Portugal,D,2200000.0
+834247,Pedro Amaral,Liga Portugal,D,1000000.0
+1087354,Gonçalo Costa,Liga Portugal,D,380000.0
+1158555,Or Israelov,Liga Portugal,D,220000.0
+1511977,Pedro Carvalho,Liga Portugal,D,545000.0
+1083104,Martin Turk,Liga Portugal,G,320000.0
+93796,Joel Robles,Liga Portugal,G,435000.0
+1513619,Diogo Dias,Liga Portugal,G,190000.0
+1115751,Luís Semedo,Liga Portugal,F,410000.0
+1188685,Yan Maranhão,Liga Portugal,F,630000.0
+1411034,Jimi Gower,Liga Portugal,M,105000.0
+905455,Alan,Liga Portugal,M,3900000.0
+1166006,Mateja Stjepanović,Liga Portugal,M,2300000.0
+1001848,Nile John,Liga Portugal,M,340000.0
+1471229,Landerson,Liga Portugal,M,955000.0
+1082948,Kiko Bondoso,Liga Portugal,M,825000.0
+910033,Cedric Teguia,Liga Portugal,M,845000.0
+2030567,Afonso Assis,Liga Portugal,M,275000.0
+1142254,Rodrigo Alonso,Liga Portugal,M,275000.0
+2455955,Miguel Silva,Liga Portugal,M,10937027.341997264
+1489200,Leandro Santos,Liga Portugal,D,1100000.0
+1411154,Michel Augusto,Liga Portugal,D,775000.0
+1142578,Diogo Travassos,Liga Portugal,D,2300000.0
+1130513,Fabiano Souza,Liga Portugal,D,1600000.0
+1160980,Dinis Pinto,Liga Portugal,D,3300000.0
+1395583,Kiko,Liga Portugal,D,1600000.0
+1153099,Gilberto Batista,Liga Portugal,D,370000.0
+931485,Maracás,Liga Portugal,D,850000.0
+1175474,Álvaro Martínez,Liga Portugal,D,375000.0
+1819304,Kevyn Monteiro,Liga Portugal,D,8067730.136468774
+788197,André Ferreira,Liga Portugal,G,555000.0
+345843,Caio,Liga Portugal,G,105000.0
+107264,Mika,Liga Portugal,G,92000.0
+1063255,Alioune Ndoye,Liga Portugal,F,680000.0
+1563640,Oumar Camara,Liga Portugal,F,910000.0
+42898,Nélson Oliveira,Liga Portugal,F,285000.0
+1617764,Ejike Opara,Liga Portugal,F,970000.0
+1002367,Beni Mukendi,Liga Portugal,M,2100000.0
+1035280,Telmo Arcanjo,Liga Portugal,M,2900000.0
+1130363,Fabio Blanco,Liga Portugal,M,940000.0
+1468082,Gustavo Silva,Liga Portugal,M,3100000.0
+1166097,Matija Mitrović,Liga Portugal,M,1800000.0
+785808,Samu,Liga Portugal,M,1400000.0
+1153328,Noah Saviolo,Liga Portugal,M,550000.0
+1434543,Diogo Sousa,Liga Portugal,M,320000.0
+1161004,Gonçalo Nogueira,Liga Portugal,M,580000.0
+2140143,Miguel Nogueira,Liga Portugal,M,480000.0
+1972885,Francisco Dias,Liga Portugal,M,10937027.341997264
+1488511,Tony Strata,Liga Portugal,D,370000.0
+1133568,João Mendes,Liga Portugal,D,2400000.0
+1131047,Miguel Maga,Liga Portugal,D,2100000.0
+844409,Orest Lebedenko,Liga Portugal,D,550000.0
+846416,Rodrigo Abascal,Liga Portugal,D,565000.0
+1066233,Miguel Nóbrega,Liga Portugal,D,420000.0
+1168093,Óscar Rivas,Liga Portugal,D,930000.0
+1148442,Thiago Balieiro,Liga Portugal,D,515000.0
+1175004,Juan Castillo,Liga Portugal,G,1000000.0
+155985,Charles,Liga Portugal,G,310000.0
+826024,Dario Špikić,Liga Portugal,F,970000.0
+860683,Marc Gual,Liga Portugal,F,765000.0
+1094384,Tamblé Monteiro,Liga Portugal,F,800000.0
+1499082,Jalen Blesa,Liga Portugal,F,700000.0
+1214878,Karem Zoabi,Liga Portugal,F,760000.0
+1485103,Tobias Medina,Liga Portugal,F,825000.0
+1513290,Amine Rehmi,Liga Portugal,F,94000.0
+1393242,Tamás Nikitscher,Liga Portugal,M,480000.0
+1020203,Brandon Aguilera,Liga Portugal,M,1900000.0
+1196014,Antonis Papakanellos,Liga Portugal,M,540000.0
+1105850,Ryan Guilherme,Liga Portugal,M,630000.0
+1485731,Rafael Lobato,Liga Portugal,M,1200000.0
+930273,Ole Pohlmann,Liga Portugal,M,1400000.0
+848521,Marios Vrousai,Liga Portugal,M,2600000.0
+946909,Georgios Liavas,Liga Portugal,M,830000.0
+1176881,Diogo Bezerra,Liga Portugal,M,1600000.0
+309296,João Graça,Liga Portugal,M,290000.0
+2034540,Gustavo Mancha,Liga Portugal,D,970000.0
+892483,Omar Richards,Liga Portugal,D,2100000.0
+1005992,Andreas Ndoj,Liga Portugal,D,4300000.0
+1064359,Nelson Abbey,Liga Portugal,D,1100000.0
+1120038,Leonardo Buta,Liga Portugal,D,1600000.0
+1173124,João Tomé,Liga Portugal,D,390000.0
+1467139,Francisco Petrasso,Liga Portugal,D,1500000.0
+72020,Jakub Brabec,Liga Portugal,D,570000.0
+1478890,Julien Lomboto,Liga Portugal,D,410000.0
+938292,Cezary Miszta,Liga Portugal,G,2900000.0
+905406,Kevin Chamorro,Liga Portugal,G,290000.0
+1005270,Ennio Van Der Gouw,Liga Portugal,G,390000.0
+1185196,Fally Mayulu,Liga Portugal,F,1900000.0
+913728,Ivan Barbero,Liga Portugal,F,475000.0
+1510444,Dylan Nandín,Liga Portugal,F,1100000.0
+1116649,Brian Mansilla,Liga Portugal,F,1000000.0
+1000680,Miguel Puche,Liga Portugal,F,380000.0
+2486784,Bruno Duarte,Liga Portugal,F,10854111.235294119
+1105857,Taichi Fukui,Liga Portugal,M,2100000.0
+1191120,Hyun-ju Lee,Liga Portugal,M,1500000.0
+955133,Naïs Djouahra,Liga Portugal,M,1400000.0
+973517,Alfonso Trezza,Liga Portugal,M,1000000.0
+1211005,Yellu Santiago,Liga Portugal,M,810000.0
+1893864,Mateo Flores,Liga Portugal,M,1100000.0
+1126965,Espen Van Ee,Liga Portugal,M,970000.0
+996932,Pablo Gozálbez,Liga Portugal,M,485000.0
+1014259,Pedro Santos,Liga Portugal,M,760000.0
+1393731,Omar Fayed,Liga Portugal,D,930000.0
+982610,Amadou Dante,Liga Portugal,D,1400000.0
+943713,Javi Sánchez,Liga Portugal,D,750000.0
+1095652,Diogo Monteiro,Liga Portugal,D,310000.0
+1520738,José Silva,Liga Portugal,D,510000.0
+339879,Bas Kuipers,Liga Portugal,D,775000.0
+902050,Boris Popović,Liga Portugal,D,1100000.0
+964609,Jose Fontán,Liga Portugal,D,1100000.0
+863637,Tiago Esgaio,Liga Portugal,D,930000.0
+1083250,Matías Rocha,Liga Portugal,D,365000.0
+789933,Ignacio de Arruabarrena,Liga Portugal,G,1000000.0
+1165190,Jakub Vinarčík,Liga Portugal,G,275000.0
+973352,João Valido,Liga Portugal,G,530000.0
+1105790,Figueiredo,Liga Portugal,F,915000.0
+1015826,Chiquinho,Liga Portugal,F,2100000.0
+1100957,Marko Milovanović,Liga Portugal,F,2200000.0
+1405454,Cédric Nuozzi,Liga Portugal,F,775000.0
+344023,Sandro Lima,Liga Portugal,F,165000.0
+834881,Stéphane Diarra,Liga Portugal,F,540000.0
+1190120,Fabrício Garcia,Liga Portugal,F,410000.0
+1168617,Mathis Clairicia,Liga Portugal,F,375000.0
+794928,Lincoln,Liga Portugal,M,3700000.0
+904849,Nabil Touaizi,Liga Portugal,M,550000.0
+992024,Rhaldney,Liga Portugal,M,1100000.0
+1031485,Sabit Abdulai,Liga Portugal,M,645000.0
+2033832,Davy Gui,Liga Portugal,M,620000.0
+1063375,Vasco Moreira,Liga Portugal,M,820000.0
+1119693,Tomás Mendes,Liga Portugal,M,520000.0
+2456624,Zakaria Kassary,Liga Portugal,M,160000.0
+1167068,Kaiky Naves,Liga Portugal,D,2400000.0
+1405973,Bastien Meupiyou,Liga Portugal,D,4300000.0
+1476213,Julián Jose Martinez,Liga Portugal,D,475000.0
+1120043,Diogo Spencer,Liga Portugal,D,875000.0
+1158067,Francisco Chissumba,Liga Portugal,D,5500000.0
+125625,Sergi Gómez,Liga Portugal,D,480000.0
+1506777,Steven Baseya,Liga Portugal,D,410000.0
+1915110,Isaac James,Liga Portugal,D,340000.0
+1562325,Ikker dos Santos,Liga Portugal,D,46000.0
+1066689,Mateus Oliveira,Liga Portugal,G,97000.0
+1139990,André Gomes,Liga Portugal,G,2600000.0
+1018555,Matheus Mendes,Liga Portugal,G,310000.0
+1068521,André Paulo,Liga Portugal,G,97000.0
+948250,Billal Brahimi,Liga Portugal,F,1500000.0
+845802,Jovane Cabral,Liga Portugal,F,730000.0
+943595,Sydney van Hooijdonk,Liga Portugal,F,1400000.0
+910316,Ianis Stoica,Liga Portugal,F,1500000.0
+1158547,Leandro Antonetti,Liga Portugal,F,205000.0
+801339,Rodrigo Pinho,Liga Portugal,F,205000.0
+1164070,Jorge Meireles,Liga Portugal,F,630000.0
+1402689,Chilohem Onuoha,Liga Portugal,F,195000.0
+1090543,Abraham Marcus,Liga Portugal,M,775000.0
+2368703,Eddy Doué,Liga Portugal,M,10937027.341997264
+2058164,Robson Lucas Oliveira Botelho,Liga Portugal,M,470000.0
+2037671,Alex Sola,Liga Portugal,M,94000.0
+1090646,Paulo Moreira,Liga Portugal,M,825000.0
+1210450,Tom Moustier,Liga Portugal,M,410000.0
+1516003,Mathew Tegiri Gbomadu,Liga Portugal,M,195000.0
+1864305,Alisson Souza de Jesus,Liga Portugal,M,10937027.341997264
+989449,Kevin Höög Jansson,Liga Portugal,M,370000.0
+987490,Bruno Langa,Liga Portugal,D,1000000.0
+851283,Jefferson Encada,Liga Portugal,D,420000.0
+1002565,Luan Patrick,Liga Portugal,D,1100000.0
+1017590,Bernardo Schappo,Liga Portugal,D,705000.0
+857766,Issiar Drame,Liga Portugal,D,385000.0
+1410927,Max Scholze,Liga Portugal,D,390000.0
+2115909,Otavio,Liga Portugal,D,530000.0
+1050457,Yahya Kalley,Liga Portugal,D,355000.0
+1157221,Georgiy Tunguliyadi,Liga Portugal,D,10000.0
+1410244,Ni,Liga Portugal,D,105000.0
+1142575,Diogo Pinto,Liga Portugal,G,310000.0
+82598,Renan Ribeiro,Liga Portugal,G,95000.0
+939692,Eduardo Dos Santos Haesler,Liga Portugal,G,265000.0
+929640,David Grilo,Liga Portugal,G,105000.0
+138890,Gonçalo Paciência,Liga Portugal,F,665000.0
+1046794,Gabriel Silva,Liga Portugal,F,4200000.0
+1066681,Elias Manoel,Liga Portugal,F,1600000.0
+1174927,Vitinho,Liga Portugal,F,270000.0
+1001753,Vinícius Lopes,Liga Portugal,F,2600000.0
+1799251,Brenner,Liga Portugal,F,1400000.0
+1511976,João Costa,Liga Portugal,F,360000.0
+2239677,Daniel da Silva,Liga Portugal,F,825000.0
+2467658,Luis Oliveira,Liga Portugal,F,10854111.235294119
+892083,Diogo Calila,Liga Portugal,M,465000.0
+1459634,Luis Fernando,Liga Portugal,M,145000.0
+973924,Darlan,Liga Portugal,M,720000.0
+851277,Pedro Ferreira,Liga Portugal,M,2200000.0
+1019184,Serginho,Liga Portugal,M,1400000.0
+1162051,Gustavo Klismahn,Liga Portugal,M,460000.0
+991358,Lucas Soares,Liga Portugal,M,1400000.0
+989385,Welinton,Liga Portugal,M,370000.0
+2155276,José Tavares,Liga Portugal,M,10937027.341997264
+1105841,Matheus Araújo,Liga Portugal,D,4400000.0
+1108505,Paulo Victor,Liga Portugal,D,970000.0
+1131145,Sidney Lima,Liga Portugal,D,3300000.0
+883908,Guilherme Romão,Liga Portugal,D,420000.0
+254815,Frederico Venâncio,Liga Portugal,D,485000.0
+1515290,Andrey,Liga Portugal,D,190000.0
+1459627,Henrique Silva,Liga Portugal,D,8067730.136468774
+838502,Pedro Pacheco,Liga Portugal,D,410000.0
+1485212,Evertow,Liga Portugal,D,8067730.136468774
+2076163,Henzo Marinho dos Santos,Liga Portugal,D,8067730.136468774
+822526,Gabriel Batista,Liga Portugal,G,4200000.0
+1186955,Neneca,Liga Portugal,G,385000.0
+1002396,Cristian,Liga Portugal,G,78000.0
+1155358,Dailon Rocha Livramento,Liga Portugal,F,775000.0
+157023,Cassiano,Liga Portugal,F,145000.0
+826054,Jérémy Livolant,Liga Portugal,F,2100000.0
+1067284,Tiago Morais,Liga Portugal,F,2600000.0
+1190517,Oluwakorede Osundina,Liga Portugal,F,360000.0
+1012448,Claudio Mendes,Liga Portugal,F,105000.0
+892424,Kiki Silva,Liga Portugal,F,205000.0
+158597,Sebastián Pérez,Liga Portugal,M,775000.0
+980407,Kelian Nsona,Liga Portugal,M,700000.0
+1087321,Joao Marques,Liga Portugal,M,1400000.0
+1110159,Xander Severina,Liga Portugal,M,825000.0
+892170,Lawrence Ofori,Liga Portugal,M,1900000.0
+983537,Rafael Brito,Liga Portugal,M,360000.0
+849719,Gaizka Larrazabal,Liga Portugal,M,1900000.0
+1131015,Iyad Mohamed,Liga Portugal,M,410000.0
+27622,José Fonte,Liga Portugal,D,105000.0
+963990,Kaique Rocha,Liga Portugal,D,1400000.0
+1015932,David Sousa,Liga Portugal,D,860000.0
+851276,Abdu Conté,Liga Portugal,D,660000.0
+1835218,Domingos Jose Gabriel Bandeira,Liga Portugal,D,230000.0
+1151667,João Goulart,Liga Portugal,D,915000.0
+1464186,Kevin Prieto,Liga Portugal,D,480000.0
+125039,André Geraldes,Liga Portugal,D,220000.0
+1091103,Pedro Rosas,Liga Portugal,D,480000.0
+821628,Patrick Sequeira,Liga Portugal,G,3400000.0
+1067290,Ivan Mandić,Liga Portugal,G,325000.0
+9668,Ricardo Batista,Liga Portugal,G,110000.0
+1128775,Rodrigo Nascimento,Liga Portugal,G,155000.0
+1002819,Gabriel Veron,Liga Portugal,F,3100000.0
+987597,Jesús Ramírez,Liga Portugal,F,2100000.0
+253837,Lucas João,Liga Portugal,F,210000.0
+1579664,Pablo,Liga Portugal,F,470000.0
+1410338,Martim Gustavo Watts,Liga Portugal,F,195000.0
+822510,Liziero,Liga Portugal,M,1200000.0
+786269,Witi,Liga Portugal,M,480000.0
+1011997,Chiheb Labidi,Liga Portugal,M,485000.0
+912781,Paulinho Bóia,Liga Portugal,M,750000.0
+1172052,Daniel Júnior,Liga Portugal,M,655000.0
+1020610,Matheus Dias,Liga Portugal,M,1600000.0
+851030,Filipe Soares,Liga Portugal,M,680000.0
+902051,Miguel Baeza,Liga Portugal,M,385000.0
+1393991,Joel Silva,Liga Portugal,M,410000.0
+1806732,Deivison Souza Brito,Liga Portugal,M,180000.0
+167857,André Sousa,Liga Portugal,M,48000.0
+231764,Jota,Liga Portugal,M,79000.0
+1116982,Alan Núñez,Liga Portugal,D,755000.0
+822509,Léo Santos,Liga Portugal,D,970000.0
+1112474,Ze Vitor,Liga Portugal,D,1900000.0
+926869,Ulisses,Liga Portugal,D,1100000.0
+806515,Ivanildo Fernandes,Liga Portugal,D,185000.0
+878283,Lenny Vallier,Liga Portugal,D,485000.0
+344181,José Gomes,Liga Portugal,D,1000000.0
+1394244,Francisco Gonçalves,Liga Portugal,D,195000.0
+44684,João Aurélio,Liga Portugal,D,49000.0
+1167067,Kaique,Liga Portugal,G,1100000.0
+832672,Lucas França,Liga Portugal,G,580000.0
+1524116,Kevyn,Liga Portugal,G,205000.0
+1596686,Cesar,Liga Portugal,G,91000.0
+788786,Jordan Siebatcheu,Liga Portugal,F,1900000.0
+879917,Maranhão,Liga Portugal,F,1400000.0
+1136902,Makan Aïko,Liga Portugal,F,650000.0
+950339,Benjamin Mbunga-Kimpioka,Liga Portugal,F,455000.0
+1397915,Moudjatovic,Liga Portugal,F,220000.0
+1146013,Hugo Félix,Liga Portugal,M,970000.0
+190147,Rony Lopes,Liga Portugal,M,1300000.0
+822684,Siphephelo Sithole,Liga Portugal,M,640000.0
+988882,Joe Hodge,Liga Portugal,M,650000.0
+1482435,Juan Rodríguez,Liga Portugal,M,1000000.0
+917006,Arjen Van Der Heide,Liga Portugal,M,330000.0
+1133070,Tiago Manso,Liga Portugal,M,755000.0
+861283,Cicero,Liga Portugal,M,525000.0
+343909,Hélder Tavares,Liga Portugal,M,48000.0
+1100596,Xabi Huarte,Liga Portugal,M,210000.0
+1187281,Brayan Medina,Liga Portugal,D,1800000.0
+1068519,João Silva,Liga Portugal,D,1400000.0
+945121,Rodrigo Conceição,Liga Portugal,D,540000.0
+1035696,Rémy Vita,Liga Portugal,D,410000.0
+988964,Christian Marques,Liga Portugal,D,1900000.0
+865335,Bebeto,Liga Portugal,D,53000.0
+1111880,Emmanuel Maviram,Liga Portugal,D,530000.0
+584158,João Afonso,Liga Portugal,D,53000.0
+1022248,Lucas Cañizares,Liga Portugal,G,365000.0
+1394935,Bernardo Fontes,Liga Portugal,G,2400000.0
+845695,Gabriel Souza,Liga Portugal,G,140000.0
+1185986,Óscar Perea,Liga Portugal,F,2100000.0
+947445,Antoine Baroan,Liga Portugal,F,545000.0
+126076,Tomané,Liga Portugal,F,220000.0
+1003071,Diego Duarte,Liga Portugal,F,245000.0
+44685,Nenê,Liga Portugal,F,52000.0
+1900362,Guilherme Neiva,Liga Portugal,F,215000.0
+1046440,Roni,Liga Portugal,M,1000000.0
+1067648,Pedro Lima,Liga Portugal,M,425000.0
+1133063,Babatunde Akinsola,Liga Portugal,M,860000.0
+796139,Andre Green,Liga Portugal,M,390000.0
+1018546,Tiago Galletto,Liga Portugal,M,310000.0
+1006114,Gustavo Mendonca,Liga Portugal,M,180000.0
+966219,Ángel Algobia,Liga Portugal,M,580000.0
+344199,Rúben Semedo,Liga Portugal,D,755000.0
+1067320,Cristian Castro,Liga Portugal,D,860000.0
+988778,Leonardo Rivas,Liga Portugal,D,485000.0
+129617,Aderllan Santos,Liga Portugal,D,105000.0
+1176165,Paulo Vitor,Liga Portugal,D,485000.0
+324345,Kiki Afonso,Liga Portugal,D,360000.0
+584116,Carlos Ponck,Liga Portugal,D,210000.0
+929688,Mateus Pivô,Liga Portugal,D,49000.0
+964173,Guillem Molina,Liga Portugal,D,275000.0
+1106840,Adriel,Liga Portugal,G,835000.0
+981817,Simão,Liga Portugal,G,210000.0
+61123,Pedro Trigueira,Liga Portugal,G,52000.0
+822471,Victor Osimhen,Super Lig,F,73000000.0
+233114,Mauro Icardi,Super Lig,F,5200000.0
+875136,Noa Lang,Super Lig,F,27000000.0
+1861964,Can Armando Güner,Super Lig,F,485000.0
+2128081,Ada Yuzgec,Super Lig,F,10854111.235294119
+45853,İlkay Gündoğan,Super Lig,M,2300000.0
+293519,Leroy Sané,Super Lig,M,24000000.0
+913593,Gabriel Sara,Super Lig,M,21000000.0
+904096,Barış Alper Yılmaz,Super Lig,M,28000000.0
+307284,Mario Lemina,Super Lig,M,4600000.0
+1092769,Yáser Asprilla,Super Lig,M,15000000.0
+857738,Yunus Akgün,Super Lig,M,16700000.0
+754794,Lucas Torreira,Super Lig,M,12400000.0
+906049,Ahmed Kutucu,Super Lig,M,3300000.0
+2119726,Renato Nhaga,Super Lig,M,5800000.0
+1417051,Gökdeniz Gürpüz,Super Lig,M,260000.0
+980418,Sacha Boey,Super Lig,D,13900000.0
+566102,Davinson Sánchez,Super Lig,D,18500000.0
+978285,Wilfried Singo,Super Lig,D,23000000.0
+355088,Roland Sallai,Super Lig,D,12400000.0
+897291,Ismail Jakobs,Super Lig,D,8700000.0
+178963,Abdülkerim Bardakcı,Super Lig,D,7100000.0
+981483,Eren Elmalı,Super Lig,D,5400000.0
+138152,Kaan Ayhan,Super Lig,D,1900000.0
+997155,Metehan Baltacı,Super Lig,D,2100000.0
+1464636,Arda Ünyay,Super Lig,D,970000.0
+754330,Uğurcan Çakır,Super Lig,G,14500000.0
+103457,Günay Güvenç,Super Lig,G,310000.0
+867595,Batuhan Şen,Super Lig,G,210000.0
+1405619,Enes Emre Büyük,Super Lig,G,3707197.468487395
+903324,Kerem Aktürkoğlu,Super Lig,F,23000000.0
+1102788,Dorgeles Nene,Super Lig,F,18900000.0
+1514916,Sidiki Cherif,Super Lig,F,16900000.0
+2421366,Alaettin Ekici,Super Lig,F,310000.0
+234148,N'Golo Kanté,Super Lig,M,4400000.0
+361004,Marco Asensio,Super Lig,M,15500000.0
+329245,Anderson Talisca,Super Lig,M,8800000.0
+243623,Fred,Super Lig,M,6600000.0
+847151,Edson Álvarez,Super Lig,M,17500000.0
+852404,Mattéo Guendouzi,Super Lig,M,27000000.0
+999396,Oğuz Aydın,Super Lig,M,7500000.0
+952600,İsmail Yüksek,Super Lig,M,14000000.0
+979473,Anthony Musaba,Super Lig,M,6400000.0
+826258,Emre Mor,Super Lig,M,570000.0
+1542689,Abdou Aziz Fall,Super Lig,M,94000.0
+187205,Milan Škriniar,Super Lig,D,12100000.0
+252821,Nélson Semedo,Super Lig,D,6400000.0
+758608,Çağlar Söyüncü,Super Lig,D,4600000.0
+1009738,Archie Brown,Super Lig,D,8700000.0
+1048324,Jayden Oosterwolde,Super Lig,D,19000000.0
+836683,Mert Müldür,Super Lig,D,7400000.0
+1085938,Levent Mercan,Super Lig,D,4600000.0
+1133200,Yiğit Efe Demir,Super Lig,D,5300000.0
+2325510,Kamil Efe Üregen,Super Lig,D,110000.0
+254491,Ederson,Super Lig,G,12000000.0
+39573,Mert Günok,Super Lig,G,545000.0
+913985,Tarık Çetin,Super Lig,G,550000.0
+1995427,Engin Can Biterge,Super Lig,G,3707197.468487395
+295123,Paul Onuachu,Super Lig,F,6200000.0
+1106681,Felipe Augusto,Super Lig,F,9600000.0
+284767,Umut Nayir,Super Lig,F,730000.0
+1888002,Christ Inao Oulaï,Super Lig,M,15900000.0
+924670,Ernest Muçi,Super Lig,M,11700000.0
+1046446,Benjamin Bouchouari,Super Lig,M,5300000.0
+251907,Ozan Tufan,Super Lig,M,1400000.0
+353282,Oleksandr Zubkov,Super Lig,M,7200000.0
+109779,Edin Višća,Super Lig,M,270000.0
+139455,Anthony Nwakaeme,Super Lig,M,220000.0
+97967,Okay Yokuşlu,Super Lig,M,1500000.0
+1133715,Mathias Løvik,Super Lig,M,4099999.0
+1106446,Tim Jabol-Folcarelli,Super Lig,M,5700000.0
+1974312,Boran Başkan,Super Lig,M,92000.0
+76265,Stefan Savić,Super Lig,D,535000.0
+981395,Arseniy Batagov,Super Lig,D,11500000.0
+1481134,Chibuike Nwaiwu,Super Lig,D,6400000.0
+899069,Mustafa Eskihellaç,Super Lig,D,3700000.0
+1513625,Wagner Pina,Super Lig,D,8300000.0
+1499364,Salih Malkoçoğlu,Super Lig,D,970000.0
+1823908,Arda Öztürk,Super Lig,D,110000.0
+1974398,Taha Emre Ince,Super Lig,D,96000.0
+787498,André Onana,Super Lig,G,11100000.0
+1417078,Onuralp Çevikkan,Super Lig,G,945000.0
+1907056,Ahmet Doğan Yıldırım,Super Lig,G,3707197.468487395
+1974349,Erol Can Colak,Super Lig,G,3707197.468487395
+982615,El Bilal Touré,Super Lig,F,13500000.0
+1010634,Hyeon-gyu Oh,Super Lig,F,16000000.0
+758876,Cengiz Ünder,Super Lig,F,5700000.0
+1524303,Mustafa Hekimoğlu,Super Lig,F,5200000.0
+1011895,Jota Silva,Super Lig,F,12800000.0
+2273226,Devrim Şahin,Super Lig,F,380000.0
+907461,Orkun Kökçü,Super Lig,M,24000000.0
+787885,Wilfred Ndidi,Super Lig,M,9400000.0
+1124357,Junior Olaitan,Super Lig,M,4900000.0
+996820,Kristjan Asllani,Super Lig,M,13400000.0
+800411,Milot Rashica,Super Lig,M,3800000.0
+280631,Václav Černý,Super Lig,M,8199999.0
+135695,Salih Uçan,Super Lig,M,1100000.0
+966811,Kartal Kayra Yılmaz,Super Lig,M,2400000.0
+839493,Amir Murillo,Super Lig,D,7600000.0
+1013842,Emmanuel Agbadou,Super Lig,D,18500000.0
+892735,Tiago Djaló,Super Lig,D,7500000.0
+895009,Emirhan Topçu,Super Lig,D,5600000.0
+1392102,Yasin Özcan,Super Lig,D,5300000.0
+910086,Rıdvan Yılmaz,Super Lig,D,3700000.0
+792142,Felix Uduokhai,Super Lig,D,3700000.0
+43394,Necip Uysal,Super Lig,D,96000.0
+1418644,Taylan Bulut,Super Lig,D,5200000.0
+595396,Gökhan Sazdağı,Super Lig,D,1500000.0
+925285,Devis Vásquez,Super Lig,G,1400000.0
+913656,Ersin Destanoğlu,Super Lig,G,2600000.0
+1417036,Emir Yaşar,Super Lig,G,94000.0
+1050730,Emre Bilgin,Super Lig,G,545000.0
+791355,Eldor Shomurodov,Super Lig,F,7400000.0
+1382235,Bertuğ Yıldırım,Super Lig,F,3800000.0
+187437,Davie Selke,Super Lig,F,3100000.0
+209374,Nuno Da Costa,Super Lig,F,475000.0
+916182,Ivan Brnić,Super Lig,F,2100000.0
+1584878,Berkay Aslan,Super Lig,F,415000.0
+1118429,Abbosbek Fayzullaev,Super Lig,M,6500000.0
+827522,Amine Harit,Super Lig,M,5300000.0
+1019026,Jakub Kałuziński,Super Lig,M,3200000.0
+280447,Olivier Kemen,Super Lig,M,2400000.0
+972410,Miguel Crespo,Super Lig,M,2400000.0
+896364,Yusuf Sarı,Super Lig,M,3700000.0
+876857,Berat Ayberk Özdemir,Super Lig,M,3100000.0
+876782,Umut Güneş,Super Lig,M,2400000.0
+893009,Onur Ergün,Super Lig,M,195000.0
+1008884,Kazımcan Karataş,Super Lig,D,2100000.0
+920514,Jerome Opoku,Super Lig,D,5400000.0
+858977,Christopher Operi,Super Lig,D,3700000.0
+983059,Festy Ebosele,Super Lig,D,3800000.0
+142494,Onur Bulut,Super Lig,D,680000.0
+839982,Léo Duarte,Super Lig,D,2400000.0
+889430,Ousseynou Ba,Super Lig,D,1600000.0
+1562294,Hamza Güreler,Super Lig,D,1900000.0
+103912,Ömer Ali Şahiner,Super Lig,D,235000.0
+947874,Doğan Alemdar,Super Lig,G,1400000.0
+827418,Muhammed Şengezer,Super Lig,G,2600000.0
+30143,Volkan Babacan,Super Lig,G,52000.0
+1549522,Luca Stancic,Super Lig,G,3707197.468487395
+1009928,Juan Santos da Silva,Super Lig,F,8400000.0
+1462989,Janderson,Super Lig,F,4400000.0
+1631434,Guilherme Luiz,Super Lig,F,1400000.0
+1464661,Jeh,Super Lig,F,720000.0
+1103597,Novatus Miroshi,Super Lig,M,3300000.0
+935556,Filip Krastev,Super Lig,M,3400000.0
+1094487,Amine Cherni,Super Lig,M,2600000.0
+1484438,Anthony Junior Dennis,Super Lig,M,7700000.0
+1063395,Arda Kurtulan,Super Lig,M,4800000.0
+865516,Alexis Antunes,Super Lig,M,1500000.0
+800458,Efkan Bekiroğlu,Super Lig,M,1300000.0
+1105505,Musah Mohammed,Super Lig,M,970000.0
+43605,İsmail Köybaşı,Super Lig,M,48000.0
+1397819,İzzet Furkan Malak,Super Lig,M,54000.0
+903999,Ogün Bayrak,Super Lig,M,845000.0
+1122632,Malcom Bokele,Super Lig,D,4800000.0
+922725,Héliton,Super Lig,D,1100000.0
+1101279,Taha Altıkardeş,Super Lig,D,5200000.0
+987088,Allan,Super Lig,D,105000.0
+995383,Uğur Kaan Yıldız,Super Lig,D,720000.0
+1003161,Furkan Bayır,Super Lig,D,1200000.0
+1533919,Ege Yildirim,Super Lig,D,53000.0
+1120887,Erkam Kömur,Super Lig,D,81000.0
+798375,Mateusz Lis,Super Lig,G,2600000.0
+852187,Ekrem Kılıçarslan,Super Lig,G,245000.0
+1216027,Mehmet Şamil Öztürk,Super Lig,G,91000.0
+2337924,Nevzat Üzel,Super Lig,G,3707197.468487395
+868268,Cherif Ndiaye,Super Lig,F,5400000.0
+943593,Marius Mouandilmadji,Super Lig,F,4900000.0
+929631,Elayis Tavsan,Super Lig,F,1400000.0
+2216420,Ebrima Ceesay,Super Lig,F,47000.0
+2430544,Saikuba Jarju,Super Lig,F,10854111.235294119
+2237105,Tahsin Bülbül ,Super Lig,F,220000.0
+352676,Olivier Ntcham,Super Lig,M,2700000.0
+837012,Carlo Holse,Super Lig,M,5600000.0
+855672,Afonso Sousa,Super Lig,M,3200000.0
+920391,Antoine Makoumbou,Super Lig,M,4200000.0
+954060,Tanguy Coulibaly,Super Lig,M,1300000.0
+1514452,Jaures Assoumou,Super Lig,M,1900000.0
+202032,Emre Kılınç,Super Lig,M,1200000.0
+806972,Celil Yüksel,Super Lig,M,865000.0
+945548,Yalçın Kayan,Super Lig,M,680000.0
+2217228,Franck Atoen,Super Lig,M,10937027.341997264
+1149024,Muhammet Ali Özbaskıcı,Super Lig,M,260000.0
+1214888,Alper Efe Pazar,Super Lig,M,10937027.341997264
+2142281,Eyup Degirmenci,Super Lig,M,10937027.341997264
+1133258,Josafat Mendes,Super Lig,D,2400000.0
+803023,Rick Van Drongelen,Super Lig,D,3600000.0
+187231,Ľubomír Šatka,Super Lig,D,1700000.0
+886843,Toni Borevković,Super Lig,D,2600000.0
+858266,Logi Tomasson,Super Lig,D,2400000.0
+140735,Zeki Yavru,Super Lig,D,290000.0
+1063325,Yunus Emre Çift,Super Lig,D,620000.0
+2430541,Ali Diabaté,Super Lig,D,110000.0
+1431471,Enes Albak,Super Lig,D,155000.0
+1215897,Bedirhan Çetin,Super Lig,D,155000.0
+867727,Soner Gönül,Super Lig,D,545000.0
+594618,İrfan Can Eğribayat,Super Lig,G,1400000.0
+190179,Okan Kocuk,Super Lig,G,2100000.0
+1417040,Efe Berat Törüz,Super Lig,G,3707197.468487395
+2237096,Efe Yiğit Üstün,Super Lig,G,3707197.468487395
+309306,Bruno Petković,Super Lig,F,1900000.0
+123917,Serdar Dursun,Super Lig,F,275000.0
+918408,Can Keleş,Super Lig,F,1600000.0
+793227,Daniel Agyei,Super Lig,F,870000.0
+815131,Ahmet Sağat,Super Lig,F,260000.0
+1129463,Furkan Gedik,Super Lig,F,265000.0
+2492573,Arda Ozyar,Super Lig,F,10854111.235294119
+189135,Karol Linetty,Super Lig,M,1600000.0
+933115,Show,Super Lig,M,1600000.0
+1149138,Joseph Nonge,Super Lig,M,1600000.0
+1156644,Mahamadou Susoho,Super Lig,M,1000000.0
+1082953,Habib Keita,Super Lig,M,1700000.0
+876345,Darko Churlinov,Super Lig,M,1400000.0
+255957,Tayfur Bingöl,Super Lig,M,530000.0
+837742,Rigoberto Rivas,Super Lig,M,1200000.0
+789102,Samet Yalçın,Super Lig,M,240000.0
+286087,Mateusz Wieteska,Super Lig,D,1300000.0
+983510,Botond Balogh,Super Lig,D,2300000.0
+974582,Hrvoje Smolčić,Super Lig,D,1800000.0
+143344,Massadio Haïdara,Super Lig,D,865000.0
+869199,Anfernee Dijksteel,Super Lig,D,1300000.0
+603902,Ahmet Oğuz,Super Lig,D,380000.0
+957582,Muharrem Cinan,Super Lig,D,485000.0
+2487649,Deniz Ceylan,Super Lig,D,8067730.136468774
+800971,Aleksandar Jovanović,Super Lig,G,850000.0
+60317,Gökhan Değirmenci,Super Lig,G,46000.0
+1102775,Serhat Öztaşdelen,Super Lig,G,180000.0
+909318,Mohamed Bayo,Super Lig,F,4300000.0
+841199,Denis Drăguş,Super Lig,F,2400000.0
+883355,Christophe Lungoyi,Super Lig,F,1000000.0
+2161813,Ali Osman Kalın,Super Lig,F,53000.0
+1165418,Ali Mevran Ablak,Super Lig,F,10854111.235294119
+2405904,Muhammet Akmelek,Super Lig,F,52000.0
+984602,Kacper Kozłowski,Super Lig,M,4600000.0
+180511,Alexandru Maxim,Super Lig,M,485000.0
+797602,Deian Sorescu,Super Lig,M,1900000.0
+958167,Drissa Camara,Super Lig,M,3100000.0
+1130113,Yusuf Kabadayi,Super Lig,M,1600000.0
+1528256,Karamba Gassama,Super Lig,M,280000.0
+1632791,Victor Ntino-Emo Gidado,Super Lig,M,420000.0
+828872,Melih Kabasakal,Super Lig,M,655000.0
+859783,Ogün Özçiçek,Super Lig,M,540000.0
+851909,Tayyip Talha Sanuç,Super Lig,D,1600000.0
+858004,Nihad Mujakić,Super Lig,D,1100000.0
+555422,Myenty Abena,Super Lig,D,625000.0
+843180,Luis Pérez,Super Lig,D,1100000.0
+234232,Kévin Rodrigues,Super Lig,D,925000.0
+169425,Nazım Sangaré,Super Lig,D,220000.0
+904228,Arda Kızıldağ,Super Lig,D,945000.0
+940367,Salem M'Bakata,Super Lig,D,470000.0
+934201,Mustafa Burak Bozan,Super Lig,G,645000.0
+930907,Zafer Görgen,Super Lig,G,775000.0
+2405903,Cemilhan Aslan,Super Lig,G,3707197.468487395
+862078,Meschack Elia,Super Lig,F,2100000.0
+345035,Steve Mounié,Super Lig,F,1900000.0
+791314,Ui-Jo Hwang,Super Lig,F,485000.0
+826162,Güven Yalçın,Super Lig,F,1100000.0
+996405,Ibrahim Kaya,Super Lig,F,1100000.0
+756344,Ianis Hagi,Super Lig,M,1700000.0
+1002146,Maestro,Super Lig,M,7200000.0
+354860,Florent Hadergjonaj,Super Lig,M,1500000.0
+847013,Gaius Makouta,Super Lig,M,2100000.0
+1400494,Ruan,Super Lig,M,2100000.0
+1084884,Yusuf Özdemir,Super Lig,M,3100000.0
+60510,Efecan Karaca,Super Lig,M,97000.0
+802150,Nicolas Janvier,Super Lig,M,720000.0
+826836,İzzet Çelik,Super Lig,M,290000.0
+897168,Enes Keskin,Super Lig,M,420000.0
+2085002,Yusuf Karademir,Super Lig,M,46000.0
+1046689,Buluthan Bulut,Super Lig,M,55000.0
+1215071,Ümit Akdağ,Super Lig,D,4300000.0
+385296,Fidan Aliti,Super Lig,D,870000.0
+804703,Bruno Viana,Super Lig,D,640000.0
+1133301,Nuno Lima,Super Lig,D,1500000.0
+827922,Fatih Aksoy,Super Lig,D,1300000.0
+1388550,Baran Mogultay,Super Lig,D,225000.0
+1195735,Batuhan Yavuz,Super Lig,D,52000.0
+34142,Paulo Victor,Super Lig,G,55000.0
+105974,Ertuğrul Taşkıran,Super Lig,G,105000.0
+943278,Frantzdy Pierrot,Super Lig,F,2400000.0
+238394,Ali Sowe,Super Lig,F,1600000.0
+930775,Halil Dervişoğlu,Super Lig,F,750000.0
+1144096,Adedire Mebude,Super Lig,F,1300000.0
+1480663,Emrecan Bulut,Super Lig,F,580000.0
+925242,Valentin Mihăilă,Super Lig,M,2900000.0
+1110708,Loide Augusto,Super Lig,M,935000.0
+284395,Qazim Laci,Super Lig,M,2900000.0
+1008173,Ibrahim Olawoyin,Super Lig,M,2100000.0
+190197,Taylan Antalyalı,Super Lig,M,830000.0
+856988,Giannis Papanikolaou,Super Lig,M,1500000.0
+1134586,Muhamed Buljubašić,Super Lig,M,1900000.0
+991742,Altin Zeqiri,Super Lig,M,1100000.0
+1016393,Mithat Pala,Super Lig,M,1700000.0
+1121174,Husniddin Alikulov,Super Lig,D,1500000.0
+863600,Samet Akaydın,Super Lig,D,1300000.0
+904759,Modibo Sagnan,Super Lig,D,2100000.0
+889382,Attila Mocsi,Super Lig,D,2100000.0
+1091815,Emir Ortakaya,Super Lig,D,645000.0
+1394729,Taha Şahin,Super Lig,D,3200000.0
+281233,Casper Højer,Super Lig,D,1100000.0
+1822943,Furkan Orak,Super Lig,D,260000.0
+877977,Yahia Fofana,Super Lig,G,5200000.0
+1066726,Erdem Canpolat,Super Lig,G,545000.0
+1618840,Efe Doğan,Super Lig,G,155000.0
+927649,Jackson Muleka,Super Lig,F,2600000.0
+804405,Blaž Kramer,Super Lig,F,875000.0
+980612,Muhammet Tunahan Taşçı,Super Lig,F,675000.0
+992912,Berkan Kutlu,Super Lig,M,1800000.0
+355024,Enis Bardhi,Super Lig,M,2700000.0
+1004346,Kazeem Olaigbe,Super Lig,M,4200000.0
+357746,Diogo Gonçalves,Super Lig,M,2700000.0
+1019710,Jo Jin-ho,Super Lig,M,740000.0
+988637,Marius Ștefănescu,Super Lig,M,755000.0
+252207,Deniz Türüç,Super Lig,M,640000.0
+1015939,Pedrinho,Super Lig,M,720000.0
+327053,Sander Svendsen,Super Lig,M,665000.0
+921358,Morten Bjørlo,Super Lig,M,950000.0
+310068,Marko Jevtović,Super Lig,M,540000.0
+998462,Melih İbrahimoğlu,Super Lig,M,1900000.0
+859546,Ufuk Akyol,Super Lig,M,535000.0
+2166295,Ismail Esat Buga,Super Lig,M,48000.0
+1108094,Adamo Nagalo,Super Lig,D,2600000.0
+227196,Riechedly Bazoer,Super Lig,D,2400000.0
+929739,Rayyan Baniya,Super Lig,D,1500000.0
+605548,Yhoan Andzouana,Super Lig,D,825000.0
+224112,Guilherme Haubert Sityá,Super Lig,D,310000.0
+1138095,Arif Boşluk,Super Lig,D,725000.0
+787949,Adil Demirbağ,Super Lig,D,2200000.0
+904303,Uğurcan Yazğılı,Super Lig,D,1200000.0
+172331,Josip Ćalušić,Super Lig,D,220000.0
+796555,Yasir Subaşı,Super Lig,D,97000.0
+2128093,Ata Yanık,Super Lig,D,8067730.136468774
+1195772,Deniz Ertaş,Super Lig,G,3400000.0
+807289,Bahadır Han Güngördü,Super Lig,G,570000.0
+1892942,Egemen Aydin,Super Lig,G,3707197.468487395
+822710,Sekou Koita,Super Lig,F,2800000.0
+139228,M'Baye Niang,Super Lig,F,860000.0
+809220,Henry Onyekuru,Super Lig,F,1400000.0
+1127335,Cihan Çanak,Super Lig,F,2400000.0
+2311147,Ayaz Özcan,Super Lig,F,52000.0
+1172372,Adama Malouda Traoré,Super Lig,M,2100000.0
+965015,Franco Tongya,Super Lig,M,1900000.0
+839110,Oghenekaro Etebo,Super Lig,M,290000.0
+904845,Tom Dele-Bashiru,Super Lig,M,1700000.0
+979109,Dal Varešanović,Super Lig,M,1600000.0
+997007,Göktan Gürpüz,Super Lig,M,2100000.0
+1099267,Moussa Kyabou,Super Lig,M,390000.0
+900809,Metehan Mimaroğlu,Super Lig,M,420000.0
+1063942,Oğulcan Ülgün,Super Lig,M,1100000.0
+980608,Samed Onur,Super Lig,M,480000.0
+2434516,Ousmane Diabate,Super Lig,M,10937027.341997264
+873812,Ensar Kemaloğlu,Super Lig,M,280000.0
+807291,Pedro Pereira,Super Lig,D,1100000.0
+257497,Dimitris Goutas,Super Lig,D,950000.0
+863277,Thalisson Kelven,Super Lig,D,720000.0
+355582,Žan Žužek,Super Lig,D,675000.0
+320905,Matěj Hanousek,Super Lig,D,160000.0
+883275,Abdurrahim Dursun,Super Lig,D,240000.0
+904112,Firatcan Üzüm,Super Lig,D,220000.0
+1521846,Umut İslamoğlu,Super Lig,D,45000.0
+2180673,Yiğit Hamza Aydar,Super Lig,D,8067730.136468774
+1995749,Emirhan Ünal,Super Lig,D,24000.0
+992379,Abdullah Sahindere,Super Lig,D,46000.0
+1431436,Arda Cagan Celik,Super Lig,D,8067730.136468774
+845792,Ricardo Velho,Super Lig,G,2600000.0
+997705,Erhan Erentürk,Super Lig,G,235000.0
+945526,Ebrar Yigit Aydin,Super Lig,G,47000.0
+2220751,Berk Deniz Çukurcu,Super Lig,G,3707197.468487395
+149796,Nikola Storm,Super Lig,F,1400000.0
+966663,Samuel Ballet,Super Lig,F,2200000.0
+797732,Yohan Boli,Super Lig,F,935000.0
+2266453,Bachir Gueye,Super Lig,F,105000.0
+1839258,Kerem Kayaarasi,Super Lig,F,47000.0
+1961825,Berkay Topdemir,Super Lig,F,46000.0
+826155,Abdülkadir Ömür,Super Lig,M,2000000.0
+848385,Dario Šarić,Super Lig,M,665000.0
+186949,Ramzi Safuri,Super Lig,M,870000.0
+220155,Sander van de Streek,Super Lig,M,620000.0
+1021269,Jesper Ceesay,Super Lig,M,1100000.0
+2031279,Hasan Yakub İlçin,Super Lig,M,315000.0
+796114,Doğukan Sinik,Super Lig,M,1000000.0
+847782,Soner Dikmen,Super Lig,M,775000.0
+233856,Lautaro Giannetti,Super Lig,D,1500000.0
+295495,Georgiy Dzhikiya,Super Lig,D,1600000.0
+285997,Kenneth Paal,Super Lig,D,2600000.0
+967214,Bünyamin Balcı,Super Lig,D,2300000.0
+913994,Hüseyin Türkmen,Super Lig,D,275000.0
+98276,Veysel Sarı,Super Lig,D,97000.0
+142541,Erdoğan Yeşilyurt,Super Lig,D,425000.0
+1148625,Samet Karakoc,Super Lig,D,515000.0
+790783,Bahadır Öztürk,Super Lig,D,210000.0
+1931456,Ege Izmirli,Super Lig,D,8067730.136468774
+2203587,Ensar Bugra Tivsiz,Super Lig,D,8067730.136468774
+217110,Julián Cuesta,Super Lig,G,240000.0
+827515,Abdullah Yiğiter,Super Lig,G,415000.0
+1418111,Kağan Arıcan,Super Lig,G,135000.0
+72127,Cenk Tosun,Super Lig,F,450000.0
+928295,Adrian Benedyczak,Super Lig,F,2400000.0
+880778,Pape Habib Gueye,Super Lig,F,1600000.0
+1000187,Yusuf Barası,Super Lig,F,970000.0
+828953,Kubilay Kanatsızkuş,Super Lig,F,540000.0
+226986,İrfan Can Kahveci,Super Lig,M,3600000.0
+142619,Kerem Demirbay,Super Lig,M,1300000.0
+1130115,Eyüp Aydın,Super Lig,M,825000.0
+919225,Mortadha Ben Ouanes,Super Lig,M,1400000.0
+254979,Haris Hajradinović,Super Lig,M,1600000.0
+796374,Fousseni Diabaté,Super Lig,M,875000.0
+988632,Jim Allevinah,Super Lig,M,1100000.0
+932856,Andri Baldursson,Super Lig,M,1500000.0
+110956,Cafú,Super Lig,M,310000.0
+910091,Ali Yavuz Kol,Super Lig,M,290000.0
+993902,Erdem Çetinkaya,Super Lig,M,105000.0
+1932111,Burak Gultekin,Super Lig,M,145000.0
+880207,Rodrigo Becão,Super Lig,D,2600000.0
+2018238,Adem Arous,Super Lig,D,970000.0
+885683,Nicholas Opoku,Super Lig,D,1500000.0
+931743,Godfried Frimpong,Super Lig,D,2200000.0
+155998,Cláudio Winck,Super Lig,D,850000.0
+190191,Emre Taşdemir,Super Lig,D,91000.0
+124728,Kamil Ahmet Çörekçi,Super Lig,D,96000.0
+1498789,Taylan Utku Aydın,Super Lig,D,275000.0
+1931424,Berkay Muratoğlu,Super Lig,D,48000.0
+2430362,Ahmet Taha Dağbaşı,Super Lig,D,8067730.136468774
+236746,Andreas Gianniotis,Super Lig,G,385000.0
+840297,Ali Emre Yanar,Super Lig,G,110000.0
+2028660,Ege Albayrak,Super Lig,G,3707197.468487395
+1912907,Şant Kazancı,Super Lig,G,3707197.468487395
+814599,Fedor Chalov,Super Lig,F,4600000.0
+928418,German Onugkha,Super Lig,F,1700000.0
+985412,Indrit Tuci,Super Lig,F,770000.0
+1088715,Talha Sariarslan,Super Lig,F,515000.0
+976993,Nurettin Korkmaz,Super Lig,F,105000.0
+354558,László Bénes,Super Lig,M,2600000.0
+836686,Burak Kapacak,Super Lig,M,195000.0
+1136727,Sam Mather,Super Lig,M,110000.0
+802850,Youssef Aït Bennasser,Super Lig,M,1000000.0
+859748,Carlos Mané,Super Lig,M,845000.0
+344009,Miguel Cardoso,Super Lig,M,1400000.0
+857376,João Mendes,Super Lig,M,1200000.0
+955978,Denis Makarov,Super Lig,M,1400000.0
+796133,Dorukhan Toköz,Super Lig,M,870000.0
+795001,Görkem Sağlam,Super Lig,M,950000.0
+226992,Furkan Soyalp,Super Lig,M,380000.0
+781408,Ramazan Civelek,Super Lig,M,825000.0
+1035954,Yiğit Emre Çeltik,Super Lig,M,53000.0
+1011955,Mehmet Eray Özbek,Super Lig,M,270000.0
+359332,Majid Hosseini,Super Lig,D,770000.0
+1142702,Jadel Katongo,Super Lig,D,390000.0
+97404,Stefano Denswil,Super Lig,D,760000.0
+296438,Joshua Brenet,Super Lig,D,1100000.0
+325155,Semih Güler,Super Lig,D,930000.0
+122922,Lionel Carole,Super Lig,D,315000.0
+1982283,Kayra Cihan,Super Lig,D,105000.0
+900798,Abdulsamet Burak,Super Lig,D,105000.0
+1550760,Deniz Eren Dönmezer,Super Lig,G,960000.0
+825850,Bilal Bayazit,Super Lig,G,1600000.0
+213542,Onurcan Piri,Super Lig,G,210000.0
+869839,Umut Bozok,Super Lig,F,1200000.0
+896596,Lenny Pintor,Super Lig,F,195000.0
+957798,Metehan Altunbaş,Super Lig,F,275000.0
+2460449,Abdou Sy,Super Lig,F,10854111.235294119
+2266454,Christ Sadia,Super Lig,F,110000.0
+1064080,Mateusz Łęgowski,Super Lig,M,1900000.0
+954090,Ángel Torres,Super Lig,M,310000.0
+343527,Emre Akbaba,Super Lig,M,515000.0
+335317,Dorin Rotariu,Super Lig,M,270000.0
+2169898,Ismaila Manga,Super Lig,M,10937027.341997264
+1215110,Baran Ali Gezek,Super Lig,M,1100000.0
+171911,Taşkın Ilter,Super Lig,M,160000.0
+1622183,Charles-Andre Raux Yao,Super Lig,M,245000.0
+988906,Calegari,Super Lig,D,2400000.0
+580750,Jérôme Onguene,Super Lig,D,260000.0
+998209,Luccas Claro,Super Lig,D,185000.0
+609746,Umut Meraş,Super Lig,D,430000.0
+2266455,Gilbert Mendy,Super Lig,D,49000.0
+1102676,Denis Radu,Super Lig,D,390000.0
+2169895,Diabel Ndoye,Super Lig,D,8067730.136468774
+1084164,Talha Ülvan,Super Lig,D,290000.0
+999646,Seyfettin Anıl Yaşar,Super Lig,D,365000.0
+1138102,Bedirhan Özyurt,Super Lig,D,145000.0
+1618417,Arda Yavuz,Super Lig,D,46000.0
+358524,Marcos Felipe,Super Lig,G,1900000.0
+1210422,Jankat Yılmaz,Super Lig,G,880000.0
+2477769,Umut Keseci,Super Lig,G,52000.0
+605580,Daniele Verde,Super Lig,F,730000.0
+1134447,Tiago Cukur,Super Lig,F,375000.0
+2430477,Ahmed Traore,Super Lig,F,270000.0
+1534046,Baris Kalayci,Super Lig,F,630000.0
+2430490,Abdul Kader Moussa Kone,Super Lig,F,92000.0
+2018983,Tarik Bugra Kalpakli,Super Lig,F,205000.0
+941378,Ahmet Sivri,Super Lig,F,270000.0
+997165,Bartuğ Elmaz,Super Lig,M,1500000.0
+295159,Matías Kranevitter,Super Lig,M,745000.0
+849301,Serginho,Super Lig,M,580000.0
+229800,Sam Larsson,Super Lig,M,675000.0
+806964,Berkay Özcan,Super Lig,M,1600000.0
+291237,Daniel Johnson,Super Lig,M,375000.0
+317677,João Camacho,Super Lig,M,310000.0
+2462525,Yaya Onogo,Super Lig,M,10937027.341997264
+1082393,Tuğbey Akgün,Super Lig,M,110000.0
+126680,Filip Mladenović,Super Lig,D,360000.0
+221566,Igor Lichnovsky,Super Lig,D,775000.0
+97000,Ricardo Esgaio,Super Lig,D,845000.0
+233252,Davide Biraschi,Super Lig,D,415000.0
+962620,Çağtay Kurukalıp,Super Lig,D,550000.0
+1198959,Anıl Yiğit Çınar,Super Lig,D,210000.0
+1640309,Burhan Ersoy,Super Lig,D,97000.0
+2044133,Muhammed Kadıoğlu,Super Lig,D,110000.0
+807093,Fatih Kurucuk,Super Lig,D,265000.0
+283847,Ivo Grbić,Super Lig,G,1200000.0
+934507,Furkan Bekleviç,Super Lig,G,270000.0
+1634332,Kerem Yandal,Super Lig,G,3707197.468487395
+2201957,Berke Can Evli,Super Lig,G,3707197.468487395
